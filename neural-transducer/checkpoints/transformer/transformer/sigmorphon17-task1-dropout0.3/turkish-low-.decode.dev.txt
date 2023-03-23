@@ -1,0 +1,25 @@
+dev 
+
+0-prediction:  
+k a d ı n Noun A3sg Pnon Nom   , Punct   k a Noun A3sg Pnon Gen   g ü n Noun A3sg P3sg Gen   d u t ü Adj   , Punct   a Conj   s e n Pron Pers A2sg Pnon Gen   ö t Adj^DB Noun Ness A3sg Pnon Nom   a l Adj   k a ş Noun A3pl Pnon Nom   a y a t Noun A3pl Pnon Nom   , Punct   d a n c ı Noun A3sg Pnon Dat   k a r ş ı Postp PCDat   ş i d d e t Noun A3sg Pnon Nom^DB Adj With   b i r Det   d ö t Noun A3sg Pnon Nom^DB Noun A3sg Pnon Nom^DB Adj With   k a Conj   b i r s Noun A3sg Pnon Ins   o k i t Verb Zero A3sg Pnon Nom   k a n ç Noun A3sg Pnon Nom^DB Noun Ness A3sg Pnon Nom   v a ğ m a ğ m a s e s e s Noun A3pl Pnon Nom   i ş i t Verb Pos Prog1 Past A3sg   . Punct   . Punct
+0-target:  
+<UNK> Punct   <UNK> <UNK> Num Card   ş a m p i y o n Noun A3sg Pnon Nom^DB Verb Zero Pres A1pl   h ü r r i y e t Noun A3sg Pnon Nom   <UNK> Punct   <UNK> <UNK> Num Card   ş a m p i y o n Noun A3sg Pnon Nom^DB Verb Zero Pres A1pl   A l i Noun Prop A3sg Pnon Nom   <UNK> a c i Noun Prop A3sg Pnon Nom   k ü ç ü k Adj   G a l a t a s a r a y Noun Prop A3sg Pnon Nom   t e k n i k Noun A3sg Pnon Nom   d i r e k t ö r Noun A3sg P3sg Nom   , Punct   " Punct   ş a n s Noun A3sg <UNK> Acc   s o n Noun A3sg P3sg Dat   k a d a r Postp PCDat   z o r l a Verb Pos^DB Adj PastPart <UNK>   z a m a n Noun A3sg Pnon Nom   , Punct   i b r e Noun A3sg Pnon Nom   s i z Pron Pers <UNK> Pnon Gen   t a r a f Noun A3sg <UNK> Dat   d ö n Verb Pos^DB Verb Able Aor A3sg   . Punct
+loss: 7.572073936462402 ,dist: 179
+
+1-prediction:  
+a r a z Noun A3sg Pnon Nom   v e r Verb Pos^DB Noun PastPart A3sg P3sg Acc   , Punct   s o y s o r u Noun A3sg Pnon Loc^DB Verb Zero Pres A1sg   d i y e Postp PCNom   c e v a p Noun A3sg Pnon Nom   v e r Verb Pos Past A3sg   d e l i k a n l ı Noun A3sg Pnon Nom   , Punct   " Punct   v e Conj   " Punct   d i y e Postp PCNom   y a n ı k Adj   k Noun A3sg Pnon Nom^DB Adj With   b i r Det   b i r Det   . Punct
+1-target:  
+h ı r s Noun A3sg Pnon Nom^DB Adj With   v e Conj   a r z u Noun A3sg Pnon Nom^DB Adj <UNK> Verb Zero Past A1pl   , Punct   s o n Adj   s a n i y e Noun A3sg Pnon Dat   k a d a r Postp PCDat   b u Det   i ş Noun A3sg Pnon Acc   k o v a l a Verb Pos^DB Noun FutPart A3sg <UNK> Abl   e m i n Adj^DB Verb Zero Past A1sg   " Punct   d e Verb Pos Past A3sg   . Punct
+loss: 6.966605186462402 ,dist: 101
+
+2-prediction:  
+g e n ç Adj   k ı z Noun A3sg Pnon Gen   k o l Noun Prop A3sg P3sg Nom   , Punct   g e t ü Noun A3sg P3sg Nom   g e c Verb^DB Verb Pass Pos Narr A3sg   d u r Verb Pos Aor^DB Adverb While   v e Conj   s a Noun A3pl P3sg Nom   s s a ç Noun A3pl P3sg Dat   o y n c a Verb Pos Aor^DB Adverb While   , Punct   d e l i k a n l ı Noun A3sg Pnon Nom   g e r ç e k Adj   v e r Det   i n h a b i r Det   d e Noun A3sg Pnon Nom^DB Noun A3sg P3sg Nom   s k ö z e Adverb   g e l Verb Pos^DB Adverb AfterDoingSo   ç u r Verb Pos Past A3sg   ; Punct   ; Punct   . Punct
+2-target:  
+G a l a t a s a r a y Noun Prop A3sg Pnon Nom   t e k n i k Noun A3sg Pnon Nom   d i r e k t ö r Noun A3sg P3sg Nom   e r i k Noun A3sg Pnon Nom   g e r e t s Noun A3sg Pnon Nom   , Punct   B e ş i k t a ş Noun Prop A3sg Pnon Nom   d e r b i Noun A3sg P3sg Loc   p e n a l t ı Noun A3sg Pnon Nom   k a ç Verb^DB Verb Caus Pos^DB Noun Inf2 A3sg P3pl Dat   g e r i Noun A3sg Pnon Dat   d ü ş Verb Pos^DB Noun Inf2 A3sg P3pl Dat   r a ğ m e n Postp PCDat   k a z a n Verb Pos^DB Noun FutPart A3sg P3pl Dat   d a i r Postp PCDat   i n a n ç Noun A3pl P3sg Gen   s o n Adj   s a n i y e Noun A3sg Pnon Dat   k a d a r Postp PCDat   h i ç Adverb   t ü k e n Verb Neg^DB Noun PastPart A3sg P3sg Acc   s ö y l e Verb Pos Past A3sg   . Punct
+loss: 6.158390045166016 ,dist: 172
+
+3-prediction:  
+b u Det   k a d a n Noun A3sg Pnon Nom   a Noun A3sg P3sg Loc   , Punct   a y n Noun A3sg P3sg Loc   ç Conj   a c e Noun A3sg Pnon Nom   b a ç e r a Noun A3sg P3sg Nom   , Punct   h a f t e Conj   i ş i k a ç e l i k a n Noun A3sg Pnon Nom   , Punct   v e Conj   k o l i k u Noun A3sg P3sg Acc   ç e k Verb Pos^DB Adj PastPart P3sg   o Det   b i r Det   m u h i l e Verb Pos Prog1 A1sg   . Punct
+3-target:  
+B e l ç i k a l ı Noun Prop A3sg Pnon Nom   t e k n i k Adj   a d a m Noun A3sg Pnon Nom   , Punct   s o n Adj   h a f t a Noun A3sg Pnon Dat   a y n ı Adj   p u a n Noun A3sg Pnon Ins   g i r Verb Pos^DB Adj PastPart P3pl   ?   a v e r a <UNK> Noun A3sg Pnon Loc   ü s t ü n Adj   o l Verb Pos^DB Noun PastPart A3sg P3sg Gen   b e l i r Verb^DB Verb <UNK> Verb Pass Pos^DB Noun Inf2 A3sg P3sg Nom   ü z e r Noun A3sg P3sg Dat   , Punct   " Punct   ş a m p i y o n Noun A3sg Pnon Nom^DB Noun Ness A3sg Pnon Nom   ş a n s Noun A3sg <UNK> Nom   <UNK> Punct   <UNK> <UNK> Num Card   " Punct   d e Verb Pos Past A3sg   . Punct   " Punct
+loss: 6.279164791107178 ,dist: 135
