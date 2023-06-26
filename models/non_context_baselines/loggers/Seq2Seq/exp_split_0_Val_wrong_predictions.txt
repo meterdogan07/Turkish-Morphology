@@ -1,0 +1,2750 @@
+True: $+Punct+</s> | Pred: 1+Punct+</s> 
+ 
+True: d+i+p+l+o+m+a+t+Noun+A3pl+P3pl+Nom+</s> | Pred: d+i+p+l+o+m+a+t+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: d+o+l+Verb+Pos+DB+Adverb+When+DB+Noun+Zero+A3sg+Pnon+Dat+</s> | Pred: d+o+l+u+n+c+a+Adverb+PCNom+DB+Noun+Zero+A3sg+Pnon+Dat 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: g+i+b+i+Postp+PCGen+</s> | Pred: g+i+b+i+Postp+PCNom+</s> 
+ 
+True: d+u+y+g+u+s+a+l+Adj+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: d+u+y+g+u+s+A3sg+Pnon+Nom+DB+Adj+With+DB+Verb+Zero+Pres 
+ 
+True: ç+i+z+Verb+Pos+DB+Noun+PastPart+A3sg+P2sg+Nom+</s> | Pred: ç+i+z+Verb+Pos+DB+Adj+PastPart+P2sg+</s>+Nom+</s> 
+ 
+True: m+a+h+z+u+r+Noun+A3sg+P3sg+Nom+</s> | Pred: m+a+h+z+u+r+Adj+DB+Noun+Zero+A3sg 
+ 
+True: b+e+n+c+i+l+Adj+DB+Noun+Ness+A3pl+P3sg+Acc+</s> | Pred: b+e+n+c+i+l+Adj+DB+Noun+Ness+A3pl+P3pl+Acc+</s> 
+ 
+True: d+e+ğ+i+ş+Verb+DB+Verb+Caus+Neg+DB+Noun+PastPart+A3pl+P3pl+Nom+</s> | Pred: d+e+ğ+i+ş+Verb+DB+Verb+Caus+Neg+DB+Adj+PastPart+P3pl+</s>+Nom+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: s+ö+y+l+e+Verb+Pos+DB+Noun+PastPart+A3pl+P3sg+Gen+</s> | Pred: s+ö+y+l+e+Verb+Pos+DB+Noun+PastPart+A3pl+P3pl+Gen+</s> 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: k+ı+s+ı+t+l+a+Verb+DB+Verb+Pass+Pos+Narr+A3sg+</s> | Pred: k+ı+s+ı+t+l+a+Verb+DB+Verb+Pass+Pos+DB+Adj+NarrPart 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: a+i+t+Postp+PCDat+DB+Verb+Zero+Pres+A3pl+</s> | Pred: a+i+t+Postp+DB+Noun+Zero+A3pl+Pnon+Nom+</s> 
+ 
+True: f+e+v+k+a+l+a+d+e+Adj+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: f+e+v+k+a+l+a+d+DB+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+a+l+o+n+Noun+A3sg+Pnon+Loc+DB+Adj+Rel+DB+Noun+Zero+A3pl+Pnon+Acc+</s> | Pred: s+a+l+o+n+Noun+A3sg+Pnon+Loc+DB+Adj+Rel+DB+Noun+Zero+A3pl+P3pl+Nom+</s> 
+ 
+True: e+l+Noun+A3pl+P3sg+Nom+</s> | Pred: e+l+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: f+i+l+d+i+ş+i+Noun+A3sg+P3sg+Abl+</s> | Pred: f+i+l+d+i+ş+i+A3sg+P3sg+Abl+</s>+</s> 
+ 
+True: a+b+a+n+Verb+Pos+DB+Adj+PastPart+P3sg+</s> | Pred: a+b+a+n+d+ı+ğ+Adj+DB+P3sg+</s> 
+ 
+True: d+i+z+e+Noun+A3pl+P3sg+Nom+</s> | Pred: d+i+z+e+Noun+A3pl+P3pl+Acc+</s> 
+ 
+True: s+e+n+d+e+Noun+A3sg+Pnon+Nom+</s> | Pred: s+e+n+d+Pers+A2sg+A3sg+Loc+</s>+</s> 
+ 
+True: a+n+l+a+ş+Verb+Pos+DB+Noun+Inf2+A3sg+P1pl+Abl+</s> | Pred: a+n+l+a+ş+m+a+Noun+A3sg+P1pl+Abl+</s>+Abl+</s> 
+ 
+True: s+o+y+g+u+n+c+u+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: s+o+y+g+u+n+c+u+Pnon+A3sg+Pnon+Noun+DB+Noun+Ness+A3sg+Pnon+Nom+</s> 
+ 
+True: a+ş+a+ğ+ı+Postp+PCAbl+</s> | Pred: a+ş+a+ğ+ı+Noun+A3sg+Pnon 
+ 
+True: s+ö+y+l+e+Verb+Pos+DB+Noun+PastPart+A3pl+P3pl+Dat+</s> | Pred: s+ö+y+l+e+Verb+Pos+DB+Noun+PastPart+A3sg+P3pl+Dat+</s> 
+ 
+True: b+ö+n+Adj+</s> | Pred: b+ö+n+Noun+A3sg 
+ 
+True: b+ö+n+Adj+</s> | Pred: b+ö+n+Noun+A3sg 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: k+e+p+a+z+e+Adj+DB+Noun+Ness+A3sg+P3sg+Nom+</s> | Pred: k+e+p+a+z+e+l+i+k+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: n+ı+z+Noun+A3sg+Pnon+Nom+</s> | Pred: n+ı+z+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: p+y+o+t+r+Noun+A3sg+Pnon+Nom+</s> | Pred: p+y+o+t+Noun+A3sg+A3sg+Nom+</s>+Verb 
+ 
+True: d+e+m+e+n+t+y+i+ç+Noun+A3sg+Pnon+Ins+</s> | Pred: d+e+m+e+n+t+i+i+ç+Noun+A3sg+Pnon+Ins+</s> 
+ 
+True: d+ı+k+Noun+A3sg+Pnon+Nom+</s> | Pred: d+ı+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: a+l+t+ı+Num+Card+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Adj+Without+</s> | Pred: a+l+t+ı+s+A3sg+z+Adj+</s>+Pnon+Nom+</s>+Adj+Without+</s>+</s> 
+ 
+True: g+i+r+Verb+Pos+DB+Noun+PastPart+A3sg+P2pl+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Adj+PastPart+P2pl+</s>+</s>+</s> 
+ 
+True: s+a+d+e+Adj+</s> | Pred: s+a+d+e+Noun+</s> 
+ 
+True: a+ş+k+Noun+A3sg+Pnon+Gen+</s> | Pred: a+ş+k+Noun+A3sg+Noun+A3sg+Pnon 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: r+ü+t+b+e+Noun+A3pl+Pnon+Nom+</s> | Pred: r+ü+t+b+e+l+A3pl+Pnon+Nom+</s> 
+ 
+True: ç+i+r+k+e+f+Adj+DB+Noun+Zero+A3sg+Pnon+Abl+</s> | Pred: ç+i+r+k+e+f+Noun+A3sg+Pnon+Abl+</s>+</s>+</s>+</s> 
+ 
+True: b+i+r+l+i+k+t+e+Adverb+</s> | Pred: b+i+r+l+i+k+t+e+Postp+PCIns 
+ 
+True: y+a+s+t+ı+k+Noun+A3pl+Pnon+Dat+</s> | Pred: y+a+s+Verb+Pos+DB+Noun+PastPart+A3pl+Pnon+Dat 
+ 
+True: ç+e+k+e+c+e+k+Noun+A3sg+P3sg+Nom+</s> | Pred: ç+e+k+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> 
+ 
+True: u+ç+Verb+Pos+Aor+A3sg+DB+Adverb+AsIf+</s> | Pred: u+ç+Verb+Pos+DB+Adj+DB+DB+AsIf+</s> 
+ 
+True: ö+n+s+e+z+i+Noun+A3sg+Pnon+Nom+</s> | Pred: ö+n+s+e+z+i+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: ş+e+k+i+l+Noun+A3sg+P3sg+Loc+</s> | Pred: ş+e+k+i+l+Noun+A3sg+Pnon+Loc+</s> 
+ 
+True: s+e+l+a+m+Noun+A3sg+Pnon+Nom+DB+Verb+Become+Pos+DB+Noun+Inf2+A3sg+Pnon+Dat+</s> | Pred: s+e+l+a+m+l+a+Verb+Become+Pos+DB+Noun+Inf2+A3sg+Pnon+Dat+</s>+Dat+</s>+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: z+a+v+a+l+l+ı+Adj+DB+Noun+Ness+A3sg+Pnon+Acc+</s> | Pred: z+a+v+a+l+l+ı+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s> 
+ 
+True: k+a+r+ı+n+c+a+Noun+A3sg+Pnon+Nom+</s> | Pred: k+a+r+ı+n+c+a+Adverb+</s>+</s>+Nom+</s> 
+ 
+True: k+a+l+a+b+a+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Nom+</s> | Pred: k+a+l+a+b+a+l+ı+k+Noun+A3sg+P3sg+Nom+</s>+</s>+Nom+</s> 
+ 
+True: k+a+n+u+n+Noun+A3pl+P3sg+Nom+</s> | Pred: k+a+n+u+n+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: e+n+g+e+l+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: e+n+g+e+l+Verb+Pos+Past+A3sg+</s>+Verb+Zero+A3sg+</s>+</s> 
+ 
+True: d+i+ş+Noun+A3pl+P3sg+Ins+</s> | Pred: d+i+ş+Noun+A3pl+P3pl+Ins+</s> 
+ 
+True: t+a+k+ı+r+d+a+Verb+Pos+Past+A3sg+</s> | Pred: t+a+k+ı+r+Verb+Pos+Past+A3sg+</s>+</s>+A3sg 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: d+o+k+u+Verb+DB+Verb+Pass+Pos+Fut+A3sg+</s> | Pred: d+o+k+u+Verb+DB+Verb+Pass+Pos+Fut+Adj+</s> 
+ 
+True: m+i+s+a+f+i+r+Noun+A3sg+Pnon+Acc+</s> | Pred: m+i+s+a+f+i+r+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: g+e+r+Verb+Pos+Opt+A3sg+</s> | Pred: g+e+r+e+Noun+A3sg+Pnon+Nom 
+ 
+True: g+e+r+Verb+Pos+Opt+A3sg+</s> | Pred: g+e+r+e+Noun+A3sg+Pnon+Nom 
+ 
+True: t+e+r+a+s+Noun+A3sg+Pnon+Abl+</s> | Pred: t+e+r+a+s+t+A3sg+Pnon+Abl+</s> 
+ 
+True: g+ö+r+Verb+Pos+Opt+A3sg+</s> | Pred: g+ö+r+e+Postp+PCDat+</s>+</s> 
+ 
+True: g+ö+r+Verb+Pos+Opt+A3sg+</s> | Pred: g+ö+r+e+Postp+PCDat+</s>+</s> 
+ 
+True: d+i+ş+i+Adj+DB+Noun+Ness+A3sg+P3sg+Acc+</s> | Pred: d+i+ş+i+l+i+k+Noun+A3sg+P3sg+Acc+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: d+a+y+a+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf1+A3sg+Pnon+Nom+</s> | Pred: d+a+y+a+n+Verb+Pos+DB+Noun+Inf1+A3sg+Pnon+Nom+</s>+Nom+</s> 
+ 
+True: a+l+a+k+a+Noun+A3sg+Pnon+Nom+</s> | Pred: a+l+a+k+a+Noun+A3sg+Dat+Nom+</s> 
+ 
+True: y+a+k+ı+n+Adj+DB+Noun+Ness+A3sg+Pnon+Gen+</s> | Pred: y+a+k+ı+n+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: k+ü+m+e+s+Noun+A3sg+Pnon+Abl+</s> | Pred: k+ü+m+e+s+t+A3sg+Pnon+Abl+</s> 
+ 
+True: b+u+t+Noun+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: b+u+t+l+u+Noun+A3sg+Pnon+Nom+</s>+</s> 
+ 
+True: o+d+u+n+Noun+A3sg+Pnon+Nom+</s> | Pred: o+Pron+Pers+A3sg+Pnon+Gen+</s>+Nom+</s> 
+ 
+True: b+e+y+a+z+Adj+</s> | Pred: b+e+y+a+z+Noun+A3sg 
+ 
+True: b+ü+t+ü+n+Noun+A3sg+Pnon+Nom+</s> | Pred: b+ü+t+ü+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: d+ü+ş+k+ü+n+Adj+DB+Verb+Zero+Past+A1pl+</s> | Pred: d+ü+ş+k+ü+Noun+A3sg+P2sg+Nom+DB+Verb+Zero+Past 
+ 
+True: k+a+r+ş+ı+l+a+ş+m+a+Noun+A3pl+P1pl+Loc+DB+Adj+Rel+</s> | Pred: k+a+r+ş+ı+l+a+ş+Verb+Pos+DB+Noun+Inf2+A3pl+P1pl+Loc+DB+Adj 
+ 
+True: b+a+k+Verb+DB+Verb+Recip+Pos+DB+Noun+Inf2+A3pl+P1pl+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: b+a+k+ı+ş+Verb+Pos+DB+Noun+Inf2+A3pl+P1pl+Nom+</s>+Verb+Zero+Past+A3sg+</s>+</s> 
+ 
+True: a+r+a+Noun+A3sg+P1sg+Nom+</s> | Pred: a+r+a+Verb+Pos+DB+Noun+</s> 
+ 
+True: t+a+n+ı+Verb+DB+Verb+Able+Neg+DB+Adj+FutPart+Pnon+</s> | Pred: t+a+n+ı+Verb+DB+Verb+Able+Neg+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: s+a+h+i+p+Noun+A3pl+P3sg+Gen+</s> | Pred: s+a+h+i+p+Noun+A3pl+P3pl+Gen+</s> 
+ 
+True: ş+a+ş+m+a+z+Adj+</s> | Pred: ş+a+ş+m+a+z+Noun+A3sg 
+ 
+True: e+k+Verb+DB+Verb+Pass+Pos+Narr+A3sg+</s> | Pred: e+k+i+l+Verb+Pass+Narr+A3sg+</s>+</s> 
+ 
+True: ş+a+ş+k+ı+n+Adj+DB+Verb+Zero+Pres+A2pl+Cop+</s> | Pred: ş+a+ş+k+ı+n+Adj+DB+Noun+Zero+A3sg+Pnon+Nom+DB 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: k+ö+r+p+e+Adj+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Noun+Dim+A3sg+Pnon+Nom+</s> | Pred: k+ö+r+p+e+c+i+k+Noun+A3sg+Pnon+Nom+</s>+Pnon+Nom+</s>+Pnon+Nom+</s> 
+ 
+True: a+l+ç+a+l+Verb+Pos+Prog1+A3sg+</s> | Pred: a+l+ç+a+l+a+Verb+Pos+Prog1+A3sg 
+ 
+True: p+e+ş+i+s+ı+r+Noun+A3sg+Pnon+Dat+</s> | Pred: p+e+ş+i+s+a+r+a+Adj+</s>+Pnon+Nom 
+ 
+True: r+ı+h+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A1sg+</s> | Pred: r+ı+h+t+ı+m+Noun+A3sg+Pnon+Nom+</s>+A3sg+Nom 
+ 
+True: k+a+r+ş+ı+Adj+</s> | Pred: k+a+r+ş+ı+Postp+PCDat 
+ 
+True: ç+e+v+i+k+Adj+DB+Noun+Ness+A3sg+Pnon+Ins+</s> | Pred: ç+e+v+i+k+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg 
+ 
+True: s+ö+z+Noun+A3pl+Pnon+Acc+</s> | Pred: s+ö+z+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: e+t+Verb+Pos+DB+Noun+PastPart+A3sg+P1sg+Nom+</s> | Pred: e+t+Verb+Pos+DB+Adj+PastPart+P1sg+</s>+Nom+</s> 
+ 
+True: e+s+m+e+r+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: e+s+Verb+e+r+Noun+Pos+Past+A3sg+</s>+Verb+Zero+Past+</s>+</s> 
+ 
+True: v+a+r+Verb+Pos+Past+A2pl+</s> | Pred: v+a+r+Adj+DB+Verb+Zero+Past 
+ 
+True: u+l+u+Adj+</s> | Pred: u+l+Noun+A3sg+P3sg 
+ 
+True: s+ı+k+ı+l+g+ı+n+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: s+ı+k+ı+l+g+ı+n+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s>+Noun+Ness+A3sg 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: k+a+n+a+a+t+Noun+A3sg+Pnon+Dat+</s> | Pred: k+a+n+a+a+t+e+Noun+A3sg+Dat+</s> 
+ 
+True: a+ş+Verb+Pos+DB+Adverb+When+</s> | Pred: a+ş+ı+n+c+a+Adverb+</s> 
+ 
+True: a+n+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: a+n+Noun+A3sg+A3sg+Nom+</s>+</s> 
+ 
+True: m+ü+s+t+e+h+c+e+n+Adj+</s> | Pred: m+ü+s+t+e+h+h+e+n+Noun+A3sg 
+ 
+True: a+y+ı+r+Verb+DB+Verb+Pass+Neg+Aor+A3sg+</s> | Pred: a+y+r+ı+Verb+DB+Verb+Pass+Neg+Aor+A3sg+</s> 
+ 
+True: o+t+u+r+Verb+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: o+t+u+r+Verb+Pos+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: b+a+ş+Noun+A3sg+P3pl+Acc+</s> | Pred: b+a+ş+Noun+A3pl+P3pl+Acc+</s> 
+ 
+True: k+a+r+y+o+l+a+Noun+A3pl+Pnon+Acc+</s> | Pred: k+a+r+y+o+l+a+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: p+u+l+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Acc+</s> | Pred: p+u+l+l+u+k+Noun+A3sg+P3sg+Nom+</s>+</s>+Nom+</s> 
+ 
+True: a+ç+ı+k+h+a+v+a+Noun+A3sg+Pnon+Nom+</s> | Pred: a+ç+ı+k+h+a+v+DB+Noun+Noun+A3sg+Pnon+Dat 
+ 
+True: y+ü+z+Num+Card+DB+Noun+Zero+A3sg+P1sg+Loc+</s> | Pred: y+ü+z+Noun+A3sg+P1sg+Loc+</s>+A3sg+Loc+</s>+</s> 
+ 
+True: ç+e+n+e+Noun+A3sg+P1sg+Abl+</s> | Pred: ç+e+n+e+m+Noun+A3sg+Pnon+Abl 
+ 
+True: s+a+h+i+Adverb+</s> | Pred: s+a+h+i+Noun+A3sg 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: a+ş+a+ğ+ı+Postp+PCAbl+</s> | Pred: a+ş+a+ğ+ı+Noun+A3sg+Pnon 
+ 
+True: b+a+ş+Noun+A3pl+P3sg+Nom+</s> | Pred: b+a+ş+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: t+o+z+Noun+A3pl+Pnon+Acc+</s> | Pred: t+o+z+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: ş+e+f+t+a+l+i+Adj+</s> | Pred: ş+e+f+t+a+l+i+Noun+A3sg 
+ 
+True: s+a+k+l+a+Verb+Pos+Aor+A1pl+</s> | Pred: s+a+k+Noun+A3pl+Pnon+Nom+DB+Verb+Zero 
+ 
+True: ç+ı+k+Verb+Pos+Imp+A2sg+</s> | Pred: ç+ı+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: k+ö+t+ü+m+s+e+r+Adj+</s> | Pred: k+ö+t+ü+m+s+e+r+Noun+A3sg 
+ 
+True: s+ı+r+t+Noun+A3pl+P3pl+Nom+</s> | Pred: s+ı+r+t+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: t+o+p+l+a+Verb+Pos+Aor+A3pl+</s> | Pred: t+o+p+l+a+Verb+Pos+DB+Adj+AorPart 
+ 
+True: u+y+u+Verb+Pos+Aor+A3sg+</s> | Pred: u+y+u+Verb+Pos+A3sg+</s>+</s> 
+ 
+True: e+l+Noun+A3pl+P3sg+Nom+</s> | Pred: e+l+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: p+a+p+a+z+Noun+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: p+a+p+a+z+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> 
+ 
+True: h+a+t+ı+r+l+a+Verb+Pos+Aor+A3sg+</s> | Pred: h+a+t+ı+r+Noun+A3pl+Pnon+Nom+</s>+Verb+Zero 
+ 
+True: r+i+c+h+a+r+d+Noun+A3sg+Pnon+Abl+</s> | Pred: r+i+c+h+a+r+Noun+A3sg+Pnon+Abl+</s>+</s> 
+ 
+True: y+a+r+a+Verb+Neg+Aor+A3sg+</s> | Pred: y+a+r+Verb+DB+Verb+Aor+Neg+Aor 
+ 
+True: m+u+m+Noun+A3sg+Pnon+Gen+</s> | Pred: m+u+m+Pres+A3sg+</s>+Gen+</s> 
+ 
+True: k+a+r+Noun+A3pl+P3sg+Nom+</s> | Pred: k+a+r+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: d+i+k+k+a+t+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Adj+AsIf+</s> | Pred: d+i+k+k+a+t+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Noun+AsIf+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: b+e+y+Noun+A3sg+P3sg+Nom+</s> | Pred: b+e+y+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: k+ı+y+Verb+DB+Verb+Able+Neg+Aor+A1sg+</s> | Pred: k+ı+y+a+Verb+Pos+DB+Noun+Inf2+A3sg+Nom 
+ 
+True: d+ü+z+i+n+e+Noun+A3sg+Pnon+Nom+</s> | Pred: d+ü+z+i+n+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: g+ö+r+Verb+Pos+DB+Noun+Inf2+A3sg+P1sg+Nom+</s> | Pred: g+ö+r+Verb+Neg+Aor+A1sg+</s>+A3sg+P1sg+Nom+</s> 
+ 
+True: t+ı+r+m+a+n+Verb+Neg+Aor+A1sg+</s> | Pred: t+ı+r+m+a+n+Verb+Pos+DB+Noun+Inf2 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: i+s+t+e+r+Conj+</s> | Pred: i+s+t+e+Verb+Pos+Aor 
+ 
+True: b+e+n+Pron+Pers+A1sg+Pnon+Abl+</s> | Pred: b+e+n+Pron+Pers+A1sg+Pnon+A3sg+Pnon 
+ 
+True: g+o+d+e+f+r+o+y+3+4+Noun+A3sg+Pnon+Nom+</s> | Pred: g+o+d+e+r+f+o+o+y+u+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: p+a+s+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+Narr+A3sg+</s> | Pred: p+a+s+l+a+Verb+DB+Verb+Pass+Pos+Narr+A3sg+</s>+</s> 
+ 
+True: m+e+z+a+r+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: m+e+z+a+r+l+ı+k+Noun+A3sg+Pnon+Nom+</s>+Pnon+</s>+</s> 
+ 
+True: i+ş+ç+i+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Ins+</s> | Pred: i+ş+ç+i+l+i+k+Noun+A3sg+Pnon+Ins+</s>+Nom+</s>+</s> 
+ 
+True: i+n+c+e+l+i+k+Noun+A3sg+Pnon+Nom+</s> | Pred: i+n+c+e+l+i+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: h+i+l+e+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3sg+Pnon+Nom+</s> | Pred: h+i+l+e+c+i+Noun+A3sg+Pnon+Nom+</s>+</s>+Pnon+</s>+</s> 
+ 
+True: h+a+r+e+m+Noun+A3sg+Pnon+Dat+</s> | Pred: h+a+r+e+m+Noun+Noun+Pnon+Dat+</s> 
+ 
+True: h+a+r+e+m+a+ğ+a+s+ı+Noun+A3sg+P3sg+Nom+</s> | Pred: h+a+r+e+m+a+ğ+a+Noun+A3sg+P3sg+Nom+</s>+Nom+Zero 
+ 
+True: s+u+Noun+A3sg+Pnon+Nom+DB+Adj+Without+DB+Noun+Ness+A3sg+P1pl+Acc+</s> | Pred: s+u+s+u+z+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P1pl+Acc+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+u+b+a+y+Noun+A3sg+P3sg+Nom+</s> | Pred: s+u+b+a+Noun+A3sg+Pnon+Acc+</s>+</s> 
+ 
+True: s+a+f+Adj+DB+Noun+Ness+A3sg+Pnon+Ins+</s> | Pred: s+a+f+l+DB+Noun+Ness+A3sg+Pnon+Ins+</s> 
+ 
+True: b+e+y+a+z+Adj+</s> | Pred: b+e+y+a+z+Noun+A3sg 
+ 
+True: y+ü+z+Noun+A3pl+P3sg+Nom+</s> | Pred: y+ü+z+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: h+a+n+ç+e+r+Noun+A3sg+Pnon+Dat+</s> | Pred: h+a+n+ç+e+r+e+Noun+A3sg+Pnon+Nom 
+ 
+True: v+e+b+a+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Noun+Zero+A3pl+Pnon+Gen+</s> | Pred: v+e+b+a+l+Noun+Noun+A3pl+Pnon+</s>+</s>+Adj+DB+Noun+Zero+A3pl+Pnon+Gen 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: t+a+ş+ı+n+Verb+Pos+Past+A3pl+</s> | Pred: t+a+ş+ı+Verb+DB+Verb+Pass+Pos+Past 
+ 
+True: a+r+t+Noun+A3sg+P3sg+Abl+</s> | Pred: a+r+d+ı+n+d+a+n 
+ 
+True: t+ü+b+e+r+k+ü+l+o+z+Noun+A3sg+Pnon+Dat+</s> | Pred: t+ü+b+e+r+k+ü+l+o+z+Noun+Noun+Pnon+Dat+</s> 
+ 
+True: ç+u+d+r+Noun+A3sg+Pnon+Dat+</s> | Pred: ç+u+d+r+a+Noun+A3sg+Pnon+Nom 
+ 
+True: k+a+r+ş+ı+l+a+ş+t+ı+r+Verb+DB+Verb+Pass+Pos+Prog1+Past+A3sg+</s> | Pred: k+a+r+ş+ı+l+a+ş+Verb+DB+Verb+Caus+DB+Verb+Pass+Pos+Prog1+Past+A3sg+</s> 
+ 
+True: k+l+i+Noun+A3sg+P1sg+Nom+</s> | Pred: k+l+i+m+Noun+A3sg+Pnon+Nom 
+ 
+True: p+e+n+ç+e+Noun+A3pl+P3pl+Abl+</s> | Pred: p+e+n+c+e+Noun+A3pl+P3sg+Abl+</s> 
+ 
+True: a+y+d+ı+n+Adj+DB+Noun+Ness+A3pl+Pnon+Nom+</s> | Pred: a+y+d+ı+n+l+DB+Noun+Ness+A3pl+Pnon+Nom+</s> 
+ 
+True: a+r+t+ı+k+Noun+A3pl+P3sg+Nom+</s> | Pred: a+r+t+ı+k+Adj+DB+Noun+Zero+A3pl 
+ 
+True: t+a+n+ı+d+ı+k+Noun+A3pl+Pnon+Nom+</s> | Pred: t+a+n+ı+Verb+Pos+DB+Noun+PastPart+A3pl+Pnon+Nom 
+ 
+True: ü+s+t+Noun+A3pl+P3sg+Nom+</s> | Pred: ü+s+t+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: g+ö+z+Noun+A3pl+P3pl+Nom+</s> | Pred: g+ö+z+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+e+z+Verb+Pos+Aor+A3sg+</s> | Pred: s+e+z+e+r+Noun+A3sg+Pnon 
+ 
+True: b+a+c+a+k+Noun+A3pl+P3sg+Acc+</s> | Pred: b+a+c+a+k+Noun+A3pl+P3pl+Acc+</s> 
+ 
+True: s+a+ğ+l+a+m+Adj+DB+Adverb+Ly+</s> | Pred: s+a+ğ+l+a+m+c+a+Adj+</s>+</s> 
+ 
+True: p+a+r+l+a+Verb+Pos+Aor+Past+A3sg+</s> | Pred: p+a+r+Noun+A3pl+Pnon+Nom+DB+Verb+Zero+Past 
+ 
+True: s+o+n+r+a+Postp+PCAbl+</s> | Pred: s+o+n+r+a+Postp+</s>+</s> 
+ 
+True: a+y+ı+r+Verb+DB+Verb+Pass+Neg+Aor+Past+A3sg+</s> | Pred: a+y+ı+r+l+DB+Verb+Pass+Neg+Aor+Past+A3sg+</s> 
+ 
+True: a+r+s+e+n+i+k+Noun+A3sg+Pnon+Nom+</s> | Pred: a+r+s+e+n+i+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: v+e+s+o+f+ç+i+k+o+f+Noun+A3sg+Pnon+Nom+</s> | Pred: v+e+s+o+f+ç+i+f+i+f+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: i+n+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Ins+</s> | Pred: i+n+Noun+A3sg+Noun+A3sg+Pnon+Ins+</s>+Nom+</s> 
+ 
+True: b+a+y+ı+r+Noun+A3sg+Pnon+Gen+</s> | Pred: b+a+y+ı+r+Verb+Pos+Imp+A2pl+</s> 
+ 
+True: s+e+r+k+e+ş+Adj+DB+Adverb+Ly+</s> | Pred: s+e+r+k+e+ş+Verb+Pos+DB+A3sg+</s> 
+ 
+True: y+a+n+s+ı+Verb+DB+Verb+Caus+Neg+DB+Noun+PastPart+A3pl+P3pl+Nom+</s> | Pred: y+a+n+s+ı+Verb+DB+Verb+Caus+Neg+DB+Adj+PastPart+P3pl+</s>+Nom+</s> 
+ 
+True: a+n+l+a+t+Verb+Pos+Neces+A1pl+</s> | Pred: a+n+l+a+Verb+DB+Verb+Caus+Pos+Neces 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: t+e+h+d+i+t+k+a+r+Adj+</s> | Pred: t+e+h+d+i+t+Noun+a+r+Noun+A3sg 
+ 
+True: y+e+Verb+Pos+DB+Noun+FeelLike+A3sg+Pnon+Nom+</s> | Pred: y+e+Verb+Pos+DB+A3sg+</s>+Nom+</s>+Nom+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: b+a+b+a+Noun+A3sg+P2sg+Nom+</s> | Pred: b+a+b+a+n+Noun+A3sg+Pnon+Nom 
+ 
+True: k+a+l+Verb+DB+Verb+Caus+Pos+Imp+A2pl+</s> | Pred: k+a+l+d+DB+Verb+Caus+Pos+Imp+A2pl+</s> 
+ 
+True: b+a+ş+Noun+A3sg+P3pl+Acc+</s> | Pred: b+a+ş+Noun+A3pl+P3pl+Acc+</s> 
+ 
+True: k+a+l+d+ı+r+Verb+Pos+DB+Adverb+AfterDoingSo+</s> | Pred: k+a+l+Verb+DB+Verb+Caus+Pos+DB+Adverb+AfterDoingSo+</s> 
+ 
+True: d+ö+n+Verb+Neg+DB+Adj+NarrPart+</s> | Pred: d+ö+n+Verb+Neg+Narr+A3sg+</s>+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: k+a+r+a+r+Noun+A3sg+Pnon+Acc+</s> | Pred: k+a+r+a+r+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: b+a+ş+k+a+Postp+PCAbl+</s> | Pred: b+a+ş+k+a+Adj+</s>+</s> 
+ 
+True: a+ş+a+ğ+ı+Postp+PCAbl+</s> | Pred: a+ş+a+ğ+ı+Noun+A3sg+Pnon 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: k+e+ç+i+Noun+A3pl+Pnon+Acc+</s> | Pred: k+e+ç+i+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: k+e+t+u+m+Adj+</s> | Pred: k+e+t+u+m+Noun+A3sg 
+ 
+True: a+n+l+a+Verb+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: a+n+l+a+Verb+Pos+Fut+Adj+</s>+Pnon+</s> 
+ 
+True: r+o+m+a+t+i+z+m+a+Noun+A3sg+Pnon+Nom+</s> | Pred: r+o+m+a+t+i+z+m+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: ç+a+l+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Cond+A3sg+</s> | Pred: ç+a+l+Verb+Pos+Desr+A3sg+</s>+</s>+</s>+Nom+Verb+Zero 
+ 
+True: ö+l+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> | Pred: ö+l+e+c+e+k+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: i+s+t+i+s+n+a+Noun+A3sg+Pnon+Nom+</s> | Pred: i+s+t+i+n+n+a+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: u+z+m+a+n+Adj+DB+Verb+Become+Pos+DB+Noun+Inf2+A3sg+P3sg+Nom+</s> | Pred: u+z+m+a+n+Noun+A3sg+Pnon+Nom+DB+Verb+Become+Pos+DB+Noun+Inf2+A3sg 
+ 
+True: z+ı+t+Adj+DB+Noun+Zero+A3pl+P3sg+Nom+</s> | Pred: z+ı+t+Noun+A3pl+P3sg+Nom+</s>+</s>+Nom+</s> 
+ 
+True: f+a+k+i+r+Noun+A3sg+P3sg+Nom+</s> | Pred: f+a+k+i+r+Noun+Adj+P3sg+Nom+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: ş+ü+p+h+e+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Neg+Neces+A3sg+</s> | Pred: ş+ü+p+h+e+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Neg+DB+Noun+Inf2 
+ 
+True: e+v+v+e+l+s+i+Adj+</s> | Pred: e+v+v+e+l+l+i+Adj+</s> 
+ 
+True: c+e+s+e+t+Noun+A3sg+P1sg+Nom+</s> | Pred: c+e+s+e+t+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: h+a+z+ı+r+Adj+DB+Noun+Zero+A3sg+Pnon+Ins+</s> | Pred: h+a+z+ı+r+l+a+Verb+Pos+Imp+A2sg+</s>+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: y+o+l+l+a+Verb+Pos+DB+Noun+PastPart+A3sg+P2pl+Nom+</s> | Pred: y+o+l+l+a+Verb+Pos+DB+Adj+PastPart+P2pl+</s>+Nom+</s> 
+ 
+True: e+v+v+e+l+s+i+Adj+</s> | Pred: e+v+v+e+l+l+i+Adj+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: y+a+m+a+Noun+A3sg+P2sg+Nom+</s> | Pred: y+a+m+a+n+Noun+A3sg+Nom+Nom 
+ 
+True: ı+s+l+a+Verb+DB+Verb+Pass+Pos+Narr+A2pl+</s> | Pred: ı+s+l+a+n+DB+Verb+Pass+Pos+Narr+A2pl+</s> 
+ 
+True: s+e+n+Pron+Pers+A2sg+Pnon+Nom+DB+Verb+Zero+Pres+A2sg+</s> | Pred: s+e+n+s+Noun+A3sg+Pnon+Gen+</s>+Nom+</s>+Pres+A2sg+</s> 
+ 
+True: d+o+k+u+Verb+DB+Verb+Pass+Pos+Prog1+Narr+A3sg+</s> | Pred: d+o+k+u+n+Verb+Pos+Prog1+Narr+</s>+</s>+</s>+Pnon 
+ 
+True: i+r+k+i+l+Verb+Pos+Prog1+Past+A1sg+</s> | Pred: i+r+k+i+l+e+Pos+Prog1+Past+A1sg+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: e+l+Noun+A3sg+P3pl+Loc+</s> | Pred: e+l+Noun+A3pl+P3pl+Loc+</s> 
+ 
+True: e+m+i+n+Adj+DB+Verb+Zero+Past+A1pl+</s> | Pred: e+m+i+n+Adj+Pos+Past+A1pl+</s>+Verb+Zero 
+ 
+True: m+ü+h+ü+r+Noun+A3sg+P3sg+Nom+</s> | Pred: m+ü+h+r+ü+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: k+a+r+m+a+k+a+r+ı+ş+ı+k+Adj+DB+Verb+Zero+Past+A3sg+</s> | Pred: k+a+r+m+a+k+a+r+ı+ş+ı+ı+Noun+A3sg+Pnon+DB+Verb+Past+A3sg 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+o+n+u+n+c+u+Adj+DB+Noun+Zero+A3sg+P3sg+Loc+</s> | Pred: s+o+n+u+n+Noun+u+Adj+DB+Noun+Zero+A3sg+P3sg+</s>+Loc 
+ 
+True: o+l+Verb+Pos+Desr+Narr+A3sg+</s> | Pred: o+l+Verb+Pos+Desr+Past+A3sg+</s> 
+ 
+True: y+a+n+l+a+Verb+Pos+DB+Adj+AorPart+DB+Noun+Zero+A3sg+Pnon+Abl+</s> | Pred: y+a+n+Noun+A3pl+Pnon+Abl+</s>+Pnon+</s>+</s>+Pnon+Abl+</s>+Pnon+</s>+</s> 
+ 
+True: b+e+y+a+z+Adj+</s> | Pred: b+e+y+a+z+Noun+A3sg 
+ 
+True: s+a+ç+Noun+A3pl+Pnon+Acc+</s> | Pred: s+a+ç+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: h+a+r+c+a+Verb+Pos+Aor+DB+Adverb+While+</s> | Pred: h+a+r+c+a+k+Adj+DB+DB+Zero+DB+Adverb 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: v+a+r+Noun+A3sg+Pnon+Nom+</s> | Pred: v+a+r+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: a+n+l+a+Verb+DB+Verb+Caus+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: a+n+l+a+Verb+DB+Verb+Caus+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: b+a+ş+Noun+A3sg+P3sg+Dat+DB+Verb+Zero+DB+Adverb+While+</s> | Pred: b+a+ş+ı+A3sg+P3sg+Loc+DB+Verb+Zero+DB+Adverb+While+</s> 
+ 
+True: i+ş+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Narr+A3sg+</s> | Pred: i+ş+Verb+Pos+Narr+A3sg+</s>+A3sg+Nom+</s>+</s>+Nom 
+ 
+True: b+i+r+e+r+Noun+A3sg+Pnon+Nom+</s> | Pred: b+i+r+Num+Dist+</s>+</s>+Zero+Pnon+Nom 
+ 
+True: h+i+ç+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A2pl+</s> | Pred: h+i+ç+Noun+i+Noun+A3sg+Nom+Nom+Verb+Verb+Pres+Pres 
+ 
+True: m+a+n+a+s+t+ı+r+Noun+A3sg+Pnon+Abl+</s> | Pred: m+a+n+a+s+t+A3sg+r+Noun+A3sg+Pnon+Abl+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: k+a+r+ı+Noun+A3sg+Pnon+Nom+DB+Noun+Dim+A3sg+P1sg+Nom+</s> | Pred: k+a+r+ı+c+ı+ğ+Adj+DB+Noun+Zero+A3sg+P1sg+Nom+</s> 
+ 
+True: a+l+Verb+Pos+Imp+A2sg+</s> | Pred: a+l+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+e+k+l+e+Noun+A3sg+Pnon+Nom+</s> | Pred: b+e+k+Noun+A3sg+Pnon+Ins+</s>+Nom+</s> 
+ 
+True: y+a+n+ı+l+Verb+Pos+Prog1+A3sg+</s> | Pred: y+a+n+Verb+DB+Verb+Pass+Pos+Prog1+A3sg 
+ 
+True: y+o+k+u+ş+Noun+A3sg+Pnon+Nom+</s> | Pred: y+o+k+Adj+DB+Verb+Zero+Inf3+A3sg+Nom 
+ 
+True: y+a+ğ+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: y+a+ğ+ı+Noun+A3sg+Nom+</s>+</s> 
+ 
+True: m+u+t+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Verb+Zero+Past+A1sg+</s> | Pred: m+u+t+l+u+Adj+DB+Verb+Zero+Past+A1sg+</s>+</s>+A1sg+</s>+Pres 
+ 
+True: b+a+ş+k+a+Postp+PCAbl+</s> | Pred: b+a+ş+k+a+Adj+</s>+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: y+a+ş+l+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: y+a+ş+Noun+A3sg+Pnon+Nom+DB+Adj+With 
+ 
+True: g+ö+z+k+a+p+a+ğ+ı+Noun+A3pl+P3pl+Nom+</s> | Pred: g+ö+z+k+a+p+a+k+ı+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: y+a+r+a+Verb+Pos+Fut+A3sg+</s> | Pred: y+a+r+a+Verb+Pos+Fut+Adj+</s> 
+ 
+True: y+a+ş+l+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: y+a+ş+Noun+A3sg+Pnon+Nom+DB+Adj+With 
+ 
+True: d+i+r+e+n+Verb+Pos+Past+A3sg+</s> | Pred: d+i+r+e+n+Verb+Pos+Pass+Pos+Past 
+ 
+True: ü+ç+Num+Dist+</s> | Pred: ü+ç+e+Dist+Aor 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: k+o+r+k+Verb+Neg+DB+Noun+PastPart+A3sg+P2pl+Nom+</s> | Pred: k+o+r+k+Verb+Neg+DB+Adj+PastPart+P2pl+</s>+Nom+</s> 
+ 
+True: b+e+n+Pron+Pers+A1sg+Pnon+Abl+</s> | Pred: b+e+n+Pron+Pers+A1sg+Pnon+A3sg+Pnon 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: z+i+f+i+r+i+Adj+</s> | Pred: z+i+f+i+r+Noun+A3sg+P3sg 
+ 
+True: ü+ç+Num+Card+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: ü+ç+Num+Card+DB+Noun+Zero+A3sg+P3sg+Nom+DB+Zero+Past+A3sg+</s>+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: b+a+b+a+c+a+n+Adj+</s> | Pred: b+a+b+a+c+a+n+Noun+A3sg 
+ 
+True: k+ı+s+a+s+Noun+A3sg+P3sg+Nom+</s> | Pred: k+ı+s+a+Noun+A3sg+P3sg+Nom+</s>+A3sg 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: a+l+a+y+Noun+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: a+l+a+y+Noun+A3sg+Pnon+A3sg+Pnon+Nom+With+</s> 
+ 
+True: a+l+a+y+l+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: a+l+a+y+Noun+A3sg+Pnon+A3sg+Pnon+Nom+With 
+ 
+True: y+ü+z+Num+Card+DB+Noun+Zero+A3sg+P1pl+Dat+</s> | Pred: y+ü+z+Noun+A3sg+P1pl+Dat+</s>+A3sg+P2pl+Dat+</s> 
+ 
+True: a+ğ+l+a+Verb+Pos+Aor+A3pl+</s> | Pred: a+ğ+l+a+Verb+Pos+DB+Adj+AorPart 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: a+p+t+a+l+Adj+DB+Verb+Zero+Pres+A1sg+</s> | Pred: a+p+t+a+l+Adj+DB+Noun+Zero+Pres+A1sg+Nom 
+ 
+True: 1+9+0+2+Num+Card+DB+Verb+Zero+Pres+Cop+A3sg+</s> | Pred: 1+9+0+0+Num+Card+DB+Verb+Zero+Pres+A3sg+Cop+</s> 
+ 
+True: a+s+s+i+c+u+r+a+z+i+o+n+i+Noun+A3sg+Pnon+Nom+</s> | Pred: a+s+s+i+c+i+z+a+r+i+c+i+Noun+A3sg+P3sg+Nom+</s>+</s> 
+ 
+True: g+e+n+e+r+a+l+Noun+A3sg+Pnon+Acc+</s> | Pred: g+e+n+e+r+a+l+Noun+Noun+P3sg+Nom+</s> 
+ 
+True: b+r+o+t+Noun+A3sg+Pnon+Dat+</s> | Pred: b+r+o+d+Noun+A3sg+Pnon+Dat+</s> 
+ 
+True: e+s+e+r+Noun+A3pl+P3pl+Gen+</s> | Pred: e+s+e+r+Noun+A3pl+P3sg+Gen+</s> 
+ 
+True: m+ü+s+v+e+d+d+e+Noun+A3pl+P3sg+Acc+</s> | Pred: m+ü+s+v+e+t+e+d+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: k+a+l+k+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Nom+DB+Verb+Zero+Cond+A1sg+</s> | Pred: k+a+l+k+ı+ş+Verb+Pos+Desr+A1sg+</s>+A3sg+Nom+Nom+Verb+Zero+Cond+A1sg 
+ 
+True: t+e+m+b+e+l+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: t+e+m+b+e+l+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg 
+ 
+True: ş+i+ş+Verb+DB+Verb+Caus+Pos+Aor+Past+A3sg+</s> | Pred: ş+i+ş+Verb+r+Verb+Caus+Pos+Past+A3sg+</s>+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: a+ş+a+ğ+ı+Postp+PCAbl+</s> | Pred: a+ş+a+ğ+ı+Noun+A3sg+Pnon 
+ 
+True: b+i+l+Verb+Pos+Opt+A3sg+</s> | Pred: b+i+l+Verb+Pos+DB+Adj+PresPart 
+ 
+True: d+u+y+Verb+Pos+DB+Verb+Able+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> | Pred: d+u+Verb+Verb+Pos+DB+Verb+Able+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: a+r+a+Noun+A3pl+P3sg+Loc+</s> | Pred: a+r+a+Noun+A3pl+P3pl+Loc+</s> 
+ 
+True: v+e+r+Verb+Pos+DB+Adj+FutPart+P3sg+</s> | Pred: v+e+r+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg 
+ 
+True: h+ü+k+ü+m+Noun+A3sg+Pnon+Dat+</s> | Pred: h+ü+k+m+m+Noun+A3sg+Pnon+Dat+</s> 
+ 
+True: d+ü+ş+m+a+n+Adj+DB+Adj+AsIf+</s> | Pred: d+ü+ş+m+a+n+Noun+A3sg+Pnon+Equ+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: v+e+r+Verb+DB+Verb+Able+Neg+Narr+A3sg+DB+Adverb+AsIf+</s> | Pred: v+e+r+Verb+DB+Verb+Able+Neg+Narr+Cond+A3sg+</s>+Adverb+AsIf 
+ 
+True: b+e+n+Pron+Pers+A1sg+Pnon+Abl+</s> | Pred: b+e+n+Pron+Pers+A1sg+Pnon+A3sg+Pnon 
+ 
+True: s+a+l+i+m+Adj+</s> | Pred: s+a+l+i+m+Noun+A3sg 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: k+a+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s> | Pred: k+a+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg 
+ 
+True: g+ö+s+t+e+r+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: g+ö+s+t+e+r+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: c+e+s+a+r+e+t+Noun+A3sg+P3sg+Nom+</s> | Pred: c+e+s+a+r+e+t+Noun+A3sg+P3sg+Acc+</s> 
+ 
+True: ç+ı+k+a+r+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3sg+Pnon+Nom+</s> | Pred: ç+ı+k+a+r+c+ı+Noun+A3sg+Pnon+Nom+</s>+</s>+Pnon+</s>+</s> 
+ 
+True: k+ı+z+c+a+ğ+ı+z+Noun+A3sg+P3sg+Nom+</s> | Pred: k+ı+z+c+a+ğ+ı+z+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: g+e+l+Verb+Neg+DB+Noun+Inf3+A3sg+P3sg+Nom+</s> | Pred: g+e+l+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Nom+</s> 
+ 
+True: k+a+r+ş+ı+l+a+ş+t+ı+r+Verb+Pos+Prog1+A1sg+</s> | Pred: k+a+r+ş+ı+l+a+ş+Verb+DB+Verb+Caus+Pos+Prog1+A1sg+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: g+i+b+i+Postp+PCGen+</s> | Pred: g+i+b+i+Postp+PCNom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: e+t+Verb+DB+Verb+Pass+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: e+t+Verb+DB+Verb+Pass+Pos+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: z+a+l+i+m+Adj+DB+Adj+AsIf+</s> | Pred: z+a+l+i+m+c+e+Adj+</s>+Pnon 
+ 
+True: d+a+v+r+a+n+a+b+i+l+e+c+i+ğ+Noun+A3sg+P3sg+Acc+</s> | Pred: d+a+v+r+a+n+Verb+Pos+DB+Verb+Able+DB+Noun+FutPart+A3sg+P3sg+Acc+</s>+P3sg 
+ 
+True: d+ü+ş+ü+n+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Cond+A1sg+</s> | Pred: d+ü+ş+ü+n+Verb+Pos+Desr+A1sg+</s>+Verb+Nom+</s>+Zero+A1sg 
+ 
+True: s+ö+y+l+e+Verb+Pos+DB+Adj+FutPart+P2pl+</s> | Pred: s+ö+y+l+e+Verb+Pos+DB+Noun+FutPart+A3sg+P2pl 
+ 
+True: k+o+v+a+n+Noun+A3sg+Pnon+Nom+</s> | Pred: k+o+v+Verb+Pos+DB+Adj+PresPart+</s>+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: a+ğ+a+b+e+y+s+i+Adj+DB+Noun+Zero+A3sg+Pnon+Ins+</s> | Pred: a+ğ+a+b+e+y+s+A3sg+P3sg+Ins+DB+Adj+With+DB+Noun+Zero 
+ 
+True: h+a+l+a+Noun+A3pl+P3pl+Nom+</s> | Pred: h+a+l+a+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: ç+i+m+e+n+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3pl+Pnon+Loc+</s> | Pred: ç+i+m+e+n+l+i+k+Noun+A3pl+Pnon+Loc+</s>+Adj+</s>+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: z+a+h+i+r+e+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3sg+Pnon+Gen+</s> | Pred: z+a+h+i+r+e+c+i+Noun+A3sg+Pnon+Gen+</s>+</s>+Pnon+</s>+</s> 
+ 
+True: m+a+r+Noun+A3sg+P3sg+Dat+</s> | Pred: m+a+r+i+y+a+Noun+A3sg 
+ 
+True: m+ü+s+a+m+a+h+a+Noun+A3sg+Pnon+Nom+DB+Adj+Without+DB+Verb+Zero+Past+A3sg+</s> | Pred: m+ü+s+a+m+a+h+a+t+Noun+A3sg+Pnon+DB+DB+Verb+Zero+Past+A3sg+</s>+</s>+</s> 
+ 
+True: g+ö+r+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: g+ö+r+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: g+ö+r+e+v+l+i+Noun+A3sg+Pnon+Nom+</s> | Pred: g+ö+r+Verb+Pos+Imp+A2sg+</s>+</s>+</s>+</s>+</s> 
+ 
+True: g+ö+z+a+l+ı+c+ı+Adj+</s> | Pred: g+ö+z+a+l+ı+c+ı+Noun+A3sg 
+ 
+True: a+y+d+ı+n+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: a+y+d+ı+n+l+ı+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: h+e+m+c+i+n+s+Adj+DB+Noun+Zero+A3pl+P3sg+Ins+</s> | Pred: h+e+m+c+i+n+Noun+A3pl+P3sg+Ins+</s>+Ins+</s>+</s>+With 
+ 
+True: b+e+y+a+z+Adj+</s> | Pred: b+e+y+a+z+Noun+A3sg 
+ 
+True: t+e+r+l+i+k+Noun+A3pl+P3pl+Acc+</s> | Pred: t+e+r+Noun+Noun+Pnon+Nom+DB+Noun+Ness+A3pl 
+ 
+True: b+r+i+y+a+n+t+i+n+Noun+A3sg+Pnon+Nom+</s> | Pred: b+r+i+y+a+n+t+i+Noun+A3sg+P2sg+Nom+</s>+</s> 
+ 
+True: l+a+v+a+n+t+a+Noun+A3sg+Pnon+Nom+</s> | Pred: l+a+v+a+n+t+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: d+e+s+Noun+A3sg+Pnon+Nom+</s> | Pred: d+e+Verb+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: k+o+r+ç+a+g+i+n+Noun+A3sg+Pnon+Ins+</s> | Pred: k+o+r+ç+a+g+g+n+Noun+A3sg+Pnon+Ins+</s> 
+ 
+True: s+u+b+a+y+Noun+A3sg+Pnon+Gen+</s> | Pred: s+u+b+a+y+A3sg+Pnon+Gen+</s>+Imp 
+ 
+True: ç+e+k+Verb+Pos+DB+Noun+ActOf+A3sg+P3sg+Acc+</s> | Pred: ç+e+k+Verb+Neg+DB+Noun+Inf2+A3sg+P3sg+Acc+</s> 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: d+e+l+i+l+Noun+A3pl+Pnon+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: d+e+l+i+l+Verb+Pos+Aor+A3pl+Past+</s>+</s>+Nom+DB+Zero 
+ 
+True: g+e+l+Verb+Pos+DB+Adj+PresPart+DB+Noun+Zero+A3sg+P3sg+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: g+e+l+e+n+DB+Adj+DB+DB+Zero+A3sg+Past+</s>+</s>+</s>+Zero+A3sg+</s>+DB+Verb 
+ 
+True: a+h+e+n+k+Noun+A3sg+Pnon+Acc+</s> | Pred: a+h+e+n+g+i+Noun+A3sg+Pnon+</s> 
+ 
+True: m+ü+ş+f+i+k+Adj+DB+Verb+Zero+Pres+A2pl+</s> | Pred: m+ü+ş+f+i+k+Noun+A3sg+Pnon+Nom+DB+Adj+Without 
+ 
+True: n+a+z+ı+r+Adj+DB+Noun+Zero+A3pl+Pnon+Nom+</s> | Pred: n+a+z+ı+r+l+DB+Verb+Zero+Aor+A3pl+</s>+</s> 
+ 
+True: e+l+e+l+e+Adverb+</s> | Pred: e+l+e+l+Noun+A3sg+Pnon 
+ 
+True: b+o+r+ç+Noun+A3pl+Pnon+Acc+</s> | Pred: b+o+r+ç+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: m+a+h+p+u+s+Noun+A3pl+Pnon+Gen+</s> | Pred: m+a+h+p+u+s+Adj+DB+Noun+Zero+A3pl 
+ 
+True: s+e+r+z+e+n+i+ş+Noun+A3pl+Pnon+Nom+</s> | Pred: s+e+r+z+e+n+Verb+Pos+DB+Noun+Inf3+A3pl+Pnon 
+ 
+True: ç+a+p+Noun+A3sg+Pnon+Loc+</s> | Pred: ç+a+p+t+a+Noun+A3sg+Pnon 
+ 
+True: y+o+n+t+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+</s> | Pred: y+o+n+t+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+</s>+</s> 
+ 
+True: b+a+ş+k+a+Postp+PCAbl+</s> | Pred: b+a+ş+k+a+Adj+</s>+</s> 
+ 
+True: g+ü+m+ü+ş+Noun+A3sg+Pnon+Nom+</s> | Pred: g+ü+m+ü+ş+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+a+p+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+</s> | Pred: s+a+p+m+a+Noun+A3sg+Pnon+Nom+</s>+Nom+</s> 
+ 
+True: s+ı+n+ı+r+l+a+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Nom+</s> | Pred: s+ı+n+ı+r+l+a+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: e+k+Noun+A3sg+Pnon+Nom+</s> | Pred: e+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: g+r+u+p+Noun+A3pl+Pnon+Acc+</s> | Pred: g+r+u+p+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: k+ı+s+ı+t+l+a+Verb+DB+Verb+Pass+Pos+Narr+A3sg+</s> | Pred: k+ı+s+ı+t+l+a+Verb+DB+Verb+Pass+Pos+DB+Adj+NarrPart 
+ 
+True: i+z+i+n+Noun+A3pl+Pnon+Acc+</s> | Pred: i+z+i+n+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: k+a+l+Verb+DB+Verb+Caus+Pos+DB+Noun+PastPart+A3sg+P2pl+Nom+</s> | Pred: k+a+l+Verb+DB+Verb+Caus+Pos+DB+Noun+PastPart+P2pl+</s>+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: g+e+l+i+ş+Verb+Pos+Narr+A3sg+</s> | Pred: g+e+l+i+ş+Verb+Pos+DB+Adj+NarrPart 
+ 
+True: e+t+k+i+n+Adj+DB+Verb+Become+DB+Verb+Caus+Pos+DB+Adverb+WithoutHavingDoneSo+</s> | Pred: e+t+k+i+n+Adj+DB+Verb+Become+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg 
+ 
+True: k+o+m+u+t+Noun+A3sg+Pnon+Acc+</s> | Pred: k+o+m+u+t+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: g+i+r+i+ş+Verb+Pos+DB+Adverb+WithoutHavingDoneSo+</s> | Pred: g+i+r+i+ş+Verb+Pos+DB+Noun+Inf2+A3sg 
+ 
+True: a+y+r+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: a+y+r+ı+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: g+ö+s+t+e+r+Verb+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: g+ö+s+t+e+r+Verb+Pos+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: a+l+g+o+r+i+t+m+a+Noun+A3pl+P3pl+Acc+</s> | Pred: a+l+g+o+r+i+t+m+a+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: a+l+g+o+r+i+t+m+a+Noun+A3pl+P3pl+Acc+</s> | Pred: a+l+g+o+r+i+t+m+a+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: ç+o+k+Noun+A3sg+Pnon+Nom+</s> | Pred: ç+o+k+Adverb+</s>+Pnon+Nom+</s> 
+ 
+True: ö+z+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: ö+z+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: g+i+r+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Noun+Pnon+A3sg+</s>+Nom+</s> 
+ 
+True: g+i+r+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Noun+Pnon+A3sg+</s>+Nom+</s> 
+ 
+True: k+u+l+l+a+n+Verb+DB+Verb+Pass+Neg+DB+Adj+AorPart+</s> | Pred: k+u+l+l+a+n+Verb+DB+Verb+Pass+Neg+Aor+A3sg+</s>+</s> 
+ 
+True: b+e+l+g+e+Noun+A3pl+Pnon+Acc+</s> | Pred: b+e+l+g+e+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: e+t+k+i+Verb+DB+Verb+Pass+Pos+Desr+A3sg+</s> | Pred: e+t+k+i+n+Adj+DB+Verb+Zero+Cond+A3sg+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+Pnon+Acc+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: g+i+r+i+ş+Noun+A3sg+Pnon+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Noun+Pnon+A3sg+</s> 
+ 
+True: b+e+l+g+e+Noun+A3pl+Pnon+Acc+</s> | Pred: b+e+l+g+e+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: b+e+l+g+e+Noun+A3pl+Pnon+Acc+</s> | Pred: b+e+l+g+e+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: a+y+a+r+Noun+A3sg+Pnon+Acc+</s> | Pred: a+y+a+r+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: y+ö+n+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+DB+Verb+Caus+DB+Verb+Pass+Pos+Aor+A3sg+</s> | Pred: y+ö+n+l+e+n+Verb+DB+Verb+Caus+DB+Verb+Pass+Pos+Aor+A3sg+</s>+</s>+</s>+</s> 
+ 
+True: t+e+k+n+o+l+o+j+i+Noun+A3pl+Pnon+Acc+</s> | Pred: t+e+k+n+o+l+o+j+i+Noun+A3pl+P3pl+Acc+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: a+k+t+a+r+Noun+A3sg+P1sg+Nom+</s> | Pred: a+k+t+a+r+ı+m+Noun+A3sg+Pnon 
+ 
+True: s+o+n+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+DB+Verb+Caus+Neg+Aor+A1sg+</s> | Pred: s+o+n+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+DB+Verb+Caus+Pos+DB+A1sg+</s> 
+ 
+True: k+a+r+t+Noun+A3pl+P3pl+Nom+</s> | Pred: k+a+r+t+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: d+ü+z+e+y+Noun+A3pl+P3pl+Acc+</s> | Pred: d+ü+z+e+y+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: y+a+p+ı+l+a+n+d+ı+r+Noun+A3sg+Pnon+Acc+</s> | Pred: y+a+p+ı+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+DB+Verb+Caus+Pos 
+ 
+True: f+a+z+l+a+Adverb+</s> | Pred: f+a+z+l+a+Adj+</s> 
+ 
+True: o+f+i+s+Noun+A3sg+Pnon+Loc+DB+Adj+Rel+</s> | Pred: o+f+i+s+t+A3sg+Pnon+Loc+DB+Adj+Rel+</s> 
+ 
+True: g+e+r+e+k+Verb+Pos+DB+Adj+PastPart+P3sg+</s> | Pred: g+e+r+e+k+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg 
+ 
+True: l+a+b+o+r+a+t+u+a+r+Noun+A3sg+Pnon+Nom+</s> | Pred: l+a+b+o+r+a+t+u+r+Noun+A3sg+Pnon+Nom+</s>+</s> 
+ 
+True: a+y+a+r+Noun+A3pl+Pnon+Acc+</s> | Pred: a+y+a+r+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: g+i+d+e+n+Noun+A3sg+Pnon+Nom+</s> | Pred: g+i+t+Verb+Pos+DB+Adj+PresPart+</s>+</s> 
+ 
+True: i+l+e+t+i+Noun+A3pl+Pnon+Acc+</s> | Pred: i+l+e+t+i+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: i+l+e+t+i+Noun+A3pl+Pnon+Acc+</s> | Pred: i+l+e+t+i+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: h+a+t+a+Noun+A3pl+Pnon+Acc+</s> | Pred: h+a+t+a+Noun+A3pl+Pnon+Nom+</s> 
+ 
+True: i+ş+Noun+A3pl+Pnon+Acc+</s> | Pred: i+ş+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: r+o+l+Noun+A3sg+Pnon+Acc+</s> | Pred: r+o+l+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: e+r+i+ş+i+m+Noun+A3sg+Pnon+Acc+</s> | Pred: e+r+i+ş+i+m+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: m+o+d+Noun+A3pl+P3sg+Nom+</s> | Pred: m+o+d+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: p+e+n+c+e+r+e+Noun+A3sg+P3pl+Nom+</s> | Pred: p+e+n+c+e+r+e+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: e+t+k+i+Noun+A3sg+P2sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: e+t+k+i+n+Adj+DB+Verb+Zero+Pres+A3sg+Cop+</s>+Verb+Zero 
+ 
+True: a+y+a+r+Noun+A3pl+Pnon+Acc+</s> | Pred: a+y+a+r+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: s+i+t+e+Noun+A3sg+Pnon+Nom+</s> | Pred: s+i+t+Noun+Noun+Pnon+Dat+</s>+</s> 
+ 
+True: a+l+ı+c+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: a+l+ı+ç+Noun+A3sg+Pnon+Acc+</s>+</s> 
+ 
+True: ö+r+n+e+k+Noun+A3pl+Pnon+Acc+</s> | Pred: ö+r+n+e+k+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: g+i+r+i+ş+Noun+A3sg+Pnon+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Noun+Pnon+A3sg+</s> 
+ 
+True: y+a+z+Noun+A3sg+P2pl+Gen+</s> | Pred: y+a+z+ı+Noun+A3sg+P2pl+Gen 
+ 
+True: g+ü+v+e+n+l+i+l+i+r+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: g+ü+v+e+n+l+A3sg+Pnon+Nom+DB+Adj+With+DB+Noun+Ness+A3sg+Pnon+Nom+</s>+Noun+Ness 
+ 
+True: ö+z+e+l+l+i+k+Noun+A3pl+Pnon+Acc+</s> | Pred: ö+z+e+l+l+i+k+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: g+e+l+i+ş+Verb+Pos+Narr+A3sg+</s> | Pred: g+e+l+i+ş+Verb+Pos+DB+Adj+NarrPart 
+ 
+True: g+ü+n+l+ü+k+Noun+A3sg+P3sg+Acc+</s> | Pred: g+ü+n+l+ü+k+Adj+DB+Noun+Acc+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: i+ş+l+e+v+Noun+A3sg+Pnon+Nom+DB+Adj+Without+</s> | Pred: i+ş+l+e+v+s+A3sg+Pnon+Nom+DB+Adj+Without+</s> 
+ 
+True: a+y+g+ı+t+Noun+A3pl+Pnon+Acc+</s> | Pred: a+y+g+ı+t+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+a+y+ı+Noun+A3sg+P2sg+Gen+</s> | Pred: s+a+y+ı+Noun+A3sg+Pnon+Gen+</s> 
+ 
+True: d+o+ğ+r+u+s+a+l+Adj+</s> | Pred: d+o+ğ+r+u+l+a+l+Adj+</s> 
+ 
+True: a+n+a+Noun+A3sg+Pnon+Nom+</s> | Pred: a+n+a+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: m+e+t+i+n+Adj+DB+Verb+Zero+Cond+A3sg+</s> | Pred: m+e+t+i+n+Noun+A3sg+Pnon+Nom+DB+Verb+Zero 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: ç+a+k+ı+ş+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Nom+</s> | Pred: ç+a+k+ı+ş+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Acc+</s> 
+ 
+True: h+a+t+a+Noun+A3pl+Pnon+Acc+</s> | Pred: h+a+t+a+Noun+A3pl+Pnon+Nom+</s> 
+ 
+True: ö+d+e+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+</s> | Pred: ö+d+e+m+e+Noun+A3sg+Pnon+Nom+</s>+Nom+</s> 
+ 
+True: d+o+l+Verb+Pos+Narr+Cond+A3sg+</s> | Pred: d+o+l+m+u+ş+Pos+A3sg+</s> 
+ 
+True: ö+z+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: ö+z+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: b+i+l+e+ş+Verb+Pos+DB+Adj+PresPart+DB+Noun+Zero+A3pl+Pnon+Acc+</s> | Pred: b+i+l+e+ş+Verb+Pos+DB+Adj+PresPart+DB+Noun+Zero+A3pl+P3pl+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: y+ö+n+e+t+Noun+A3sg+P2sg+Acc+</s> | Pred: y+ö+n+e+t+i+n+Noun+A3sg+Pnon 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+Pnon+Acc+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: k+a+r+a+k+t+e+r+Noun+A3pl+Pnon+Acc+</s> | Pred: k+a+r+a+k+t+e+r+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: k+a+l+Verb+DB+Verb+Caus+Pos+Imp+A2pl+</s> | Pred: k+a+l+d+DB+Verb+Caus+Pos+Imp+A2pl+</s> 
+ 
+True: s+e+ç+Verb+Pos+DB+Noun+PastPart+A3sg+P2pl+Nom+</s> | Pred: s+e+ç+Verb+Pos+DB+Adj+PastPart+P2pl+</s>+Nom+</s> 
+ 
+True: s+i+t+e+Noun+A3sg+Pnon+Nom+</s> | Pred: s+i+t+Noun+Noun+Pnon+Dat+</s>+</s> 
+ 
+True: s+i+t+e+Noun+A3sg+Pnon+Nom+</s> | Pred: s+i+t+Noun+Noun+Pnon+Dat+</s>+</s> 
+ 
+True: s+i+t+e+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Cond+A3sg+</s> | Pred: s+i+t+e+Pos+A3sg+Cond+</s>+</s>+Zero+A3sg+A3sg+</s>+</s> 
+ 
+True: b+o+ş+l+u+k+Noun+A3pl+P3pl+Nom+</s> | Pred: b+o+ş+Adj+DB+Noun+Ness+A3pl+Pnon+Acc+</s> 
+ 
+True: k+a+l+d+ı+r+Verb+Pos+Imp+A2pl+</s> | Pred: k+a+l+d+DB+Verb+Caus+Pos+Imp+A2pl+</s> 
+ 
+True: g+i+r+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Noun+Pnon+A3sg+</s>+Nom+</s> 
+ 
+True: n+e+s+n+e+Noun+A3pl+Pnon+Acc+</s> | Pred: n+e+s+n+e+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: y+ö+n+t+e+m+Noun+A3pl+Pnon+Acc+</s> | Pred: y+ö+n+t+e+m+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: b+i+l+g+i+s+a+y+a+r+Noun+A3pl+P3sg+Loc+DB+Verb+Zero+Narr+A3sg+</s> | Pred: b+i+l+g+i+s+a+y+a+r+Noun+A3pl+Pnon+Abl+DB+Verb+Zero+Narr+A3sg+</s> 
+ 
+True: d+u+r+u+Adj+DB+Noun+Zero+A3sg+P1sg+Loc+DB+Verb+Zero+Cond+A3sg+</s> | Pred: d+u+r+u+m+Noun+A3sg+Pnon+Loc+DB+Verb+Zero+Cond+A3sg+</s>+</s>+Pnon 
+ 
+True: k+a+l+Verb+DB+Verb+Caus+Pos+Imp+A2pl+</s> | Pred: k+a+l+d+DB+Verb+Caus+Pos+Imp+A2pl+</s> 
+ 
+True: y+e+t+k+i+Noun+A3pl+Pnon+Acc+</s> | Pred: y+e+t+k+i+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: i+ç+e+r+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: i+ç+e+r+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: a+d+Noun+A3sg+Pnon+Acc+</s> | Pred: a+d+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: t+e+k+i+l+Adj+</s> | Pred: t+e+k+i+l+Noun+A3sg 
+ 
+True: y+e+n+i+Adj+DB+Noun+Zero+A3sg+Pnon+Loc+</s> | Pred: y+e+n+i+d+e+Adverb+</s>+</s>+Nom+</s>+</s> 
+ 
+True: a+r+t+a+n+Noun+A3sg+Pnon+Nom+</s> | Pred: a+r+t+Verb+Pos+DB+Adj+PresPart+</s>+</s> 
+ 
+True: ö+z+e+l+l+i+k+Noun+A3pl+P3sg+Nom+</s> | Pred: ö+z+e+l+l+i+k+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: o+t+u+r+u+m+Noun+A3pl+P3sg+Nom+</s> | Pred: o+t+u+r+u+m+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: a+y+a+r+Noun+A3pl+Pnon+Acc+</s> | Pred: a+y+a+r+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: b+ı+r+a+k+Verb+Pos+DB+Verb+Able+DB+Adj+FutPart+P2pl+</s> | Pred: b+ı+r+a+k+Verb+Pos+DB+Verb+Able+DB+Noun+FutPart+A3sg+P2pl 
+ 
+True: d+u+r+u+m+Noun+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: d+u+r+u+m+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> 
+ 
+True: y+ü+k+s+e+k+Noun+A3sg+Pnon+Nom+</s> | Pred: y+ü+k+s+e+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: p+l+a+n+Noun+A3sg+Pnon+Acc+</s> | Pred: p+l+a+n+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: o+k+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: o+k+t+u+r+A3sg+P2sg+Nom+Nom+Verb+Pres+A3sg+Cop 
+ 
+True: y+a+n+s+ı+Verb+DB+Verb+Caus+Pos+Fut+A3sg+</s> | Pred: y+a+n+s+ı+Verb+DB+Verb+Caus+Pos+DB+Adj+FutPart 
+ 
+True: n+ö+t+r+Adj+</s> | Pred: n+ö+t+r+Noun+A3sg 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+A3sg+</s>+Nom+</s> 
+ 
+True: y+ü+k+l+ü+Noun+A3sg+Pnon+Nom+</s> | Pred: y+ü+k+Noun+A3sg+Pnon+Nom+DB+Adj+With 
+ 
+True: a+r+a+Adj+</s> | Pred: a+r+a+Noun+A3sg 
+ 
+True: i+l+k+Adverb+</s> | Pred: i+l+k+Adj+</s> 
+ 
+True: d+ü+ğ+m+e+Noun+A3sg+P3pl+Dat+</s> | Pred: d+ü+ğ+m+e+Noun+e+P3sg+Dat+</s> 
+ 
+True: s+e+k+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: s+e+k+Verb+Pos+Neces+A3sg+</s>+A3sg+Pnon+Nom+DB+Adj+With+</s> 
+ 
+True: d+e+ğ+e+r+Noun+A3sg+Pnon+Acc+</s> | Pred: d+e+ğ+e+r+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: g+i+t+Noun+A3sg+Pnon+Acc+</s> | Pred: g+i+t+Verb+Pos+Noun+Pnon+Acc 
+ 
+True: ö+l+ç+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg+Acc+</s> | Pred: ö+l+ç+e+Pos+DB+Noun+FutPart+A3sg+P3sg+Acc+</s> 
+ 
+True: b+i+Noun+A3sg+Pnon+Nom+DB+Verb+Become+Pos+DB+Adj+PresPart+DB+Noun+Zero+A3sg+P3sg+Gen+</s> | Pred: b+i+l+e+ş+Verb+Pos+DB+Adj+PresPart+DB+Noun+Zero+A3sg+P3sg+Gen+</s>+</s>+</s>+A3sg 
+ 
+True: a+n+a+l+y+s+i+s+Noun+A3sg+Pnon+Nom+</s> | Pred: a+n+a+l+s+i+s+A3sg+P3sg+Nom+DB+Adj+JustLike 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: ç+a+r+p+ı+m+Noun+A3pl+P3sg+Gen+</s> | Pred: ç+a+r+p+ı+m+ı+A3pl+P3sg+Gen+</s> 
+ 
+True: k+o+v+a+r+y+a+n+s+Noun+A3sg+Pnon+Acc+</s> | Pred: k+o+v+a+r+y+a+n+s+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: g+r+u+p+l+a+Verb+DB+Verb+Pass+Pos+Narr+A3sg+Cop+</s> | Pred: g+r+u+p+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+Narr+A3sg+Cop 
+ 
+True: a+r+a+Adj+</s> | Pred: a+r+a+Noun+A3sg 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: o+n+Num+Card+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: o+n+l+u+k+Noun+A3sg+Pnon+Nom+</s>+</s> 
+ 
+True: e+t+k+i+Verb+DB+Verb+Pass+Pos+Desr+A3sg+</s> | Pred: e+t+k+i+n+Adj+DB+Verb+Zero+Cond+A3sg+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: u+z+a+k+Noun+A3sg+Pnon+Nom+</s> | Pred: u+z+a+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: u+z+a+k+Noun+A3sg+Pnon+Nom+</s> | Pred: u+z+a+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: h+a+z+ı+r+Noun+A3sg+Pnon+Nom+</s> | Pred: h+a+z+ı+r+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: b+a+ş+k+a+Postp+PCAbl+</s> | Pred: b+a+ş+k+a+Adj+</s>+</s> 
+ 
+True: ö+z+e+l+l+i+k+Noun+A3pl+Pnon+Acc+</s> | Pred: ö+z+e+l+l+i+k+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: s+a+y+a+ç+Noun+A3sg+Pnon+Acc+</s> | Pred: s+a+y+a+ç+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: t+a+k+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Gen+</s> | Pred: t+a+k+m+a+n+Noun+A3sg+Pnon+Gen+</s>+Pnon 
+ 
+True: i+s+t+e+m+Noun+A3sg+Pnon+Acc+</s> | Pred: i+s+t+e+m+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: i+l+e+t+i+Noun+A3pl+Pnon+Acc+</s> | Pred: i+l+e+t+i+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: e+r+i+ş+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3pl+P3sg+Loc+</s> | Pred: e+r+i+ş+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3sg+P3pl+Loc+</s> 
+ 
+True: i+n+s+Noun+A3sg+Pnon+Nom+</s> | Pred: i+n+s+Adj+A3sg+Pnon+Nom+</s> 
+ 
+True: s+e+ç+e+n+e+k+Noun+A3pl+Pnon+Acc+</s> | Pred: s+e+ç+e+n+e+k+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: y+a+p+ı+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg+P3pl+Acc+</s> | Pred: y+a+p+ı+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3pl+P3sg+Acc+</s> 
+ 
+True: k+i+l+i+t+Noun+A3pl+Pnon+Acc+</s> | Pred: k+i+l+i+t+Noun+A3pl+Pnon+Nom+</s> 
+ 
+True: a+ç+ı+k+l+a+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: a+ç+ı+k+l+a+Verb+DB+Verb+Pass+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: k+a+y+n+a+k+Noun+A3pl+Pnon+Acc+</s> | Pred: k+a+y+n+a+k+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: k+a+l+Verb+DB+Verb+Caus+Pos+Aor+DB+Adverb+While+</s> | Pred: k+a+l+d+ı+r+Verb+Pos+Aor+DB+Adverb+While+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+Pnon+Acc+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: k+e+s+Verb+DB+Verb+Pass+Pos+DB+Adverb+WithoutHavingDoneSo+</s> | Pred: k+e+s+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf2+A3sg 
+ 
+True: p+r+o+f+i+l+Noun+A3sg+Pnon+Acc+</s> | Pred: p+r+o+f+i+l+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: ö+z+e+l+l+i+k+Noun+A3pl+Pnon+Acc+</s> | Pred: ö+z+e+l+l+i+k+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: k+u+l+l+a+n+ı+m+Noun+A3pl+P3pl+Nom+</s> | Pred: k+u+l+l+a+n+ı+m+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+P3sg+Nom+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: b+i+l+g+i+Noun+A3pl+Pnon+Acc+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: e+t+k+i+Noun+A3sg+P2sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: e+t+k+i+n+Adj+DB+Verb+Zero+Pres+A3sg+Cop+</s>+Verb+Zero 
+ 
+True: a+y+Verb+Pos+DB+Adj+AorPart+DB+Noun+Zero+A3pl+Pnon+Nom+</s> | Pred: a+y+a+r+Noun+A3pl+Pnon+Nom+</s>+Zero+A3pl+Pnon+Nom+</s> 
+ 
+True: k+o+ş+u+l+Noun+A3sg+Pnon+Dat+</s> | Pred: k+o+ş+Verb+DB+Verb+Pass+Pos+Opt+A3sg 
+ 
+True: d+a+y+a+n+Verb+DB+Verb+Caus+Pos+DB+Verb+Able+Aor+A2pl+</s> | Pred: d+a+y+a+n+Verb+DB+Verb+Pass+Pos+DB+Verb+Able+Aor+A2pl+</s> 
+ 
+True: i+ş+l+e+m+Noun+A3pl+Pnon+Acc+</s> | Pred: i+ş+l+e+m+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: o+l+a+y+Noun+A3pl+Pnon+Acc+</s> | Pred: o+l+a+y+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: g+ü+n+l+ü+k+Adj+DB+Noun+Zero+A3sg+P3sg+Acc+</s> | Pred: g+ü+n+l+ü+k+Adj+DB+Noun+Acc+</s>+P3sg+Acc+</s> 
+ 
+True: s+u+n+u+c+u+Noun+A3sg+Pnon+Dat+</s> | Pred: s+u+n+Verb+Pos+DB+Noun+Agt+A3sg+Pnon+Dat 
+ 
+True: g+e+ç+Verb+Pos+DB+Adj+PresPart+</s> | Pred: g+e+ç+e+n+Adj+</s>+PresPart+</s> 
+ 
+True: g+e+r+i+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+r+i+Adverb+</s>+Pnon+Nom+</s> 
+ 
+True: k+a+n+a+t+Noun+A3sg+Pnon+Dat+</s> | Pred: k+a+n+a+d+a+Noun+A3sg+Pnon+Nom 
+ 
+True: m+ü+n+f+e+r+i+t+Adj+</s> | Pred: m+ü+n+j+e+r+i+t+Adj+</s> 
+ 
+True: a+ş+k+Noun+A3sg+Pnon+Gen+</s> | Pred: a+ş+k+Noun+A3sg+Noun+A3sg+Pnon 
+ 
+True: b+a+l+ı+k+ç+ı+l+ı+k+Noun+A3sg+Pnon+Nom+</s> | Pred: b+a+l+ı+k+ç+ı+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg 
+ 
+True: ç+i+f+t+Adj+DB+Noun+Ness+A3pl+P3sg+Nom+</s> | Pred: ç+i+f+t+l+i+k+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: h+a+y+v+a+n+Noun+A3sg+P3pl+Nom+</s> | Pred: h+a+y+v+a+n+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: ö+n+Noun+A3sg+Pnon+Abl+</s> | Pred: ö+n+d+A3sg+n+Noun+A3sg 
+ 
+True: a+r+a+Adj+</s> | Pred: a+r+a+Noun+A3sg 
+ 
+True: b+i+l+e+t+Noun+A3sg+P1sg+Nom+</s> | Pred: b+i+l+e+t+Noun+A3sg+Pnon+Nom+DB 
+ 
+True: p+a+s+a+p+o+r+t+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A1sg+</s> | Pred: p+a+s+a+p+o+r+t+Noun+A3sg+P1sg+Nom+</s>+Verb+Zero+Pres+A1sg+</s> 
+ 
+True: h+a+s+t+a+l+a+n+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Nom+</s> | Pred: h+a+s+t+a+l+a+Verb+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: d+ı+ş+ı+Adj+DB+Noun+Zero+A3sg+Pnon+Loc+DB+Adj+Rel+DB+Noun+Zero+A3pl+P3pl+Nom+</s> | Pred: d+ı+ş+ı+Noun+A3sg+Pnon+Loc+DB+Adj+Rel+DB+Noun+Zero+A3pl+Pnon+Acc+</s>+Adj+</s>+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+e+v+g+i+l+i+Noun+A3sg+P2sg+Nom+</s> | Pred: s+e+v+g+i+l+i+Noun+A3sg+Pnon+Gen+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: b+e+n+d+e+n+Noun+A3sg+Pnon+Nom+</s> | Pred: b+e+n+Pron+Pers+A1sg+Pnon+A3sg+Pnon+Nom+</s> 
+ 
+True: a+r+a+Adj+</s> | Pred: a+r+a+Noun+A3sg 
+ 
+True: i+l+k+Adverb+</s> | Pred: i+l+k+Adj+</s> 
+ 
+True: s+w+i+s+s+h+o+t+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: s+w+ı+s+s+h+o+t+e+l+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: ş+e+k+e+r+l+e+m+e+Noun+A3sg+Pnon+Gen+</s> | Pred: ş+e+k+e+r+l+e+Verb+e+DB+Noun+Inf2+A3sg+Pnon 
+ 
+True: s+a+t+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: s+a+t+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: z+e+k+i+Adj+</s> | Pred: z+e+k+i+Noun+A3sg 
+ 
+True: g+ü+v+e+n+Verb+DB+Verb+Pass+Pos+DB+Adj+AorPart+</s> | Pred: g+ü+v+e+n+Verb+l+i+r+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: b+a+ş+k+a+Postp+PCAbl+</s> | Pred: b+a+ş+k+a+Adj+</s>+</s> 
+ 
+True: c+h+p+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Verb+Zero+Pres+A3pl+</s> | Pred: c+h+p+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Noun+Zero+A3pl+Pnon+Nom 
+ 
+True: b+i+t+t+i+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Cond+A3sg+</s> | Pred: b+i+t+Verb+Pos+Past+Cond+A3sg+</s>+Nom+DB+Verb+Zero+Cond+A3sg 
+ 
+True: s+a+t+Verb+Pos+DB+Noun+Agt+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: s+a+t+ı+c+ı+Noun+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s>+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: d+o+l+u+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+DB+Adverb+While+</s> | Pred: d+o+l+u+Noun+A3sg+DB+Adj+DB+Verb+Zero+DB+Adverb+While+</s> 
+ 
+True: a+n+a+m+u+r+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: a+n+a+m+u+r+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s>+Verb+Zero+Pres 
+ 
+True: n+e+c+k+e+r+m+a+n+n+Noun+A3sg+Pnon+Nom+</s> | Pred: n+e+c+k+e+r+m+a+n+Noun+Noun+A3sg+Pnon+</s>+</s> 
+ 
+True: k+u+r+u+m+u+Noun+A3sg+P1pl+Nom+</s> | Pred: k+u+r+u+m+Noun+A3sg+P1pl+Nom+</s>+Verb 
+ 
+True: a+v+r+u+p+a+l+ı+Noun+A3pl+Pnon+Equ+</s> | Pred: a+v+r+u+p+a+l+ı+Noun+A3sg+Pnon+Equ+</s> 
+ 
+True: g+e+n+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+n+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: o+p+e+r+a+t+ö+r+Noun+A3pl+P3sg+Nom+</s> | Pred: o+p+e+r+a+t+ö+r+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: z+d+f+Noun+A3sg+Pnon+Nom+</s> | Pred: z+f+f+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: a+ş+Verb+DB+Verb+Able+Neg+Aor+A3sg+</s> | Pred: a+ş+a+m+Neg+z+A3sg+A3sg+Nom+Nom 
+ 
+True: o+p+e+r+a+t+ö+r+Noun+A3pl+P3sg+Acc+</s> | Pred: o+p+e+r+a+t+ö+r+Noun+A3pl+P3pl+Acc+</s> 
+ 
+True: y+a+r+a+Verb+Pos+Fut+A3sg+</s> | Pred: y+a+r+a+Verb+Pos+Fut+Adj+FutPart 
+ 
+True: z+a+p+t+Noun+A3sg+P3sg+Gen+</s> | Pred: z+a+p+t+ı+Noun+A3sg+Pnon+Gen 
+ 
+True: s+ö+z+l+e+ş+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Acc+</s> | Pred: s+ö+z+l+e+ş+m+e+Noun+A3sg+Pnon+Acc+</s>+Acc+</s> 
+ 
+True: i̇+ş+l+e+t+m+e+Noun+A3sg+P3pl+Gen+</s> | Pred: i+ş+l+e+Verb+m+e+Noun+A3pl+P3pl+Gen+</s> 
+ 
+True: k+a+n+a+t+Noun+A3sg+Pnon+Dat+</s> | Pred: k+a+n+a+d+a+Noun+A3sg+Pnon+Nom 
+ 
+True: a+c+e+n+t+a+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3pl+P3pl+Nom+</s> | Pred: a+c+e+n+t+a+Noun+ı+Noun+A3pl+Pnon+Acc+</s>+Noun+Agt+</s>+Pnon 
+ 
+True: o+p+e+r+a+t+ö+r+Noun+A3pl+P3sg+Nom+</s> | Pred: o+p+e+r+a+t+ö+r+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: b+i+l+Verb+Pos+Imp+A2pl+</s> | Pred: b+i+l+Verb+Pos+DB+A2pl+</s> 
+ 
+True: b+a+ş+k+a+Postp+PCAbl+</s> | Pred: b+a+ş+k+a+Adj+</s>+</s> 
+ 
+True: g+e+r+i+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+r+i+Adverb+</s>+Pnon+Nom+</s> 
+ 
+True: k+a+ç+Verb+DB+Verb+Recip+Pos+DB+Adj+PresPart+DB+Noun+Zero+A3pl+P3pl+Nom+</s> | Pred: k+a+ç+Verb+DB+Verb+Recip+Pos+DB+Noun+Inf3+A3pl+P3pl+Nom+</s>+P3pl+</s>+</s> 
+ 
+True: d+ö+v+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Nom+</s> | Pred: d+ö+v+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+o+l+Noun+A3sg+Pnon+Nom+</s> | Pred: s+o+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: i+ş+l+e+Verb+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg+P3pl+Ins+</s> | Pred: i+ş+l+e+Verb+m+e+Noun+A3pl+P3sg+Ins+</s>+Ins+Ins+</s>+</s> 
+ 
+True: t+a+k+s+i+Noun+A3sg+Pnon+Dat+</s> | Pred: t+a+k+s+i+y+e+Noun+A3sg+Pnon 
+ 
+True: s+i+l+k+e+l+e+Verb+DB+Verb+Pass+Pos+Opt+A3sg+</s> | Pred: s+i+l+k+e+Noun+A3sg+Pnon+Ins+DB+Verb+Pos+Pos+Opt+A3sg 
+ 
+True: s+i+l+k+e+l+e+Verb+DB+Verb+Pass+Pos+Opt+A3sg+</s> | Pred: s+i+l+k+e+Noun+A3sg+Pnon+Ins+DB+Verb+Pos+Pos+Opt+A3sg 
+ 
+True: i+l+ı+k+Noun+A3sg+Pnon+Nom+</s> | Pred: ı+l+ı+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: s+u+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: s+u+y+Demons+A3sg+Nom+Nom+DB+Zero+Past+A3sg+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: h+a+y+m+a+n+a+Noun+A3sg+Pnon+Loc+</s> | Pred: h+a+y+m+a+n+Noun+Noun+A3sg+Loc+</s>+</s> 
+ 
+True: a+ş+k+Noun+A3sg+Pnon+Gen+</s> | Pred: a+ş+k+Noun+A3sg+Noun+A3sg+Pnon 
+ 
+True: b+i+l+f+i+i+l+Adverb+</s> | Pred: b+i+l+f+i+l+i+Noun+A3sg 
+ 
+True: i+l+t+i+h+a+p+Noun+A3sg+Pnon+Acc+</s> | Pred: i+l+t+i+h+a+p+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: ö+ğ+r+e+n+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Acc+</s> | Pred: ö+ğ+r+e+n+Verb+Pos+DB+Noun+Inf2+A3sg+P3pl+Acc+</s> 
+ 
+True: t+u+t+u+l+u+m+Noun+A3sg+P3sg+Nom+</s> | Pred: t+u+t+u+l+Noun+m+P1sg+Acc+</s>+Nom+</s> 
+ 
+True: s+a+a+t+Noun+A3sg+P1sg+Nom+</s> | Pred: s+a+a+t+Noun+A3sg+Pnon+Nom+DB 
+ 
+True: s+a+t+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: s+a+t+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+P3sg+P3sg+Nom+</s> 
+ 
+True: ş+u+n+e+Noun+A3sg+Pnon+Nom+</s> | Pred: ş+u+Pron+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: o+y+m+a+c+ı+Noun+A3sg+P3sg+Nom+</s> | Pred: o+y+m+a+c+i+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: s+o+r+u+Noun+A3pl+P3pl+Nom+</s> | Pred: s+o+r+u+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: b+o+y+u+n+Noun+A3sg+P3sg+Nom+</s> | Pred: b+o+y+Noun+A3sg+P3sg+Acc+</s>+Acc+</s> 
+ 
+True: s+e+r+d+a+r+l+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: s+e+r+d+a+r+Noun+A3sg+Pnon+Nom+DB+Adj+With 
+ 
+True: m+e+r+y+e+m+Noun+A3sg+Pnon+Nom+</s> | Pred: m+e+r+y+e+Noun+Noun+A3sg+Nom+Nom+</s> 
+ 
+True: a+n+a+Noun+A3sg+Pnon+Nom+</s> | Pred: a+n+a+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: y+a+ş+l+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: y+a+ş+Noun+A3sg+Pnon+Nom+DB+Adj+With 
+ 
+True: e+m+i+r+Noun+A3sg+P3sg+Nom+</s> | Pred: e+m+i+r+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: g+ü+n+b+a+t+ı+m+ı+Noun+A3sg+P3sg+Nom+</s> | Pred: g+ü+n+b+a+t+ı+Noun+A3sg+Acc+</s>+</s>+</s>+Nom 
+ 
+True: r+o+b+b+e+Noun+A3sg+P2sg+Nom+</s> | Pred: r+o+b+b+e+n+Noun+A3sg+Pnon+Nom 
+ 
+True: r+o+b+b+e+Noun+A3sg+P2sg+Nom+</s> | Pred: r+o+b+b+e+n+Noun+A3sg+Pnon+Nom 
+ 
+True: ş+e+h+i+r+Noun+A3pl+P3pl+Abl+</s> | Pred: ş+e+h+i+r+Noun+A3pl+P3sg+Abl+</s> 
+ 
+True: c+l+i+f+t+o+Noun+A3sg+P2sg+Nom+</s> | Pred: c+l+i+s+t+o+n+Noun+A3sg+Pnon+Nom 
+ 
+True: m+e+r+k+e+s+i+n+Noun+A3sg+Pnon+Dat+</s> | Pred: m+e+r+k+e+Noun+A3sg+P3sg+Dat+</s>+</s>+Zero+A3sg 
+ 
+True: y+a+k+ı+n+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Ins+</s> | Pred: y+a+k+ı+n+Adj+DB+Noun+Ness+A3sg+P3sg+Ins+</s>+Ins+Ins+</s> 
+ 
+True: m+e+r+k+e+z+i+Adj+DB+Noun+Zero+A3sg+P2sg+Loc+DB+Adj+Rel+</s> | Pred: m+e+r+k+e+z+Noun+A3sg+P3sg+Loc+DB+Adj+Rel+</s>+</s>+Rel+</s>+Adj 
+ 
+True: b+a+r+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: b+a+r+Noun+A3sg+P3sg+Nom+</s>+</s> 
+ 
+True: k+u+l+u+ç+k+a+Noun+A3sg+Pnon+Nom+</s> | Pred: k+u+l+u+ç+ç+a+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: r+e+m+z+i+Noun+A3sg+Pnon+Nom+</s> | Pred: r+e+m+i+i+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: ç+i+f+t+l+i+k+Noun+A3sg+P3sg+Nom+</s> | Pred: ç+i+f+t+Adj+DB+Noun+Ness+A3sg+P3sg+Nom+</s> 
+ 
+True: i̇+s+k+e+l+e+Noun+A3sg+P3sg+Loc+</s> | Pred: i+s+k+e+l+e+Noun+A3sg+P3sg+Loc+</s> 
+ 
+True: ş+n+o+r+k+e+l+Noun+A3sg+Pnon+Ins+</s> | Pred: ş+n+o+k+k+e+l+Noun+A3sg+Pnon+Ins+</s> 
+ 
+True: s+o+k+a+k+Noun+A3pl+P3pl+Loc+DB+Adj+Rel+</s> | Pred: s+o+k+a+k+Noun+A3pl+P3sg+Loc+DB+Adj+Rel+</s> 
+ 
+True: k+a+n+a+l+i+z+a+s+y+o+n+Noun+A3pl+P3sg+Gen+</s> | Pred: k+a+n+a+l+i+z+o+n+o+r+Noun+A3pl+P3sg+Gen+</s>+</s> 
+ 
+True: y+o+s+u+n+l+a+Verb+DB+Verb+Pass+Pos+Narr+A3sg+</s> | Pred: y+o+s+u+n+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+Narr+A3sg 
+ 
+True: o+t+u+r+Verb+DB+Verb+Pass+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: o+t+u+r+Verb+DB+Verb+Pass+Pos+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: ş+ö+y+l+e+Adj+</s> | Pred: ş+ö+y+l+e+Adverb+</s> 
+ 
+True: ö+z+y+a+l+ç+ı+n+Noun+A3sg+Pnon+Gen+</s> | Pred: ö+z+y+a+l+ç+ı+Noun+Noun+A3sg+Pnon+Gen+</s> 
+ 
+True: a+y+v+a+n+s+a+r+a+y+Noun+A3sg+Pnon+Loc+DB+Adj+Rel+</s> | Pred: a+y+v+a+n+s+a+y+a+a+Noun+A3sg+Pnon+Loc+DB+Adj+Rel+</s> 
+ 
+True: e+v+Noun+A3pl+Pnon+Nom+</s> | Pred: e+v+l+e+r+Noun+A3sg 
+ 
+True: k+a+d+a+r+Postp+PCDat+DB+Verb+Zero+Narr+A3sg+</s> | Pred: k+a+d+a+r+Verb+Pos+Narr+Adj+NarrPart+</s>+</s>+</s> 
+ 
+True: a+n+l+a+Verb+Pos+DB+Noun+PastPart+A3sg+P1sg+Nom+</s> | Pred: a+n+l+a+Verb+Pos+DB+Adj+PastPart+P1sg+</s>+Nom+</s> 
+ 
+True: a+r+a+n+Noun+A3sg+Pnon+Nom+</s> | Pred: a+r+a+Verb+DB+Adj+PresPart+</s>+</s> 
+ 
+True: e+l+Noun+A3sg+P1sg+Dat+</s> | Pred: e+l+Noun+A3sg+Adj+DB+Noun 
+ 
+True: y+a+p+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> | Pred: y+a+p+Verb+Pos+DB+Adj+FutPart+P3sg+</s>+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: b+a+t+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: b+a+t+ı+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: a+r+a+Noun+A3sg+P2sg+Nom+</s> | Pred: a+r+a+Verb+DB+Adj+PresPart+</s> 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: k+a+r+Noun+A3sg+Pnon+Gen+</s> | Pred: k+a+r+Noun+n+Noun+A3sg+Pnon 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: k+ı+v+ı+r+Verb+DB+Verb+Pass+Pos+Opt+A3sg+</s> | Pred: k+ı+v+ı+r+Adj+DB+Noun+Zero+A3sg+Pnon+Dat+</s> 
+ 
+True: k+ı+v+ı+r+Verb+DB+Verb+Pass+Pos+Opt+A3sg+</s> | Pred: k+ı+v+ı+r+Adj+DB+Noun+Zero+A3sg+Pnon+Dat+</s> 
+ 
+True: g+e+z+Noun+A3sg+Pnon+Gen+</s> | Pred: g+e+z+i+n+Noun+A3sg+Pnon 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: a+c+ı+k+Verb+Pos+Past+A3sg+</s> | Pred: a+c+ı+k+Adj+DB+Verb+Zero+Past 
+ 
+True: f+a+s+t+Adj+</s> | Pred: f+a+s+t+Noun+A3sg 
+ 
+True: a+d+a+Noun+A3pl+Pnon+Acc+</s> | Pred: a+d+a+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: g+i+z+Noun+A3sg+P3sg+Dat+</s> | Pred: g+i+z+i+n+Noun+A3sg+Pnon 
+ 
+True: b+e+ş+p+a+r+m+a+k+Noun+A3sg+Pnon+Nom+</s> | Pred: b+e+ş+p+a+r+Verb+Pos+DB+Noun+Inf1+A3sg+Pnon+Nom 
+ 
+True: k+o+n+s+a+n+t+r+e+Adj+</s> | Pred: k+o+n+s+a+n+t+r+e+Noun+A3sg 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+a+n+i+y+e+n+i+Noun+A3sg+Pnon+Gen+</s> | Pred: s+a+n+i+y+e+Noun+A3sg+P3sg+Gen+</s>+Noun+Pnon 
+ 
+True: s+i+l+u+e+t+Noun+A3sg+P3sg+Nom+</s> | Pred: s+i+l+u+e+t+t+Noun+A3sg+Pnon+Nom 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: u+m+u+t+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+Past+A2sg+</s> | Pred: u+m+u+t+l+a+Verb+DB+Verb+Verb+Pos+Past+A2sg+</s>+</s> 
+ 
+True: v+e+k+i+l+Noun+A3pl+P3sg+Nom+</s> | Pred: v+e+k+i+l+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: d+e+r+e+b+e+y+i+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: d+e+r+e+b+e+y+l+i+k+Noun+A3sg+Pnon+Nom+</s>+Pnon+Nom+</s>+Pnon 
+ 
+True: k+u+l+ü+p+Noun+A3pl+P3sg+Abl+</s> | Pred: k+u+l+ü+p+Noun+A3pl+P3pl+Abl+</s> 
+ 
+True: d+ü+r+ü+s+t+Noun+A3sg+Pnon+Nom+</s> | Pred: d+ü+r+ü+s+t+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: e+y+v+a+h+Interj+</s> | Pred: e+y+v+a+h+Noun+A3sg 
+ 
+True: s+a+y+ı+Noun+A3pl+P3pl+Abl+</s> | Pred: s+a+y+ı+Noun+A3pl+P3sg+Abl+</s> 
+ 
+True: z+o+r+l+u+Noun+A3sg+Pnon+Nom+</s> | Pred: z+o+r+l+u+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: t+e+r+k+e+t+Verb+Pos+Past+A2sg+</s> | Pred: t+e+r+k+e+t+t+i+n+Noun+A3sg 
+ 
+True: h+a+k+l+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: h+a+k+Noun+A3sg+Pnon+Nom+DB+Adj+With 
+ 
+True: a+b+e+y+l+e+g+e+s+s+e+Noun+A3sg+Pnon+Gen+</s> | Pred: a+b+e+y+l+e+s+y+e+s+Noun+A3sg+P3sg+Gen+</s>+</s> 
+ 
+True: k+o+n+s+a+n+t+r+e+Adj+</s> | Pred: k+o+n+s+a+n+t+r+e+Noun+A3sg 
+ 
+True: i+t+a+a+t+k+a+r+Adj+</s> | Pred: i+t+a+a+a+r+k+Noun+Noun+A3sg 
+ 
+True: t+e+m+i+z+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: t+e+m+i+z+l+i+k+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> 
+ 
+True: k+a+t+a+g+o+r+i+s+i+n+Noun+A3sg+Pnon+Dat+</s> | Pred: k+a+t+a+g+o+r+i+Noun+A3sg+P3sg+Dat+</s>+</s>+Zero+Dat 
+ 
+True: a+l+Verb+DB+Verb+Pass+Neg+Prog1+A1pl+</s> | Pred: a+l+ı+n+Verb+Neg+Prog1+A1pl+</s>+</s> 
+ 
+True: b+ö+y+l+e+Adverb+</s> | Pred: b+ö+y+l+e+Adj+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: z+u+l+ü+m+Noun+A3sg+Pnon+Nom+</s> | Pred: z+ü+l+ü+m+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+a+ş+Noun+A3sg+Pnon+Ins+DB+Verb+Zero+Pres+A2sg+</s> | Pred: b+a+ş+l+a+Verb+Pos+Imp+A3sg+</s>+Pnon+Nom+</s> 
+ 
+True: b+a+ş+Noun+A3sg+Pnon+Ins+DB+Verb+Zero+Pres+A2sg+</s> | Pred: b+a+ş+l+a+Verb+Pos+Imp+A3sg+</s>+Pnon+Nom+</s> 
+ 
+True: g+i+b+i+Postp+PCGen+</s> | Pred: g+i+b+i+Postp+PCNom+</s> 
+ 
+True: ş+e+m+i+Noun+A3sg+Pnon+Nom+</s> | Pred: ş+e+m+Noun+A3sg+Pnon+Acc+</s>+</s> 
+ 
+True: b+e+y+a+z+Adj+</s> | Pred: b+e+y+a+z+Noun+A3sg 
+ 
+True: f+ı+r+a+t+p+e+n+Noun+A3sg+Pnon+Gen+DB+Pron+Rel+A3sg+Pnon+Nom+</s> | Pred: f+ı+r+a+t+p+e+n+Noun+A3sg+Pnon+Nom+DB+Noun+Rel+A3sg+Pnon+Nom+</s> 
+ 
+True: u+y+Verb+DB+Verb+Caus+DB+Verb+Pass+Pos+DB+Adj+NarrPart+</s> | Pred: u+y+Verb+DB+Verb+Caus+DB+Verb+Pass+Pos+Narr+A3sg+</s>+</s> 
+ 
+True: ç+o+k+u+l+u+s+l+u+Adj+</s> | Pred: c+o+k+u+l+u+u+Noun+A3sg+Pnon+Nom 
+ 
+True: i+n+ş+a+l+l+a+h+l+Noun+A3sg+Pnon+Dat+</s> | Pred: i+n+ş+a+l+l+a+h+Noun+A3sg+Ins+</s>+</s>+Pnon 
+ 
+True: m+a+ş+a+l+l+a+h+Noun+A3sg+Pnon+Ins+</s> | Pred: m+a+ş+a+l+l+a+Noun+A3sg+Pnon+Ins+</s>+</s> 
+ 
+True: h+a+r+c+ı+r+a+h+Noun+A3pl+Pnon+Acc+</s> | Pred: h+a+r+c+ı+r+a+h+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: y+e+n+Verb+DB+Verb+Able+Neg+DB+Noun+Inf2+A3sg+Pnon+Acc+</s> | Pred: y+e+Verb+DB+Verb+Pass+DB+Verb+Able+Neg+DB+Noun+Inf2+A3sg+Pnon 
+ 
+True: d+ü+ş+ü+n+Verb+Neg+DB+Adj+FutPart+Pnon+</s> | Pred: d+ü+ş+ü+n+Verb+Neg+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: 4+Num+Distrib+</s> | Pred: 4+Num+Card+DB 
+ 
+True: y+e+m+i+ş+Noun+A3sg+Pnon+Gen+</s> | Pred: y+e+Verb+Pos+Narr+Noun+</s>+A3sg+Pnon+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: b+i+l+g+i+l+i+Noun+A3sg+Pnon+Nom+</s> | Pred: b+i+l+g+i+Noun+i+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: a+v+r+u+p+a+i+Adj+</s> | Pred: a+v+r+u+p+a+Noun+Noun+A3sg 
+ 
+True: ö+n+c+e+Postp+PCAbl+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Adj+Rel+</s> | Pred: ö+n+c+e+Noun+A3sg+Pnon+Nom+DB+Adj+Rel+</s>+DB+Adj+</s>+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: d+ü+ğ+ü+m+Noun+A3sg+Pnon+Acc+</s> | Pred: d+ü+ğ+ü+m+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: ç+ö+z+Verb+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: ç+ö+z+Verb+Pos+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: ş+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: ş+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: r+e+s+m+i+Adj+</s> | Pred: r+e+s+i+m+Noun+A3sg 
+ 
+True: k+o+n+s+a+n+t+r+a+s+y+o+n+Noun+A3sg+P3sg+Acc+</s> | Pred: k+o+n+s+a+n+t+r+a+s+y+o+Noun+A3sg+P3sg+Acc+</s>+</s> 
+ 
+True: b+i+l+Verb+DB+Verb+Caus+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: b+i+l+Verb+DB+Verb+Caus+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: t+a+k+ı+m+Noun+A3pl+P3pl+Abl+</s> | Pred: t+a+k+ı+m+Noun+A3pl+P3sg+Abl+</s> 
+ 
+True: t+e+n+i+s+Noun+A3sg+P3sg+Nom+</s> | Pred: t+e+n+Noun+s+Noun+A3sg+P3sg+</s>+</s> 
+ 
+True: a+t+ı+c+ı+l+ı+k+Noun+A3sg+Pnon+Nom+</s> | Pred: a+t+Verb+Pos+ı+Noun+Agt+Pnon+Nom+DB+Noun+Ness+A3sg 
+ 
+True: g+ü+r+e+ş+Noun+A3sg+Pnon+Acc+</s> | Pred: g+ü+r+e+ş+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: s+o+r+u+m+l+u+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P2pl+Gen+</s> | Pred: s+o+r+u+m+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Noun+Ness+A3sg+P2pl+Gen 
+ 
+True: t+a+k+ı+m+Noun+A3sg+P3sg+Gen+DB+Pron+Rel+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: t+a+k+ı+m+Noun+A3sg+P3sg+Loc+DB+Adj+Rel+</s>+Noun+Zero+A3sg+Pnon+Nom+DB+Adj+Rel 
+ 
+True: a+s+m+a+l+ı+m+e+s+c+i+t+Noun+A3sg+Pnon+Nom+</s> | Pred: a+s+m+a+l+ı+m+c+ı+ı+ı+Noun+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: e+c+e+v+i+t+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+Cop+A3sg+</s> | Pred: e+c+e+v+i+t+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> 
+ 
+True: k+a+t+l+a+n+Verb+Pos+Prog1+A3sg+</s> | Pred: k+a+t+l+a+Verb+DB+Verb+Pass+Pos+Prog1 
+ 
+True: a+y+o+l+Interj+</s> | Pred: a+y+o+l+Noun+A3sg 
+ 
+True: k+o+z+m+e+t+i+k+Noun+A3pl+P3pl+Nom+</s> | Pred: k+o+z+m+e+t+i+k+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: p+l+a+c+e+b+o+Noun+A3sg+Pnon+Nom+</s> | Pred: p+l+a+l+e+b+o+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: ç+ı+k+Verb+Pos+Aor+Past+A1pl+</s> | Pred: ç+ı+k+Verb+DB+Verb+Caus+Pos+Past 
+ 
+True: s+a+h+t+e+Adj+DB+Noun+Zero+A3sg+P3sg+Acc+</s> | Pred: s+a+h+t+e+Noun+A3sg+P3sg+Acc+</s>+P3sg+</s>+</s> 
+ 
+True: ö+l+ç+Verb+DB+Verb+Recip+Pos+DB+Noun+Inf2+A3sg+P3sg+Nom+</s> | Pred: ö+l+ç+ü+ş+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Nom+</s>+A3sg 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: d+a+y+a+n+ı+k+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: d+a+y+a+n+ı+k+l+ı+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s>+Noun+Nom+</s>+Pnon 
+ 
+True: i+l+m+i+y+e+Noun+A3sg+Pnon+Nom+</s> | Pred: i+l+m+i+Noun+A3sg+Pnon+Dat+</s>+Nom+</s> 
+ 
+True: k+a+n+ı+Noun+A3sg+Pnon+Gen+</s> | Pred: k+a+n+Noun+Noun+P3sg+Gen+Gen+</s> 
+ 
+True: m+ü+Noun+A3sg+Pnon+Nom+</s> | Pred: m+ü+Ques+Pres+A3sg+</s>+</s> 
+ 
+True: e+d+i+p+Noun+A3sg+Pnon+Nom+</s> | Pred: e+t+Verb+Pos+DB+Adverb+AfterDoingSo+</s>+</s> 
+ 
+True: k+ı+l+Verb+DB+Verb+Pass+Pos+Aor+A3sg+</s> | Pred: k+i+l+Verb+DB+Verb+Pass+Pos+Aor+A3sg+</s> 
+ 
+True: m+ı+Ques+Pres+A3sg+</s> | Pred: m+i+Ques+Pres+A3sg+</s> 
+ 
+True: z+a+y+ı+f+l+a+Verb+DB+Verb+Caus+Pos+Fut+A2pl+</s> | Pred: z+a+y+ı+f+l+a+Verb+DB+Verb+Caus+Pos+DB+A2pl+FutPart 
+ 
+True: g+ö+ç+ü+Noun+A3sg+Pnon+Nom+</s> | Pred: g+ö+ç+Noun+A3sg+P3sg+Nom+</s>+</s> 
+ 
+True: g+ö+ç+ü+Noun+A3sg+Pnon+Ins+</s> | Pred: g+ö+ç+Noun+A3sg+P3sg+Ins+</s>+Ins 
+ 
+True: y+e+t+i+ş+Verb+Pos+DB+Adj+NarrPart+</s> | Pred: y+e+t+i+ş+Verb+Pos+ş+Noun+NarrPart+Pnon 
+ 
+True: b+ö+l+ü+m+Noun+A3sg+P2sg+Acc+</s> | Pred: b+ö+l+ü+m+Noun+A3sg+P3sg+Acc+</s> 
+ 
+True: r+u+h+b+a+n+Noun+A3sg+Pnon+Nom+</s> | Pred: r+u+h+h+a+n+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: a+k+a+d+e+m+i+s+y+e+n+Noun+A3sg+Pnon+Nom+</s> | Pred: a+k+a+d+e+m+i+s+s+e+n+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+a+t+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: b+a+t+ı+Adj+A3sg+Pnon+Nom+</s> 
+ 
+True: e+v+l+i+Adj+DB+Noun+Ness+A3pl+Pnon+Nom+</s> | Pred: e+v+l+i+l+i+k+Noun+A3pl+Pnon+Nom+</s> 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: i+f+t+i+r+a+Noun+A3pl+Pnon+Acc+</s> | Pred: i+f+t+i+r+a+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: a+t+Verb+Pos+DB+Adj+PresPart+DB+Noun+Zero+A3pl+P3pl+Nom+</s> | Pred: a+t+a+n+DB+A3pl+PresPart+DB+Noun+Zero+P3pl+P3pl+Nom+</s> 
+ 
+True: a+n+l+a+Verb+Neg+DB+Noun+NotState+A3sg+Pnon+Abl+</s> | Pred: a+n+l+a+Verb+Neg+DB+Noun+NotState+A3sg+Pnon+Nom+DB 
+ 
+True: g+e+ç+i+ş+Verb+DB+Verb+Caus+Pos+Past+A3sg+</s> | Pred: g+e+ç+Verb+ş+Verb+DB+Verb+Caus+Pos+Past+A3sg+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: z+a+m+a+n+a+ş+ı+m+ı+Noun+A3sg+P3sg+Dat+</s> | Pred: z+a+m+a+n+a+ş+ı+m+ı+Noun+P3sg+P3sg+Dat+</s> 
+ 
+True: c+e+z+a+e+v+i+Noun+A3sg+P3pl+Loc+</s> | Pred: c+e+z+a+e+v+i+Noun+A3pl+P3pl+Loc+</s> 
+ 
+True: g+e+n+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+n+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: g+e+n+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+n+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: k+ı+r+m+ı+z+ı+Adj+</s> | Pred: k+ı+r+m+ı+z+ı+Noun+A3sg 
+ 
+True: e+m+e+k+l+i+Adj+DB+Noun+Ness+A3sg+Pnon+Ins+</s> | Pred: e+m+e+k+l+i+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg 
+ 
+True: k+a+r+ş+ı+o+y+Noun+A3sg+Pnon+Dat+</s> | Pred: k+a+r+ş+ı+o+o+Noun+A3sg+Pnon+Dat+</s> 
+ 
+True: y+a+p+ı+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+Imp+A2sg+</s> | Pred: y+a+p+Verb+DB+Verb+Pass+Pos+DB+Adj+PresPart+</s>+</s>+Nom+</s> 
+ 
+True: a+c+a+r+g+ü+Noun+A3sg+P2sg+Nom+</s> | Pred: a+c+a+r+g+ü+n+Noun+A3sg+Pnon+Nom 
+ 
+True: k+a+r+ş+ı+o+y+Noun+A3sg+Pnon+Loc+</s> | Pred: k+a+r+ş+ı+Adj+DB+Noun+Zero+A3sg+Pnon+Loc 
+ 
+True: u+n+s+u+r+Noun+A3pl+P3pl+Abl+</s> | Pred: u+n+s+u+r+Noun+A3pl+P3sg+Abl+</s> 
+ 
+True: t+a+m+Adverb+</s> | Pred: t+a+m+Adj+</s> 
+ 
+True: ş+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: ş+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: d+ö+r+t+l+ü+Adj+DB+Noun+Zero+A3sg+Pnon+Gen+</s> | Pred: d+ö+r+t+Num+Card+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Adj 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: z+o+r+Adj+DB+Noun+Ness+A3pl+P3sg+Acc+</s> | Pred: z+o+r+Adj+DB+Noun+Ness+A3pl+P3pl+Acc+</s> 
+ 
+True: k+o+m+ü+n+i+z+m+Noun+A3sg+Pnon+Nom+</s> | Pred: k+o+m+i+n+Noun+z+m+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: f+a+ş+i+z+m+Noun+A3sg+P3sg+Nom+</s> | Pred: f+a+ş+i+z+m+i+Noun+A3sg+Pnon+Nom 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: g+ü+v+e+n+Verb+DB+Verb+Pass+Pos+DB+Adj+AorPart+</s> | Pred: g+ü+v+e+n+Verb+l+i+r+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: r+e+s+m+i+Adj+</s> | Pred: r+e+s+i+m+Noun+A3sg 
+ 
+True: e+v+r+a+k+Noun+A3pl+P3sg+Nom+</s> | Pred: e+v+r+a+k+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: k+ı+l+a+v+u+z+Noun+A3sg+P3sg+Nom+</s> | Pred: k+ı+l+a+v+u+z+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: o+r+t+a+l+ı+k+Noun+A3sg+Pnon+Nom+</s> | Pred: o+r+t+a+l+i+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: y+a+n+g+ı+n+Noun+A3sg+Pnon+Nom+</s> | Pred: y+a+n+g+ı+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: d+u+r+Verb+Pos+DB+Noun+Inf3+A3sg+P3sg+Nom+</s> | Pred: d+u+r+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Acc+</s> 
+ 
+True: g+e+l+Verb+Pos+DB+Adj+NarrPart+DB+Noun+Zero+A3pl+P3sg+Gen+</s> | Pred: g+e+l+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Gen+</s>+Noun+Zero+A3pl 
+ 
+True: m+ü+t+e+a+h+h+i+t+i+n+Noun+A3sg+Pnon+Dat+</s> | Pred: m+ü+t+e+a+h+h+i+t+Noun+A3sg+P3sg+Dat+</s>+</s>+Dat 
+ 
+True: u+n+u+t+Verb+Pos+DB+Adj+PastPart+P3sg+</s> | Pred: u+n+u+t+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg 
+ 
+True: v+r+e+Noun+A3sg+P2sg+Nom+</s> | Pred: v+r+e+n+Noun+A3sg+Pnon+Nom 
+ 
+True: r+e+s+m+i+Adj+</s> | Pred: r+e+s+i+m+Noun+A3sg 
+ 
+True: ş+i+m+d+i+Noun+A3sg+Pnon+Nom+DB+Adj+Rel+DB+Noun+Zero+A3pl+Pnon+Nom+</s> | Pred: ş+i+m+d+i+Adj+DB+Noun+Zero+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3pl+</s>+</s> 
+ 
+True: g+ö+s+t+e+r+i+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3sg+P3pl+Nom+</s> | Pred: g+ö+s+t+e+r+i+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3pl+P3sg+Nom+</s> 
+ 
+True: m+e+c+a+z+i+Adj+</s> | Pred: m+e+c+a+z+i+Noun+A3sg 
+ 
+True: e+b+u+Noun+A3sg+Pnon+Nom+</s> | Pred: e+b+i+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: a+s+l+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: a+s+Noun+A3sg+Noun+A3sg+Pnon+Adj+With 
+ 
+True: ç+a+l+ı+ş+k+a+n+Noun+A3sg+Pnon+Nom+</s> | Pred: ç+a+l+ı+ş+k+a+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: ç+a+r+p+Verb+Pos+Fut+A3sg+</s> | Pred: ç+a+r+p+Verb+Pos+DB+Adj+FutPart 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: b+i+r+e+y+Noun+A3sg+Pnon+Dat+</s> | Pred: b+i+r+e+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: u+l+u+s+a+l+Noun+A3sg+Pnon+Nom+</s> | Pred: u+l+u+s+a+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: a+r+m+u+t+ç+u+Noun+A3sg+Pnon+Nom+</s> | Pred: a+r+m+u+t+ç+A3sg+Noun+A3sg+DB+Noun+Agt 
+ 
+True: m+a+l+i+Noun+A3sg+Pnon+Nom+</s> | Pred: m+a+l+i+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: g+ö+r+ü+n+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: g+ö+r+ü+n+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: s+o+n+r+a+Postp+PCAbl+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Adj+Rel+</s> | Pred: s+o+n+r+a+Noun+A3sg+Pnon+Nom+DB+Adj+Rel+</s>+DB+Adj+Rel+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: ö+n+Noun+A3sg+Pnon+Abl+</s> | Pred: ö+n+d+A3sg+n+Noun+A3sg 
+ 
+True: a+i+t+Postp+PCDat+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Acc+</s> | Pred: a+i+t+l+i+k+Noun+A3sg+P3sg+Acc+</s>+</s>+Nom+</s>+</s>+Zero+</s>+P3sg 
+ 
+True: ç+a+l+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Nom+</s> | Pred: ç+a+l+Verb+ş+Noun+A3sg+Pnon+Nom+</s>+Nom+</s> 
+ 
+True: d+a+y+a+Verb+DB+Verb+Caus+Pos+DB+Noun+Inf1+A3sg+Pnon+Nom+</s> | Pred: d+a+y+a+t+DB+Verb+DB+Noun+Inf1+A3sg+Pnon+Nom+</s>+Nom+</s> 
+ 
+True: e+n+t+e+r+e+s+a+n+Adj+</s> | Pred: e+n+t+e+r+a+s+e+n+Adj+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: k+o+v+Noun+A3sg+Pnon+Dat+</s> | Pred: k+o+v+a+Noun+A3sg+Pnon+Nom 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: o+r+g+a+n+Noun+A3sg+Pnon+Gen+</s> | Pred: o+r+g+a+Noun+A3sg+Pnon+Gen+</s>+</s> 
+ 
+True: k+a+p+s+a+Verb+Pos+Aor+A3sg+</s> | Pred: k+a+p+s+a+r+Noun+A3sg+Pnon+Nom 
+ 
+True: n+e+d+e+n+Noun+A3pl+P3pl+Abl+</s> | Pred: n+e+d+e+n+Noun+A3pl+P3sg+Abl+</s> 
+ 
+True: k+u+r+u+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Dat+</s> | Pred: k+u+r+u+m+a+Noun+A3sg+P3sg+Dat+</s>+Dat+</s> 
+ 
+True: a+l+Verb+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: a+l+Verb+Pos+a+k+Noun+A3sg+Pnon 
+ 
+True: f+a+b+r+i+k+a+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3sg+Pnon+Nom+</s> | Pred: f+a+b+r+i+k+a+c+ı+Noun+A3sg+Pnon+Nom+</s>+</s>+Nom+</s>+Pnon 
+ 
+True: v+a+k+ı+f+b+a+n+k+Noun+A3sg+Pnon+Ins+</s> | Pred: v+a+k+ı+f+g+a+n+k+Noun+A3sg+Pnon+Ins+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: i+n+a+n+d+ı+r+ı+c+ı+Adj+</s> | Pred: i+n+a+n+Verb+DB+Verb+Caus+Pos+DB+Noun+Agt 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: m+a+l+Noun+A3pl+Pnon+Acc+</s> | Pred: m+a+l+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+a+v+c+ı+l+ı+k+Noun+A3sg+Pnon+Dat+</s> | Pred: s+a+v+c+ı+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg 
+ 
+True: y+o+l+s+u+z+Adj+DB+Noun+Ness+A3pl+P3sg+Nom+</s> | Pred: y+o+l+s+u+z+Adj+DB+Noun+Ness+A3pl+P3pl+Nom+</s> 
+ 
+True: r+a+d+i+k+a+l+Adj+</s> | Pred: r+a+d+i+k+a+l+Noun+A3sg 
+ 
+True: d+e+ğ+i+ş+Verb+Pos+Past+A3pl+Cond+</s> | Pred: d+e+ğ+i+ş+Verb+DB+Verb+Caus+Pos+Desr 
+ 
+True: y+o+l+s+u+z+Adj+DB+Noun+Ness+A3pl+P3pl+Nom+</s> | Pred: y+o+l+s+u+z+Adj+DB+Noun+Ness+A3pl+P3sg+Nom+</s> 
+ 
+True: m+ü+s+r+i+f+Adj+</s> | Pred: m+ü+s+r+i+f+Noun+A3sg 
+ 
+True: e+ş+g+ü+d+ü+m+Noun+A3sg+P3sg+Nom+</s> | Pred: e+ş+g+ü+m+Noun+A3sg+P1sg+Acc+</s>+A3sg+Nom 
+ 
+True: d+e+ğ+e+r+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+DB+Verb+Caus+Pos+Prog1+Past+A2pl+</s> | Pred: d+e+ğ+e+r+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+DB+Verb+Caus+Pos+Prog1+A2pl+</s>+</s> 
+ 
+True: d+o+k+u+Verb+DB+Verb+Pass+Pos+Fut+A3sg+</s> | Pred: d+o+k+u+Verb+DB+Verb+Pass+Pos+Fut+Adj+</s> 
+ 
+True: n+e+Conj+</s> | Pred: n+e+Pron+Ques 
+ 
+True: l+a+i+k+Adj+DB+Noun+Zero+A3pl+Pnon+Nom+</s> | Pred: l+a+i+k+Noun+A3pl+Pnon+Nom+</s>+Pnon+Nom+</s> 
+ 
+True: d+ü+ş+ü+n+Verb+Pos+DB+Adj+PastPart+P2pl+</s> | Pred: d+ü+ş+ü+n+Verb+Pos+DB+Noun+PastPart+A3sg+</s> 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: ö+n+e+m+s+e+Verb+Pos+DB+Adj+PastPart+P1sg+</s> | Pred: ö+n+e+m+s+e+Verb+Neg+DB+Adj+PastPart+P1sg+</s> 
+ 
+True: a+y+r+ı+Adj+DB+Noun+Agt+A3sg+Pnon+Nom+</s> | Pred: a+y+r+ı+c+ı+Adj+</s>+Pnon+Nom+</s>+Pnon 
+ 
+True: g+e+n+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+n+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: g+e+n+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+n+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+ı+k+ı+l+Verb+Pos+DB+Adj+PresPart+</s> | Pred: s+ı+k+Verb+DB+Verb+Pass+Pos+DB+Adj+PresPart 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: i+s+t+e+Verb+DB+Verb+Pass+Pos+DB+Adj+PastPart+P3sg+</s> | Pred: i+s+t+e+Verb+DB+Verb+Pass+Pos+DB+Pass+PastPart+A3sg+P3sg 
+ 
+True: o+l+Verb+Neg+DB+Adj+AorPart+DB+Noun+Zero+A3pl+P3sg+Nom+</s> | Pred: o+l+Verb+Neg+DB+Noun+Inf2+A3pl+P3pl+Nom+</s>+</s>+Zero+A3sg 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: v+a+z+g+e+ç+Verb+DB+Verb+Pass+Neg+DB+Adj+AorPart+DB+Noun+Zero+A3sg+P3sg+Nom+</s> | Pred: v+a+z+g+e+ç+Verb+DB+Verb+Pass+Neg+Aor+Adj+AorPart+DB+Noun+Zero+A3sg+P3sg+Nom+</s> 
+ 
+True: k+r+u+v+a+z+e+Adj+</s> | Pred: k+r+u+v+a+z+e+Noun+A3sg 
+ 
+True: k+ü+r+t+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: k+ü+r+t+ç+ü+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s>+Pnon+Nom+</s>+Pnon 
+ 
+True: p+a+ç+a+Noun+A3pl+P3pl+Nom+</s> | Pred: p+a+ç+a+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+e+v+Verb+Pos+DB+Adj+PastPart+P1sg+</s> | Pred: s+e+v+Verb+Pos+DB+Adj+PastPart+A3sg+P1sg 
+ 
+True: u+y+u+Verb+DB+Verb+Caus+Pos+Fut+A3sg+</s> | Pred: u+y+u+Verb+DB+Verb+Caus+Pos+DB+Adj+FutPart 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: d+e+r+t+l+e+ş+Verb+Pos+Past+A1sg+</s> | Pred: d+e+r+t+Adj+A3sg+Pnon+Nom+DB+Verb+Caus+Pos 
+ 
+True: k+a+r+Noun+A3sg+P1sg+Dat+</s> | Pred: k+a+r+ı+m+a+Noun+A3sg 
+ 
+True: k+ı+z+Verb+Pos+Prog1+Past+A1sg+</s> | Pred: k+ı+z+a+Verb+Pos+Prog1+Past+A1sg 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: o+l+m+a+z+Noun+A3sg+Pnon+Nom+</s> | Pred: o+l+Verb+Neg+DB+Adj+AorPart+</s>+Nom+</s> 
+ 
+True: d+e+Verb+Pos+DB+Adj+PastPart+P2pl+</s> | Pred: d+e+Verb+Pos+DB+Noun+PastPart+A3sg+P2pl 
+ 
+True: s+ı+r+Noun+A3sg+P2pl+Nom+</s> | Pred: s+ı+r+Noun+A3sg+Pnon+Nom+DB 
+ 
+True: d+a+d+ı+Noun+A3pl+P3sg+Nom+</s> | Pred: d+a+d+ı+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: b+u+l+Verb+DB+Verb+Pass+Pos+DB+Verb+Able+DB+Adj+PresPart+</s> | Pred: b+u+l+u+n+Verb+Pos+DB+Verb+Able+DB+Adj+PresPart+</s>+</s> 
+ 
+True: ü+r+e+Verb+DB+Verb+Caus+Pos+DB+Noun+Agt+A3pl+P3pl+Abl+</s> | Pred: ü+r+e+Verb+DB+Verb+Caus+Pos+DB+Noun+Agt+A3pl+P3sg+Abl+</s> 
+ 
+True: a+m+p+ü+Noun+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: a+m+p+ü+l+Noun+A3sg+P3sg+Nom+</s>+</s>+Nom 
+ 
+True: a+m+e+r+i+k+a+l+ı+Noun+A3pl+Pnon+Gen+</s> | Pred: a+m+e+r+i+k+a+l+ı+Adj+DB+Noun+Zero+A3pl 
+ 
+True: d+u+y+Verb+Pos+DB+Verb+Able+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> | Pred: d+u+Verb+Verb+Pos+DB+Verb+Able+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: y+ı+k+a+Verb+DB+Verb+Reflex+Pos+DB+Adverb+AfterDoingSo+</s> | Pred: y+ı+k+a+Verb+DB+Verb+Pass+Pos+DB+Adverb+AfterDoingSo+</s> 
+ 
+True: c+e+m+s+e+l+e+r+Noun+A3sg+Pnon+Dat+</s> | Pred: c+e+m+s+e+Noun+A3pl+Pnon+Dat+</s>+</s>+Dat+</s> 
+ 
+True: d+o+l+Verb+DB+Verb+Recip+Pos+DB+Adverb+ByDoingSo+</s> | Pred: d+o+l+u+ş+Verb+Pos+DB+Adverb+ByDoingSo+</s>+</s> 
+ 
+True: e+d+a+Noun+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: e+d+a+Noun+ı+Noun+A3sg+Pnon+Nom+</s>+</s> 
+ 
+True: n+a+z+Noun+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: n+a+z+l+ı+Noun+A3sg+Pnon+Nom+</s>+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: h+a+y+r+i+y+e+Noun+A3sg+Pnon+Nom+</s> | Pred: h+a+y+r+i+Noun+e+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+i+g+e+Noun+A3sg+Pnon+Nom+</s> | Pred: b+i+g+e+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: v+e+i+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+Imp+A2sg+</s> | Pred: v+e+i+l+e+n+Adverb+</s>+Pnon+Nom+</s>+Adj+Related+</s> 
+ 
+True: r+o+l+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A1sg+</s> | Pred: r+o+l+Noun+A3sg+P1sg+Nom+</s>+Nom+</s>+Pres+A1sg+</s> 
+ 
+True: k+o+m+e+d+y+e+n+Noun+A3sg+P3sg+Nom+</s> | Pred: k+o+m+e+d+y+e+Noun+A3sg+P2sg+Nom+</s>+Adj 
+ 
+True: p+i+ş+k+i+n+Noun+A3sg+Pnon+Nom+</s> | Pred: p+i+ş+k+i+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: ç+ı+k+Verb+DB+Verb+Caus+Pos+Fut+A3sg+</s> | Pred: ç+ı+k+Verb+DB+Verb+Caus+Pos+Fut+Adj+</s> 
+ 
+True: t+e+ş+b+i+h+Noun+A3sg+Pnon+Nom+</s> | Pred: t+e+s+b+i+h+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: a+ş+k+Noun+A3sg+Pnon+Gen+</s> | Pred: a+ş+k+Noun+A3sg+Noun+A3sg+Pnon 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+</s> 
+ 
+True: h+a+h+Noun+A3sg+Pnon+Dat+</s> | Pred: h+a+h+a+Noun+A3sg+Pnon+Nom 
+ 
+True: h+i+h+Noun+A3sg+P3sg+Nom+</s> | Pred: h+i+h+i+Noun+A3sg+Pnon+Nom 
+ 
+True: b+o+ğ+Verb+DB+Verb+Recip+Pos+Aor+A2sg+</s> | Pred: b+o+ğ+u+DB+Verb+Recip+Pos+Aor+A2sg+</s> 
+ 
+True: i+n+c+i+l+m+e+z+Noun+A3sg+Pnon+Nom+</s> | Pred: i+n+c+i+l+Verb+Neg+Aor+A3sg+</s>+</s>+Nom+</s> 
+ 
+True: r+ö+p+o+r+t+a+j+Noun+A3sg+P3sg+Nom+</s> | Pred: r+ö+p+o+r+t+a+j+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: s+e+k+s+Noun+A3sg+P3sg+Nom+</s> | Pred: s+e+k+s+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: i+d+o+l+Noun+A3sg+Pnon+Acc+</s> | Pred: i+d+o+l+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: s+e+k+s+Noun+A3sg+P3sg+Nom+DB+Verb+Zero+Past+A2pl+</s> | Pred: s+e+k+s+i+m+Noun+A3sg+P3sg+Nom+DB+Verb+Zero+Past 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: b+e+n+Pron+Pers+A1sg+Pnon+Abl+</s> | Pred: b+e+n+Pron+Pers+A1sg+Pnon+A3sg+Pnon 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: g+ö+z+Noun+A3pl+P1sg+Nom+</s> | Pred: g+ö+z+l+e+Verb+Pos+Aor 
+ 
+True: a+l+e+n+i+Adj+</s> | Pred: a+l+e+n+Noun+A3sg+P3sg 
+ 
+True: k+e+r+e+m+Noun+A3sg+Pnon+Nom+</s> | Pred: k+e+r+e+Noun+A3sg+P1sg+Nom+</s>+</s> 
+ 
+True: d+a+l+g+a+k+ı+r+a+n+Noun+A3sg+Pnon+Dat+</s> | Pred: d+a+l+g+a+k+a+z+Noun+a+Noun+A3sg+Pnon+Dat+</s> 
+ 
+True: k+i+ş+i+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Dat+</s> | Pred: k+i+ş+i+l+i+k+Noun+A3sg+P3sg+Dat+</s>+</s>+Dat+Dat 
+ 
+True: y+e+t+m+e+z+Noun+A3sg+Pnon+Nom+</s> | Pred: y+e+t+Verb+Neg+Aor+A3sg+</s>+</s>+Nom+</s> 
+ 
+True: ı+n+Noun+A3sg+Pnon+Nom+DB+Noun+Dim+A3sg+Pnon+Nom+</s> | Pred: ı+n+c+ı+k+Adj+</s>+Pnon+Nom+</s>+Pnon+Nom+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: b+e+n+d+e+n+Noun+A3sg+Pnon+Nom+</s> | Pred: b+e+n+Pron+Pers+A1sg+Pnon+A3sg+Pnon+Nom+</s> 
+ 
+True: k+a+s+e+d+i+n+Noun+A3sg+P3sg+Nom+</s> | Pred: k+a+s+e+t+Noun+A3sg+P3sg+Acc+</s>+</s>+</s> 
+ 
+True: a+l+m+a+n+Noun+A3sg+P1sg+Nom+</s> | Pred: a+l+m+Pos+n+Adj+DB+Verb+Zero+Pres 
+ 
+True: a+d+a+Noun+A3sg+P1sg+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: a+d+a+m+Noun+A3sg+Nom+Nom+Verb+Zero+Past+A3sg+</s> 
+ 
+True: k+a+b+i+r+Noun+A3sg+P3sg+Ins+</s> | Pred: k+a+b+r+i+Noun+A3sg+Pnon+Ins+</s> 
+ 
+True: i+s+t+e+Verb+Pos+DB+Noun+PastPart+A3sg+P1sg+Nom+</s> | Pred: i+s+t+e+Verb+Pos+DB+Adj+PastPart+P1sg+</s>+Nom+</s> 
+ 
+True: ş+a+r+k+ı+Noun+A3pl+P3pl+Dat+</s> | Pred: ş+a+r+k+ı+Noun+A3pl+P3sg+Dat+</s> 
+ 
+True: k+ı+z+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A1sg+</s> | Pred: k+ı+z+Verb+Pos+Past+A1sg+</s>+Noun+</s>+Nom+</s>+A1sg 
+ 
+True: h+a+l+a+Adverb+</s> | Pred: h+a+l+Noun+A3sg+Pnon 
+ 
+True: k+ı+z+g+ı+n+Adj+DB+Verb+Zero+Pres+A1sg+</s> | Pred: k+ı+z+g+ı+n+Adj+DB+Noun+Zero+A3sg+P1sg+Nom 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: y+a+v+a+ş+l+a+Verb+Pos+Fut+A3sg+</s> | Pred: y+a+v+a+ş+l+a+Verb+Pos+DB+Adj+FutPart 
+ 
+True: b+a+ş+k+a+Postp+PCAbl+</s> | Pred: b+a+ş+k+a+Adj+</s>+</s> 
+ 
+True: d+i+l+Noun+A3sg+P3sg+Ins+</s> | Pred: d+i+l+i+Noun+A3sg+Ins+Ins 
+ 
+True: d+o+ğ+Verb+DB+Verb+Caus+Pos+DB+Adj+PresPart+</s> | Pred: d+o+ğ+u+r+Verb+Pos+DB+Adj+PresPart+</s>+</s> 
+ 
+True: m+ü+z+i+k+Noun+A3pl+Pnon+Acc+</s> | Pred: m+ü+z+i+k+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: i+s+t+e+r+Conj+</s> | Pred: i+s+t+e+Verb+Pos+Aor 
+ 
+True: m+u+t+l+u+Noun+A3sg+Pnon+Nom+</s> | Pred: m+u+t+l+u+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: t+a+y+f+Noun+A3sg+Pnon+Dat+</s> | Pred: t+a+y+f+a+Noun+Pnon+Dat+Nom 
+ 
+True: b+e+r+a+b+e+r+Postp+PCIns+DB+Verb+Zero+Past+A1pl+</s> | Pred: b+e+r+a+b+e+r+d+DB+Verb+Zero+DB+A1pl+</s>+</s> 
+ 
+True: h+ü+s+n+ü+Noun+A3sg+Pnon+Ins+</s> | Pred: h+ü+s+n+n+Noun+A3sg+P3sg+Ins+</s> 
+ 
+True: e+r+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+DB+Adverb+While+</s> | Pred: e+r+k+e+n+e+Adverb+</s>+Pnon+</s>+</s>+Pnon+Dat 
+ 
+True: g+e+n+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+n+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+t+r+a+t+e+j+i+Noun+A3pl+P3pl+Nom+</s> | Pred: s+t+r+a+t+e+j+i+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: m+e+ş+g+u+l+Adj+DB+Noun+Zero+A3pl+Pnon+Nom+</s> | Pred: m+e+ş+g+u+l+Noun+A3pl+Pnon+Nom+</s>+Pnon+Nom+</s> 
+ 
+True: f+e+l+ç+Noun+A3sg+P3sg+Nom+</s> | Pred: f+e+l+ç+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: s+o+r+u+m+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Noun+Ness+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: s+o+r+u+m+l+u+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s>+Verb 
+ 
+True: s+e+v+Verb+Pos+DB+Adj+PastPart+P1sg+</s> | Pred: s+e+v+Verb+Pos+DB+Adj+PastPart+A3sg+P1sg 
+ 
+True: u+z+u+n+y+ı+l+m+a+z+Noun+A3sg+Pnon+Nom+</s> | Pred: u+z+u+n+l+a+Verb+m+a+z+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: k+a+ç+ı+n+Verb+DB+Verb+Pass+Pos+DB+Noun+NotState+A3sg+P3sg+Abl+</s> | Pred: k+a+ç+ı+n+ı+l+m+a+z+Adj+DB+Noun+Ness+A3sg+P3sg+Abl 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: k+ı+z+Noun+A3sg+P1sg+Nom+</s> | Pred: k+i+z+Pron+Ques+Ques+A3sg+Nom 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: p+e+ş+i+n+Adj+DB+Noun+Zero+A3sg+Pnon+Loc+DB+Verb+Zero+Pres+A3pl+</s> | Pred: p+e+ş+i+n+Adj+DB+Noun+Zero+A3pl+Pnon+Nom+DB+Verb+Zero+Pres+A3pl+</s> 
+ 
+True: n+e+f+e+s+l+e+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf2+A3sg+Pnon+Dat+</s> | Pred: n+e+f+e+s+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+DB+Noun+Inf2+A3sg+Pnon+Dat 
+ 
+True: y+a+r+a+r+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+Imp+A2pl+</s> | Pred: y+a+r+a+r+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+DB+Noun+Gen+</s> 
+ 
+True: v+e+r+Verb+Pos+DB+Adj+FutPart+P3sg+</s> | Pred: v+e+r+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg 
+ 
+True: i+s+t+i+k+r+a+r+Noun+A3sg+Pnon+Acc+</s> | Pred: i+s+t+i+k+r+a+r+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: ü+t+ü+l+e+Verb+Pos+Prog1+Past+A1sg+</s> | Pred: ü+t+Verb+DB+Verb+Pass+Pos+Prog1+Past+A1sg+</s> 
+ 
+True: ö+l+Verb+Pos+DB+Noun+PastPart+A3pl+P3pl+Acc+</s> | Pred: ö+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3pl+Acc+</s> 
+ 
+True: i+h+t+i+y+a+ç+Noun+A3pl+P3sg+Acc+</s> | Pred: i+h+t+i+y+a+ç+Noun+A3pl+P2sg+Acc+</s> 
+ 
+True: k+a+r+ş+ı+l+a+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Loc+</s> | Pred: k+a+r+ş+ı+l+a+Verb+Pos+DB+Noun+Inf2+Loc+</s>+Loc+</s> 
+ 
+True: p+o+r+s+e+l+e+n+Noun+A3sg+P3sg+Nom+</s> | Pred: p+o+r+s+e+l+e+n+Adj+DB+Noun+Zero+A3sg 
+ 
+True: ı+m+p+l+a+n+t+Noun+A3sg+Pnon+Nom+</s> | Pred: i+m+l+l+a+n+t+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: k+u+r+t+a+r+a+n+Noun+A3sg+Pnon+Nom+</s> | Pred: k+u+r+t+a+r+Verb+Pos+DB+Adj+PresPart+</s>+</s> 
+ 
+True: b+a+y+r+a+m+k+i+Noun+A3sg+Pnon+Nom+</s> | Pred: b+a+y+r+a+m+Noun+A3sg+Pnon+Nom+DB+Adj+Rel 
+ 
+True: p+i+d+e+Noun+A3pl+Pnon+Acc+</s> | Pred: p+i+d+e+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: f+e+d+a+k+a+r+Adj+DB+Adj+AsIf+</s> | Pred: f+e+d+a+k+a+r+Adj+DB+Adverb+AsIf+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: n+a+i+l+Noun+A3sg+Pnon+Nom+</s> | Pred: n+a+i+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: g+i+r+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Noun+Pnon+A3sg+</s>+Nom+</s> 
+ 
+True: b+i+l+e+t+i+x+Noun+A3sg+Pnon+Nom+</s> | Pred: b+i+l+e+t+Verb+Pos+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: k+u+r+Verb+Pos+Fut+A3sg+</s> | Pred: k+u+r+Verb+Pos+Fut+Adj+FutPart 
+ 
+True: m+e+n+e+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: m+e+n+e+l+i+k+Adj+</s>+Pnon+Nom+</s>+Pnon+Nom+</s> 
+ 
+True: u+l+u+s+a+l+Noun+A3sg+Pnon+Nom+</s> | Pred: u+l+u+s+a+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: t+a+n+Noun+A3sg+Pnon+Dat+</s> | Pred: t+a+n+a+A3sg+A3sg+Dat+</s> 
+ 
+True: 1+.+8+3+0+Num+Card+</s> | Pred: 1+.+8+3+0+Num+Real+</s> 
+ 
+True: i+ç+e+r+i+Noun+A3sg+Pnon+Nom+</s> | Pred: i+ç+e+r+i+Noun+A3sg+Pnon+Dat+</s> 
+ 
+True: ö+n+e+m+s+e+Verb+DB+Verb+Pass+Neg+Fut+A3sg+</s> | Pred: ö+n+e+m+s+e+Verb+DB+Verb+Pass+Neg+DB+Adj+FutPart 
+ 
+True: m+e+r+s+i+n+Noun+A3sg+Pnon+Nom+</s> | Pred: m+e+r+s+i+Noun+A3sg+Gen+</s>+Nom+</s> 
+ 
+True: ç+a+ğ+r+ı+Noun+A3pl+P3sg+Nom+</s> | Pred: ç+a+ğ+r+ı+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: i+ş+Noun+A3sg+P3sg+Nom+DB+Verb+Zero+Narr+A3sg+</s> | Pred: i+ş+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Narr+A3sg+</s> 
+ 
+True: a+l+a+c+a+k+Noun+A3sg+Pnon+Nom+</s> | Pred: a+l+Verb+Pos+a+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: ş+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: ş+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: ö+ğ+r+e+n+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Nom+</s> | Pred: ö+ğ+r+e+n+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Nom+</s> 
+ 
+True: m+ü+h+e+n+d+i+s+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Nom+</s> | Pred: m+ü+h+e+n+d+i+s+s+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Nom+</s> 
+ 
+True: l+i+s+a+n+s+Noun+A3sg+Pnon+Acc+</s> | Pred: l+i+s+a+n+s+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: b+e+k+l+e+n+t+i+Noun+A3pl+P3sg+Gen+</s> | Pred: b+e+k+l+e+n+t+i+Noun+A3pl+P3pl+Gen+</s> 
+ 
+True: k+a+t+Verb+DB+Verb+Pass+Pos+Prog2+A1pl+</s> | Pred: k+a+t+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf1 
+ 
+True: n+i+z+i+p+Noun+A3sg+Pnon+Nom+</s> | Pred: n+i+z+i+p+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: u+y+a+r+Verb+DB+Verb+Pass+Pos+DB+Adj+PastPart+P3sg+</s> | Pred: u+y+a+r+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3sg+P3sg 
+ 
+True: b+i+l+g+i+Noun+A3pl+Pnon+Acc+</s> | Pred: b+i+l+g+i+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: k+o+n+f+o+r+Noun+A3sg+Pnon+Acc+</s> | Pred: k+o+n+f+o+r+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: o+t+o+m+o+b+i+l+Noun+A3pl+P3sg+Nom+</s> | Pred: o+t+o+m+o+b+i+l+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: s+a+r+t+Noun+A3sg+Pnon+Nom+</s> | Pred: s+a+r+t+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: o+t+o+m+o+b+i+l+Noun+A3pl+P3sg+Nom+</s> | Pred: o+t+o+m+o+b+i+l+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: y+a+p+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> | Pred: y+a+p+Verb+Pos+DB+Adj+FutPart+P3sg+</s>+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: p+a+s+t+e+l+Noun+A3sg+Pnon+Ins+</s> | Pred: p+a+s+t+e+l+l+e+Noun+A3sg+Pnon 
+ 
+True: m+ü+t+e+v+a+z+ı+Adj+DB+Noun+Ness+A3sg+P3sg+Nom+</s> | Pred: m+ü+t+e+v+a+z+ı+z+Adj+Noun+Ness+A3sg+Pnon+Acc+</s> 
+ 
+True: e+v+Noun+A3sg+P3sg+Gen+</s> | Pred: e+v+Noun+A3sg+P3sg+Gen+Pnon 
+ 
+True: ş+i+m+d+i+Noun+A3sg+Pnon+Nom+DB+Adj+Rel+DB+Noun+Zero+A3pl+Pnon+Nom+</s> | Pred: ş+i+m+d+i+Adj+DB+Noun+Zero+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3pl+</s>+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: s+ı+v+a+Verb+DB+Verb+Pass+Pos+DB+Adj+PresPart+DB+Noun+Zero+A3pl+Pnon+Dat+</s> | Pred: s+ı+v+a+n+a+Verb+Pos+Adj+Adj+DB+Noun+Zero+A3pl+Pnon+Dat+</s>+</s>+Dat 
+ 
+True: ö+z+g+ü+n+Noun+A3sg+Pnon+Nom+</s> | Pred: ö+z+g+ü+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+e+r+g+i+r+a+f+i+Noun+A3sg+Pnon+Nom+</s> | Pred: s+e+r+g+i+r+a+f+Noun+A3sg+Pnon+Acc+</s>+</s> 
+ 
+True: l+i+t+o+g+r+a+f+i+Noun+A3sg+Pnon+Nom+</s> | Pred: l+i+t+o+g+g+a+f+i+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: s+e+ç+k+i+n+Adj+</s> | Pred: s+e+ç+k+i+n+Noun+A3sg 
+ 
+True: z+i+h+i+n+Noun+A3pl+Pnon+Acc+</s> | Pred: z+i+h+i+n+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: u+l+a+ş+Verb+Pos+DB+Adj+FutPart+P3sg+</s> | Pred: u+l+a+ş+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg 
+ 
+True: ü+r+e+t+i+m+Noun+A3sg+Pnon+Acc+</s> | Pred: ü+r+e+t+i+m+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: h+e+k+t+a+r+Noun+A3sg+Pnon+Dat+</s> | Pred: h+e+k+t+a+r+a+Noun+A3sg+Pnon+Nom 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: s+a+h+n+e+Noun+A3pl+Pnon+Acc+</s> | Pred: s+a+h+n+e+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: ı+z+g+a+r+a+Noun+A3sg+Pnon+Gen+</s> | Pred: i+z+g+a+r+a+Noun+A3sg+Pnon+Gen+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: k+Noun+A3sg+Pnon+Nom+</s> | Pred: k+Punct+</s>+Pnon+Nom+</s> 
+ 
+True: a+p+a+k+Adj+DB+Noun+Zero+A3sg+Pnon+Gen+</s> | Pred: a+p+a+ğ+i+n+Noun+</s>+Pnon+Nom+</s>+Pnon 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: d+o+n+Verb+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3pl+P3pl+Nom+</s> | Pred: d+o+n+Verb+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3pl+P3sg+Nom+</s> 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: o+Pron+Pers+A3sg+Pnon+Nom+</s> | Pred: o+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: y+ı+l+d+ı+z+l+a+Verb+DB+Verb+Pass+Pos+DB+Adverb+ByDoingSo+</s> | Pred: y+ı+l+d+ı+z+Adj+DB+Verb+Acquire+Pos+DB+Adverb+ByDoingSo+</s>+Adverb+</s> 
+ 
+True: c+ü+z+d+a+n+Noun+A3pl+P3pl+Nom+</s> | Pred: c+ü+z+d+a+n+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: i+l+k+Adverb+</s> | Pred: i+l+k+Adj+</s> 
+ 
+True: v+e+r+i+m+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Noun+Ness+A3sg+P3sg+Nom+</s> | Pred: v+e+r+i+m+l+i+Adj+DB+Noun+Ness+A3sg+P3sg+Nom+</s>+P3sg+Nom+</s>+</s> 
+ 
+True: k+a+r+ş+ı+l+a+ş+t+ı+r+Verb+DB+Verb+Pass+Pos+Prog1+A3sg+</s> | Pred: k+a+r+ş+ı+l+a+ş+Verb+DB+Verb+Caus+DB+Verb+Pass+Pos+Prog1+A3sg+</s> 
+ 
+True: b+a+t+ı+Adj+</s> | Pred: b+a+t+ı+Adj+A3sg 
+ 
+True: s+t+a+n+d+a+r+t+ı+n+Noun+A3sg+Pnon+Loc+</s> | Pred: s+t+a+n+d+a+r+t+Noun+A3sg+P3sg+Loc+</s>+</s>+Loc 
+ 
+True: o+l+a+ğ+a+n+d+ı+ş+ı+Noun+A3sg+P3sg+Nom+</s> | Pred: o+l+a+ğ+a+n+ı+ı+Noun+Nom+Verb+Nom+DB+DB+Zero 
+ 
+True: d+i+g+i+t+ü+r+k+Noun+A3sg+Pnon+Nom+</s> | Pred: d+i+g+i+t+ü+r+k+Noun+</s>+Pnon+Nom+</s> 
+ 
+True: a+l+Verb+Pos+Imp+A2sg+</s> | Pred: a+l+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: g+e+l+Verb+Pos+DB+Noun+Inf1+A3sg+Pnon+Nom+DB+Verb+Zero+Narr+A3sg+</s> | Pred: g+e+l+Verb+Pos+Narr+Narr+A3sg+</s>+</s>+</s>+</s>+Verb+Zero+Narr+</s>+</s> 
+ 
+True: a+r+t+Noun+A3sg+P3sg+Abl+</s> | Pred: a+r+d+ı+n+d+a+n 
+ 
+True: y+e+m+e+k+Noun+A3sg+P3pl+Abl+</s> | Pred: y+e+m+e+k+Noun+A3pl+P3sg+Abl+</s> 
+ 
+True: s+o+s+Noun+A3sg+P3sg+Nom+</s> | Pred: s+o+s+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: s+p+e+s+i+y+a+l+Adj+DB+Noun+Zero+A3sg+P3sg+Nom+</s> | Pred: s+p+e+s+i+y+a+l+i+Noun+A3sg+Pnon+Nom+</s>+</s>+</s> 
+ 
+True: a+r+a+p+s+a+ç+ı+Noun+A3sg+P3sg+Nom+</s> | Pred: a+r+a+p+s+a+ç+ı+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: g+ö+r+ü+ş+Noun+A3sg+P3sg+Nom+</s> | Pred: g+ö+r+ü+ş+Noun+A3sg+Pnon+Acc+</s> 
+ 
+True: t+a+ş+ı+n+Verb+Pos+DB+Verb+Able+DB+Noun+Inf2+A3sg+P3sg+Nom+</s> | Pred: t+a+ş+ı+Verb+DB+Verb+Pass+Pos+DB+Verb+Able+DB+Noun+Inf2+A3sg+P3sg 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: ü+r+e+t+Noun+A3sg+Pnon+Nom+</s> | Pred: ü+r+e+Verb+DB+Verb+Caus+Pos+Imp 
+ 
+True: t+ü+k+e+t+Verb+Pos+Imp+A2sg+</s> | Pred: t+ü+k+e+t+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: ş+i+r+k+e+t+Noun+A3pl+P3pl+Nom+</s> | Pred: ş+i+r+k+e+t+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: d+i+d+i+n+Verb+Pos+Past+A3sg+</s> | Pred: d+i+d+i+n+Noun+A3sg+Pnon+Nom+DB 
+ 
+True: f+ı+r+ı+l+Dup+</s> | Pred: f+ı+r+ı+l+Noun+A3sg 
+ 
+True: f+ı+r+ı+l+Dup+</s> | Pred: f+ı+r+ı+l+Noun+A3sg 
+ 
+True: ü+t+Verb+Pos+Prog1+A3sg+</s> | Pred: ü+t+Verb+Verb+Pos+Prog1+</s> 
+ 
+True: n+e+f+i+s+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: n+e+f+i+s+t+DB+Noun+Zero+A3sg+Nom+Nom+DB+Zero+Zero 
+ 
+True: a+y+a+k+ü+s+t+Noun+A3sg+P3sg+Nom+</s> | Pred: a+y+a+k+ü+s+t+ü+Adj+</s>+Pnon+Nom 
+ 
+True: g+e+ç+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: g+e+ç+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: f+a+z+l+a+Noun+A3sg+Pnon+Nom+</s> | Pred: f+a+z+l+a+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: d+e+m+i+r+Noun+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: d+e+m+i+r+l+i+Noun+A3sg+Pnon+Nom+</s>+</s> 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: d+e+ğ+i+l+Conj+</s> | Pred: d+e+ğ+i+l+Verb+Neg 
+ 
+True: r+e+z+i+d+a+n+s+Noun+A3sg+P3sg+Ins+</s> | Pred: r+e+z+i+d+a+n+Noun+A3sg+P3sg+Ins+</s>+y 
+ 
+True: b+e+y+a+p+Noun+A3sg+Pnon+Nom+</s> | Pred: b+e+y+a+p+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: d+u+t+Noun+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: d+u+t+l+A3sg+Pnon+Nom+DB+Adj+With+</s> 
+ 
+True: t+e+r+m+a+l+Adj+</s> | Pred: t+e+r+m+a+l+Noun+A3sg 
+ 
+True: m+e+k+a+n+Noun+A3sg+Pnon+Acc+</s> | Pred: m+e+k+a+n+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: j+a+n+k+u+l+o+v+s+k+i+Noun+A3sg+Pnon+Nom+</s> | Pred: j+a+n+k+o+l+e+v+s+v+u+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: m+i+l+l+i+Noun+A3sg+Pnon+Nom+</s> | Pred: m+i+l+l+i+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: t+e+k+n+i+k+Noun+A3sg+Pnon+Nom+</s> | Pred: t+e+k+n+i+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: g+e+r+i+Adj+DB+Noun+Zero+A3sg+Pnon+Abl+</s> | Pred: g+e+r+i+Noun+A3sg+Pnon+Abl+</s>+Pnon+</s>+</s> 
+ 
+True: t+e+r+l+e+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Abl+</s> | Pred: t+e+r+l+e+Verb+Pos+DB+Adverb+WithoutHavingDoneSo+</s>+Pnon+Abl+</s> 
+ 
+True: d+u+a+Noun+A3pl+P3pl+Nom+</s> | Pred: d+u+a+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: ç+a+ğ+d+a+ş+Noun+A3sg+Pnon+Nom+</s> | Pred: ç+a+ğ+d+a+ş+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: s+a+p+Verb+DB+Verb+Caus+Pos+DB+Noun+FutPart+A3sg+P3sg+Dat+</s> | Pred: s+a+p+t+DB+Verb+Caus+Pos+DB+Noun+FutPart+A3sg+P3sg+Dat+</s> 
+ 
+True: r+ü+ş+t+ü+Noun+A3sg+Pnon+Nom+</s> | Pred: r+ü+ş+t+ü+Noun+A3sg+Nom+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: y+a+n+ı+t+Noun+A3sg+Pnon+Acc+</s> | Pred: y+a+n+ı+t+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: g+ü+n+d+e+m+Noun+A3sg+Pnon+Acc+</s> | Pred: g+ü+n+d+e+m+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: ş+o+k+e+Adj+</s> | Pred: ş+o+k+e+Noun+A3sg 
+ 
+True: d+e+r+t+l+e+ş+Verb+Pos+Aor+A3sg+</s> | Pred: d+e+r+t+Noun+A3sg+Pnon+Nom+DB+Verb+Become+Pos 
+ 
+True: t+e+k+n+i+k+Noun+A3sg+Pnon+Nom+</s> | Pred: t+e+k+n+i+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: t+ı+ğ+a+Noun+A3sg+P2sg+Dat+</s> | Pred: t+i+g+a+n+a+Noun+A3sg+Pnon 
+ 
+True: t+a+k+ı+m+Noun+A3sg+Pnon+Acc+</s> | Pred: t+a+k+ı+m+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: t+a+ş+ı+Verb+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: t+a+ş+ı+Verb+Pos+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: g+e+r+ç+e+k+Noun+A3pl+Pnon+Acc+</s> | Pred: g+e+r+ç+e+k+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: a+r+k+a+d+a+ş+Noun+A3pl+P3pl+Abl+</s> | Pred: a+r+k+a+d+a+ş+Noun+A3pl+P3sg+Abl+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: m+a+ç+a+Noun+A3sg+Pnon+Nom+</s> | Pred: m+a+ç+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: a+z+i+z+Noun+A3sg+Pnon+Nom+</s> | Pred: a+z+i+z+Noun+</s>+Pnon+Nom+</s> 
+ 
+True: a+z+i+m+Noun+A3sg+P1sg+Nom+</s> | Pred: a+z+m+m+Noun+A3sg+P1sg+Nom+</s> 
+ 
+True: e+l+e+ş+t+i+r+i+Noun+A3pl+P3sg+Abl+</s> | Pred: e+l+e+ş+t+i+r+i+Noun+A3pl+P3pl+Abl+</s> 
+ 
+True: b+e+y+a+n+a+t+Noun+A3pl+Pnon+Acc+</s> | Pred: b+e+y+a+n+a+t+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: d+e+m+e+ç+Noun+A3sg+Pnon+Nom+</s> | Pred: d+e+Verb+Pos+Narr+A3sg+</s>+</s>+Nom+</s> 
+ 
+True: o+y+n+a+t+Verb+Pos+Imp+A2sg+</s> | Pred: o+y+n+a+t+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: k+e+s+i+m+Noun+A3pl+P3pl+Acc+</s> | Pred: k+e+s+i+m+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: o+f+Noun+A3sg+Pnon+Nom+</s> | Pred: o+f+Interj+A3sg+Pnon+Nom+</s> 
+ 
+True: a+l+a+c+a+k+Noun+A3sg+Pnon+Nom+</s> | Pred: a+l+Verb+Pos+a+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: h+o+s+t+e+s+Noun+A3sg+Pnon+Abl+</s> | Pred: h+o+s+t+e+t+Noun+A3sg+Pnon+Abl+</s> 
+ 
+True: e+t+Verb+Neg+DB+Noun+PastPart+A3pl+P3pl+Nom+</s> | Pred: e+t+Verb+Neg+DB+Adj+PastPart+P3pl+</s>+Nom+</s> 
+ 
+True: e+n+t+e+r+e+s+a+n+Adj+</s> | Pred: e+n+t+e+r+a+s+e+Noun+A3sg+</s> 
+ 
+True: a+r+a+Verb+Pos+DB+Noun+PastPart+A3sg+P3pl+Nom+</s> | Pred: a+r+a+Verb+Pos+DB+Adj+PastPart+P3pl+</s>+Nom+</s> 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: u+m+a+Noun+A3sg+P1sg+Acc+</s> | Pred: u+m+a+m+i+Adj+</s>+Pnon 
+ 
+True: h+a+r+ç+Noun+A3sg+Pnon+Acc+</s> | Pred: h+a+r+ç+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: 5+x+5+Noun+A3sg+Pnon+Nom+</s> | Pred: 5+5+5+Num+Card+</s>+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: a+t+e+ş+b+ö+c+e+ğ+i+Noun+A3sg+P3sg+Gen+</s> | Pred: a+t+e+ş+b+ö+c+e+ğ+i+Noun+A3sg+Pnon+Gen+</s> 
+ 
+True: s+t+e+r+e+o+i+d+Noun+A3pl+Pnon+Nom+</s> | Pred: s+t+e+r+e+o+i+Noun+A3pl+Pnon+Nom+</s>+Verb 
+ 
+True: y+a+p+Verb+Pos+DB+Noun+Inf2+A3sg+P3pl+Acc+</s> | Pred: y+a+p+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Acc+</s> 
+ 
+True: i+l+k+e+Noun+A3pl+Pnon+Acc+</s> | Pred: i+l+k+e+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: m+e+d+e+n+i+Noun+A3sg+Pnon+Nom+</s> | Pred: m+e+d+e+n+i+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: a+n+a+b+i+l+i+m+Noun+A3sg+Pnon+Nom+</s> | Pred: a+n+Verb+Pos+i+l+m+A3sg+P1sg+Nom+</s>+Verb+Zero 
+ 
+True: s+e+v+Verb+Pos+DB+Adj+PastPart+P1sg+</s> | Pred: s+e+v+Verb+Pos+DB+Adj+PastPart+A3sg+</s> 
+ 
+True: b+e+n+Pron+Pers+A1sg+Pnon+Abl+</s> | Pred: b+e+n+Pron+Pers+A1sg+Pnon+A3sg+Pnon 
+ 
+True: d+o+ğ+r+u+Noun+A3sg+P3sg+Nom+</s> | Pred: d+o+ğ+r+u+Adj+DB+Noun+Zero+A3sg 
+ 
+True: s+e+ç+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: s+e+ç+Verb+Pos+Neces+A3sg+</s>+A3sg+Pnon+Nom+DB+Adj+With+</s> 
+ 
+True: y+ü+c+e+l+Verb+DB+Verb+Caus+Pos+DB+Adj+PresPart+</s> | Pred: y+ü+c+e+l+Noun+A3sg+Pnon+Abl+</s>+Verb+Acquire+Pos+Imp 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: ç+ı+k+Verb+Pos+DB+Verb+Able+Fut+A3sg+</s> | Pred: ç+ı+k+Verb+Pos+DB+Verb+Able+DB+Adj+FutPart 
+ 
+True: i+Noun+A3sg+Pnon+Nom+</s> | Pred: ı+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: a+ç+ı+k+g+ö+z+Noun+A3sg+Pnon+Nom+</s> | Pred: a+ç+ı+k+g+ö+z+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: 1+0+/+7+Num+Ratio+</s> | Pred: 1+0+0+7+Num+Card+</s> 
+ 
+True: f+ı+n+d+ı+k+z+a+d+e+Noun+A3sg+Pnon+Nom+</s> | Pred: f+ı+n+d+ı+k+d+a+d+e+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: ç+a+ğ+d+a+ş+Noun+A3sg+Pnon+Nom+</s> | Pred: ç+a+ğ+d+a+ş+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: k+e+y+m+a+Noun+A3sg+P2sg+Nom+</s> | Pred: k+e+y+m+a+n+Noun+A3sg+Pnon+Nom 
+ 
+True: p+a+k+Adj+DB+Verb+Become+Pos+Past+A3sg+</s> | Pred: p+a+k+l+a+ş+Verb+Pos+Past+A3sg+</s> 
+ 
+True: e+m+i+n+Noun+A3sg+Pnon+Nom+</s> | Pred: e+m+i+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+i+y+a+s+e+t+Noun+A3sg+Pnon+Acc+</s> | Pred: s+i+y+a+s+e+t+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: m+ü+b+a+r+e+k+Adj+DB+Noun+Zero+A3pl+Pnon+Nom+</s> | Pred: m+ü+b+a+r+e+k+Noun+A3pl+Pnon+Nom+</s>+Pnon+</s>+A3pl 
+ 
+True: g+i+t+Verb+Pos+Aor+Past+A1pl+</s> | Pred: g+i+d+e+r+Verb+Pos+Past+A1pl 
+ 
+True: ş+ö+m+i+n+e+Noun+A3sg+Pnon+Nom+</s> | Pred: ş+ö+m+i+n+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: g+i+r+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Noun+Pnon+A3sg+</s>+Nom+</s> 
+ 
+True: b+a+r+b+u+Noun+A3sg+P2sg+Nom+</s> | Pred: b+a+r+b+u+n+Noun+A3sg+Pnon+Nom 
+ 
+True: n+e+f+i+s+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Past+A3pl+</s> | Pred: n+e+f+i+s+t+i+Noun+DB+Noun+Zero+A3pl+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: n+a+d+i+Noun+A3sg+Pnon+Nom+</s> | Pred: n+a+d+i+Noun+</s>+Pnon+Nom+</s> 
+ 
+True: b+u+l+Verb+DB+Verb+Pass+Pos+Past+A3sg+</s> | Pred: b+u+l+u+n+Verb+DB+Verb+Pass+Pos+Past 
+ 
+True: k+o+m+u+t+a+Noun+A3sg+Pnon+Nom+</s> | Pred: k+o+m+u+t+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: h+a+z+ı+r+o+l+Noun+A3sg+Pnon+Loc+</s> | Pred: h+a+z+ı+r+l+a+Noun+A3sg+Pnon+Loc+</s> 
+ 
+True: a+l+k+ı+ş+l+a+Verb+Pos+DB+Adj+AorPart+DB+Noun+Zero+A3sg+P3sg+Ins+</s> | Pred: a+l+k+ı+ş+Noun+A3pl+P3pl+Ins+</s>+Ins+Ins+</s>+</s>+Ins+</s>+Adj+</s>+</s> 
+ 
+True: g+e+r+ç+e+k+Adj+DB+Verb+Become+Pos+DB+Verb+Able+DB+Noun+FutPart+A3sg+P3sg+Acc+</s> | Pred: g+e+r+ç+e+k+Adj+A3sg+Pnon+Nom+DB+Verb+Become+Pos+DB+Verb+Able+DB+Noun+FutPart+A3sg 
+ 
+True: s+ü+r+Verb+Pos+Fut+A3sg+</s> | Pred: s+ü+r+Verb+Pos+DB+A3sg+FutPart 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: f+ı+r+t+ı+n+a+Noun+A3sg+Pnon+Nom+</s> | Pred: f+ı+r+t+Noun+A3sg+P3sg+Dat+</s>+Dat+</s>+</s> 
+ 
+True: ı+ü+ü+b+i+r+Noun+A3sg+Pnon+Nom+</s> | Pred: ü+ü+ı+b+i+r+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: f+ı+r+t+ı+n+a+Noun+A3sg+Pnon+Nom+</s> | Pred: f+ı+r+t+Noun+A3sg+P3sg+Dat+</s>+Dat+</s>+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: z+i+n+h+a+r+Interj+</s> | Pred: z+i+n+h+a+r+Noun+A3sg 
+ 
+True: i+l+e+Conj+</s> | Pred: i+l+e+Postp+PCNom 
+ 
+True: h+a+t+ı+r+l+a+Verb+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg+P3sg+Nom+</s> | Pred: h+a+t+i+r+l+a+Verb+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg+P3sg+Nom+</s> 
+ 
+True: u+z+u+n+Noun+A3sg+Pnon+Nom+</s> | Pred: u+z+u+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: s+a+a+t+Noun+A3pl+P3pl+Loc+</s> | Pred: s+a+a+t+Noun+A3pl+P3sg+Loc+</s> 
+ 
+True: d+e+ş+i+f+r+e+Adj+DB+Noun+Zero+A3pl+P3sg+Ins+</s> | Pred: d+e+ş+i+f+r+e+Noun+A3pl+P3sg+Ins+</s>+Ins+Ins+</s> 
+ 
+True: i+f+a+d+e+Noun+A3pl+P3sg+Nom+</s> | Pred: i+f+a+d+e+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: i+n+s+a+n+Noun+A3pl+P3pl+Nom+</s> | Pred: i+n+s+a+n+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: t+a+n+ı+Verb+Pos+DB+Noun+PastPart+A3sg+P1sg+Nom+</s> | Pred: t+a+n+ı+Verb+Pos+DB+Adj+PastPart+P1sg+</s>+Nom+</s> 
+ 
+True: e+m+e+k+l+i+Noun+A3sg+Pnon+Nom+</s> | Pred: e+m+e+k+l+i+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: t+u+r+k+c+e+l+l+Noun+A3sg+Pnon+Gen+</s> | Pred: t+u+r+k+l+e+l+Noun+A3sg+Pnon+Nom+DB+Adj 
+ 
+True: a+l+Verb+Pos+DB+Adj+FutPart+P3sg+</s> | Pred: a+l+Verb+Pos+a+k+Noun+A3sg+P3sg 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: k+u+s+u+r+Noun+A3sg+P1sg+Nom+</s> | Pred: k+u+s+u+r+Noun+A3sg+Pnon+Nom+DB 
+ 
+True: ç+ı+k+m+a+z+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Cond+A2pl+</s> | Pred: ç+ı+k+Verb+Neg+Aor+Cond+A2pl+</s>+Nom+DB+Verb+Zero+A2pl+</s>+</s> 
+ 
+True: g+e+ç+e+n+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+ç+e+n+Adj+</s>+PresPart+</s>+</s> 
+ 
+True: t+e+k+i+r+d+a+ğ+Noun+A3sg+Pnon+Nom+</s> | Pred: t+e+k+i+r+d+a+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+a+l+ı+k+e+s+i+r+Noun+A3sg+Pnon+Acc+</s> | Pred: b+a+l+ı+k+e+s+i+r+Noun+Pnon+Acc+</s>+</s> 
+ 
+True: t+a+r+a+f+d+a+Noun+A3sg+P2sg+Nom+</s> | Pred: t+a+r+a+f+Noun+A3sg+Pnon+Abl+</s>+Nom+</s> 
+ 
+True: k+a+m+u+Noun+A3sg+Pnon+Nom+DB+Verb+Become+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+</s> | Pred: k+a+m+u+l+a+ş+Verb+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+</s>+</s>+Nom+</s> 
+ 
+True: s+i+n+y+o+r+a+Noun+A3sg+Pnon+Gen+</s> | Pred: s+i+n+y+o+r+Noun+A3sg+P3sg+Gen+</s>+</s> 
+ 
+True: b+i+r+l+i+k+t+e+Adverb+</s> | Pred: b+i+r+l+i+k+t+e+Postp+PCIns 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: b+ü+t+ü+n+Noun+A3sg+Pnon+Nom+</s> | Pred: b+ü+t+ü+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: k+o+n+s+o+l+o+s+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: k+o+n+s+o+l+o+s+Noun+u+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> 
+ 
+True: ş+e+y+h+Noun+A3sg+P3sg+Nom+</s> | Pred: ş+e+y+i+Noun+Noun+A3sg+Pnon+Acc 
+ 
+True: n+e+y+Noun+A3sg+Pnon+Nom+</s> | Pred: n+e+Pron+Ques+A3sg+Pnon+Nom+</s> 
+ 
+True: d+i+n+Noun+A3sg+Pnon+Acc+</s> | Pred: d+i+n+i+Adj+</s>+Pnon+Nom 
+ 
+True: s+ı+n+a+v+Noun+A3sg+P3sg+Nom+</s> | Pred: s+i+n+a+v+i+Adj+</s>+Pnon+Nom 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: 2+7+6+Num+Card+DB+Verb+Zero+Pres+Cop+A3sg+</s> | Pred: 2+7+6+Num+Card+DB+Verb+Zero+Pres+A3sg+Cop+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: s+e+v+g+i+l+i+Noun+A3sg+Pnon+Nom+</s> | Pred: s+e+v+g+i+l+i+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: n+e+s+l+i+h+a+n+Noun+A3sg+Pnon+Nom+</s> | Pred: n+e+s+l+i+h+a+Noun+A3sg+P2sg+Nom+</s>+</s> 
+ 
+True: i̇+s+k+i+t+Noun+A3sg+Pnon+Nom+</s> | Pred: i+s+k+i+t+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: a+ç+Verb+Pos+Fut+A3sg+</s> | Pred: a+ç+Verb+Pos+Fut+A3sg+FutPart 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: k+a+r+i+k+a+t+ü+r+i+z+e+Adj+</s> | Pred: k+a+r+i+k+a+t+ü+r+Noun+A3sg+P2pl+Dat+</s> 
+ 
+True: r+i+s+k+Noun+A3pl+P3pl+Acc+</s> | Pred: r+i+s+k+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: ç+o+b+a+n+Noun+A3sg+Pnon+Gen+</s> | Pred: ç+o+b+a+Noun+A3sg+Pnon+Gen+</s>+</s> 
+ 
+True: i+l+i+ş+k+i+Noun+A3pl+P3sg+Abl+</s> | Pred: i+l+i+ş+k+i+Noun+A3pl+P3pl+Abl+</s> 
+ 
+True: p+o+l+e+m+i+k+Noun+A3sg+Pnon+Nom+</s> | Pred: p+o+l+e+m+i+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: y+ö+n+e+t+i+c+i+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Acc+</s> | Pred: y+ö+n+e+t+Verb+Pos+DB+Noun+Agt+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+P3sg+Acc 
+ 
+True: e+l+Noun+A3sg+P1sg+Dat+</s> | Pred: e+l+Noun+A3sg+Adj+DB+Noun 
+ 
+True: n+a+k+i+l+Noun+A3sg+P3sg+Nom+DB+Verb+Zero+Past+A3sg+</s> | Pred: n+a+k+Noun+A3sg+Pnon+Nom+DB+Adj+With+DB+Verb+Zero+Past+A3sg 
+ 
+True: a+l+t+a+v+i+l+l+a+Noun+A3sg+Pnon+Nom+</s> | Pred: a+l+t+a+v+i+v+Noun+A3sg+Pnon+Ins+</s>+Pnon+</s> 
+ 
+True: k+y+a+t+ı+r+ı+m+Noun+A3pl+P3sg+Nom+</s> | Pred: k+y+a+t+ı+r+ı+m+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: a+l+f+a+Noun+A3sg+Pnon+Nom+</s> | Pred: a+l+f+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: a+y+d+ı+n+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: a+y+d+ı+n+l+ı+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: a+ş+k+Noun+A3sg+Pnon+Gen+</s> | Pred: a+ş+k+Noun+A3sg+Noun+A3sg+Pnon 
+ 
+True: k+a+m+e+r+a+m+a+n+Noun+A3sg+Pnon+Nom+</s> | Pred: k+a+m+e+r+a+m+a+n+Noun+A3sg+Nom+Nom+</s> 
+ 
+True: ç+a+t+k+a+y+a+Noun+A3sg+Pnon+Nom+</s> | Pred: ç+a+t+k+a+Noun+A3sg+Pnon+Dat+</s>+Nom+</s> 
+ 
+True: d+ü+z+e+n+l+e+Verb+Pos+DB+Adj+FutPart+P3sg+</s> | Pred: d+ü+z+e+n+l+e+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg 
+ 
+True: a+m+b+a+r+g+o+Noun+A3sg+Pnon+Gen+</s> | Pred: a+m+b+a+r+g+o+Noun+A3sg+A3sg+Gen+</s> 
+ 
+True: a+n+l+a+m+Noun+A3sg+Pnon+Nom+DB+Adj+Without+DB+Noun+Ness+A3sg+P3sg+Nom+</s> | Pred: a+n+l+a+m+s+ı+z+Adj+DB+Noun+Ness+A3sg+P3sg+Nom+</s>+P3sg+Nom+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: i+l+k+Adverb+</s> | Pred: i+l+k+Adj+</s> 
+ 
+True: g+e+n+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: g+e+n+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: ç+a+ğ+Noun+A3sg+Pnon+Acc+</s> | Pred: ç+a+ğ+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: s+ö+z+c+ü+k+Noun+A3sg+Pnon+Ins+</s> | Pred: s+ö+z+Noun+A3sg+Pnon+Nom+DB+Noun+Dim+A3sg 
+ 
+True: p+r+o+g+r+a+m+Noun+A3pl+Pnon+Acc+</s> | Pred: p+r+o+g+r+a+m+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+u+s+p+u+s+Adj+</s> | Pred: s+u+s+p+u+s+Noun+A3sg 
+ 
+True: m+e+k+a+n+i+z+m+a+Noun+A3sg+P1sg+Nom+</s> | Pred: m+e+k+a+n+i+z+m+a+m+Noun+A3sg+Pnon+Nom 
+ 
+True: d+e+Verb+Pos+DB+Noun+PastPart+A3sg+P1sg+Nom+</s> | Pred: d+e+Verb+Pos+DB+Adj+PastPart+P1sg+</s>+Nom+</s> 
+ 
+True: ç+e+v+r+e+Noun+A3sg+P1sg+Dat+</s> | Pred: ç+e+v+r+e+Verb+Pos+DB+Noun+Inf2 
+ 
+True: b+u+n+a+l+ı+m+Noun+A3sg+Pnon+Acc+</s> | Pred: b+u+n+a+l+ı+m+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: a+l+Verb+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: a+l+Verb+Pos+a+k+Noun+A3sg+Pnon 
+ 
+True: y+a+a+a+Interj+</s> | Pred: y+a+a+a+Noun+A3sg 
+ 
+True: s+e+v+Verb+Pos+DB+Adj+PastPart+P1sg+</s> | Pred: s+e+v+Verb+Pos+DB+Adj+PastPart+A3sg+P1sg 
+ 
+True: y+e+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> | Pred: y+i+y+e+c+e+k+Noun+A3sg+P3sg+Nom 
+ 
+True: g+i+b+i+Postp+PCGen+</s> | Pred: g+i+b+i+Postp+PCNom+</s> 
+ 
+True: b+i+Noun+A3sg+Pnon+Nom+</s> | Pred: b+i+Det+</s>+A3sg+Pnon+Nom 
+ 
+True: d+e+n+s+i+z+Adj+</s> | Pred: d+e+n+s+i+z+Noun+A3sg 
+ 
+True: b+i+ş+i+Noun+A3sg+Pnon+Nom+</s> | Pred: b+i+ş+i+Card+DB+Noun+Zero+A3sg 
+ 
+True: k+e+f+e+n+Noun+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A1sg+</s> | Pred: k+e+f+e+n+i+Noun+P1sg+P1sg+</s>+</s>+</s>+Pres+A1sg+</s> 
+ 
+True: a+c+a+y+i+p+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: a+c+a+y+i+y+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s> 
+ 
+True: a+n+n+e+a+n+n+e+Noun+A3sg+P1sg+Nom+</s> | Pred: a+n+n+e+a+n+n+e+m+Noun+A3sg+Pnon+Nom 
+ 
+True: d+e+d+e+Noun+A3sg+P1sg+Ins+</s> | Pred: d+e+d+e+m+Noun+A3sg+Pnon+Ins 
+ 
+True: d+a+v+r+a+n+Verb+Neg+Aor+A1sg+</s> | Pred: d+a+v+r+a+n+Verb+Neg+DB+A1sg+</s> 
+ 
+True: a+y+a+r+Noun+A3sg+P1sg+Acc+</s> | Pred: a+y+a+r+ı+m+Noun+A3sg+</s> 
+ 
+True: d+o+ğ+Verb+DB+Verb+Caus+Pos+Fut+A3sg+</s> | Pred: d+o+ğ+Verb+DB+Verb+Caus+Pos+DB+Adj+FutPart 
+ 
+True: g+i+b+i+Postp+PCGen+</s> | Pred: g+i+b+i+Postp+PCNom+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: ç+o+k+Adj+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: d+ü+ş+ü+n+Verb+Pos+DB+Adj+PastPart+P1pl+</s> | Pred: d+ü+ş+ü+n+Verb+Pos+DB+Noun+PastPart+P1pl+</s> 
+ 
+True: h+a+k+Noun+A3sg+P1pl+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: h+a+k+Noun+A3sg+P1pl+Nom+DB+Verb+Zero+Pres+A1pl+Cop+</s> 
+ 
+True: e+l+Noun+A3pl+P3pl+Loc+</s> | Pred: e+l+Noun+A3sg+P3pl+Loc+</s> 
+ 
+True: e+ğ+i+t+i+m+Noun+A3sg+Pnon+Acc+</s> | Pred: e+ğ+i+t+i+m+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: t+a+ş+ı+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+DB+Adj+With+</s> | Pred: t+a+ş+ı+Verb+Pos+Neces+A3sg+</s>+</s>+Pnon+Nom+DB+Adj+With+</s> 
+ 
+True: o+l+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+Verb+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: k+o+n+f+e+r+a+n+s+Noun+A3sg+Pnon+Acc+</s> | Pred: k+o+n+f+e+r+a+n+s+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: r+a+s+t+l+a+Verb+DB+Verb+Recip+Pos+Prog1+A1pl+</s> | Pred: r+a+s+t+l+a+ş+Verb+Pos+Prog1+A1pl+</s>+</s>+</s> 
+ 
+True: i+ç+i+n+Postp+PCGen+</s> | Pred: i+ç+i+n+Postp+PCNom+</s> 
+ 
+True: k+a+m+e+r+a+m+a+n+Noun+A3pl+P3sg+Nom+</s> | Pred: k+a+m+e+r+a+m+a+n+Noun+A3pl+P3pl+Nom+</s> 
+ 
+True: g+ö+r+ü+n+t+ü+Noun+A3pl+P3pl+Acc+</s> | Pred: g+ö+r+ü+n+t+ü+Noun+A3pl+P3sg+Acc+</s> 
+ 
+True: e+v+Noun+A3sg+P3sg+Gen+</s> | Pred: e+v+Noun+A3sg+Noun+Gen+</s> 
+ 
+True: p+a+s+k+a+l+y+a+Noun+A3sg+Pnon+Nom+</s> | Pred: p+a+s+k+a+l+y+a+Noun+A3sg+Dat+</s>+</s> 
+ 
+True: a+n+c+a+k+Adverb+</s> | Pred: a+n+c+a+k+Conj+</s> 
+ 
+True: ö+z+e+l+Adj+DB+Noun+Zero+A3sg+P1sg+Loc+</s> | Pred: ö+z+e+l+i+m+Noun+A3sg+Pnon+Loc+</s>+</s> 
+ 
+True: t+e+k+m+e+Noun+A3sg+Pnon+Acc+</s> | Pred: t+e+k+m+Pos+DB+Noun+Inf2+A3sg+Pnon 
+ 
+True: a+l+Verb+Pos+Imp+A2sg+</s> | Pred: a+l+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: d+o+ğ+r+u+Noun+A3sg+P3sg+Nom+</s> | Pred: d+o+ğ+r+u+Adj+DB+Noun+Zero+A3sg 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: n+o+r+m+Noun+A3sg+Pnon+Dat+</s> | Pred: n+o+r+m+a+Adj+</s>+Pnon+Nom 
+ 
+True: b+a+ş+k+a+Postp+PCAbl+</s> | Pred: b+a+ş+k+a+Adj+</s>+</s> 
+ 
+True: m+i+l+l+i+Noun+A3sg+Pnon+Nom+</s> | Pred: m+i+l+l+i+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: t+ü+f+Noun+A3sg+Pnon+Dat+</s> | Pred: t+ü+f+Noun+A3sg+Pnon+Pnon+</s> 
+ 
+True: d+e+ğ+e+r+l+e+Verb+DB+Verb+Pass+Pos+Past+A3sg+</s> | Pred: d+e+ğ+e+r+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Pos+Past+A3sg 
+ 
+True: r+e+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: r+e+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: k+ü+ç+ü+k+Noun+A3sg+Pnon+Nom+</s> | Pred: k+ü+ç+ü+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: b+e+k+l+e+n+t+i+Noun+A3pl+P3sg+Gen+</s> | Pred: b+e+k+l+e+n+t+i+Noun+A3pl+P3pl+Gen+</s> 
+ 
+True: k+e+ş+i+f+Noun+A3sg+Pnon+Acc+</s> | Pred: k+e+ş+i+f+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: b+e+r+a+b+e+r+Adj+</s> | Pred: b+e+r+a+b+e+r+Postp+PCIns 
+ 
+True: k+a+r+ş+ı+Adj+</s> | Pred: k+a+r+ş+ı+Postp+PCDat 
+ 
+True: ü+m+i+t+Noun+A3sg+Pnon+Nom+DB+Verb+Acquire+Neg+Imp+A3sg+</s> | Pred: ü+m+i+t+l+e+Verb+DB+Verb+Pass+Neg+Imp+A3sg+</s>+</s> 
+ 
+True: m+ü+s+a+m+e+r+e+Noun+A3sg+Pnon+Dat+</s> | Pred: m+ü+s+a+m+e+t+e+Noun+A3sg+Pnon+Dat+</s> 
+ 
+True: m+a+k+s+a+t+Noun+A3sg+Pnon+Dat+</s> | Pred: m+a+k+s+a+Noun+A3sg+Pnon+Loc+</s>+Nom 
+ 
+True: k+a+b+a+r+Verb+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg+Pnon+Dat+</s> | Pred: k+a+b+a+r+t+DB+Verb+Caus+Pos+DB+Noun+Inf2+A3sg+Pnon+Dat+</s> 
+ 
+True: a+l+t+ı+n+Noun+A3sg+Pnon+Nom+</s> | Pred: a+l+t+ı+n+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: 1+.+9+7+8+Num+Card+</s> | Pred: 1+.+.+7+5+Num+Real+</s> 
+ 
+True: a+k+t+i+v+i+t+e+Noun+A3sg+Pnon+Nom+</s> | Pred: a+k+t+i+v+i+t+Noun+A3sg+Pnon+Dat+</s>+</s> 
+ 
+True: b+u+l+u+n+Verb+DB+Verb+Caus+Pos+DB+Verb+Able+Aor+A2pl+</s> | Pred: b+u+l+u+DB+Verb+Pass+Pos+DB+Verb+Able+DB+Verb+Able+Aor+A2pl 
+ 
+True: g+i+r+Verb+Pos+DB+Noun+Inf3+A3sg+Pnon+Nom+</s> | Pred: g+i+r+Verb+Pos+DB+Noun+Pnon+A3sg+</s>+Nom+</s> 
+ 
+True: a+y+ı+r+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf3+A3sg+P3sg+Nom+</s> | Pred: a+y+r+ı+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf3+A3sg+P3sg+Nom+</s> 
+ 
+True: b+i+l+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: b+i+l+Verb+DB+Verb+Pass+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: ç+o+k+Det+</s> | Pred: ç+o+k+Adverb+</s> 
+ 
+True: u+s+t+a+Adj+DB+Noun+Zero+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: u+s+t+a+Noun+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s>+</s>+Zero+Pres 
+ 
+True: k+e+ş+i+d+e+Noun+A3sg+Pnon+Nom+DB+Noun+Agt+A3sg+Pnon+Nom+</s> | Pred: k+e+ş+i+d+e+c+i+Noun+A3sg+Pnon+Nom+</s>+</s>+Nom+</s>+Pnon 
+ 
+True: o+d+u+n+p+a+z+a+r+Noun+A3sg+P3sg+Nom+</s> | Pred: o+d+u+z+Verb+a+z+ı+r+A3pl+P3sg+Nom+</s>+Nom 
+ 
+True: b+a+k+Verb+Pos+Imp+A2pl+</s> | Pred: b+a+k+Noun+A3sg+P2pl+Nom+</s> 
+ 
+True: e+d+i+n+Verb+Pos+DB+Adj+AorPart+DB+Noun+Zero+A3pl+Pnon+Nom+</s> | Pred: e+d+i+n+Verb+Pos+Aor+A3pl+</s>+DB+Noun+Zero+A3pl+Nom+Nom+</s> 
+ 
+True: h+ü+k+m+e+t+Verb+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: h+ü+k+m+e+t+Verb+Pos+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: s+o+n+r+a+Adverb+</s> | Pred: s+o+n+r+a+Postp+PCAbl 
+ 
+True: r+u+h+e+n+Adverb+</s> | Pred: r+u+h+e+n+Noun+A3sg 
+ 
+True: k+a+t+i+l+Noun+A3sg+Pnon+Gen+</s> | Pred: k+a+t+Verb+l+Noun+A3sg+Pnon+Gen+</s> 
+ 
+True: g+i+b+i+Postp+PCGen+</s> | Pred: g+i+b+i+Postp+PCNom+</s> 
+ 
+True: b+u+l+Verb+Pos+DB+Noun+FutPart+A3sg+P3sg+Nom+</s> | Pred: b+u+l+Verb+Pos+DB+Adj+FutPart+P3sg+</s>+Nom+</s> 
+ 
+True: a+ç+ı+k+l+a+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Abl+</s> | Pred: a+ç+ı+k+l+a+Verb+Pos+DB+Noun+Inf2+A3sg+P3pl+Abl+</s> 
+ 
+True: g+ü+v+e+n+Verb+DB+Verb+Pass+Pos+DB+Adj+AorPart+</s> | Pred: g+ü+v+e+n+Verb+l+i+r+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: b+o+r+ç+Noun+A3pl+Pnon+Acc+</s> | Pred: b+o+r+ç+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: s+o+n+r+a+Postp+PCAbl+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Adj+Rel+</s> | Pred: s+o+n+r+a+Noun+A3sg+Pnon+Nom+DB+Adj+Rel+</s>+DB+Adj+Rel+</s> 
+ 
+True: e+ğ+i+t+i+m+c+i+Noun+A3pl+Pnon+Nom+</s> | Pred: e+ğ+i+t+i+m+i+ç+Noun+A3pl+Pnon+Nom+</s> 
+ 
+True: s+e+v+i+y+e+Noun+A3pl+P3sg+Nom+</s> | Pred: s+e+v+i+y+e+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: b+a+ş+l+a+Verb+DB+Verb+Caus+Pos+DB+Adj+PastPart+P3pl+</s> | Pred: b+a+ş+l+a+Verb+DB+Verb+Caus+Pos+DB+Noun+PastPart+A3pl+P3pl 
+ 
+True: t+e+k+e+l+Noun+A3sg+Pnon+Dat+</s> | Pred: t+e+k+e+l+e+Noun+Pnon+Dat+</s> 
+ 
+True: g+ğ+ö+s+t+e+r+e+r+e+k+Noun+A3sg+Pnon+Nom+</s> | Pred: g+ö+ö+s+t+e+Verb+Pos+DB+Adverb+ByDoingSo+</s>+Adverb+</s>+</s>+Pnon 
+ 
+True: s+ö+z+l+e+ş+Verb+Pos+DB+Noun+Inf2+A3sg+Pnon+Acc+</s> | Pred: s+ö+z+l+e+ş+m+e+Noun+A3sg+Pnon+Acc+</s>+Acc+</s> 
+ 
+True: i+l+k+Adverb+</s> | Pred: i+l+k+Adj+</s> 
+ 
+True: ı+s+d+e+l+l+Noun+A3sg+Pnon+Nom+</s> | Pred: i+s+d+e+l+l+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: ş+ı+n+l+a+k+Noun+A3sg+Pnon+Nom+</s> | Pred: ş+ı+n+l+a+k+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: b+u+Pron+Demons+A3sg+Pnon+Nom+</s> | Pred: b+u+Det+</s>+A3sg+Pnon+Nom+</s> 
+ 
+True: y+a+n+l+ı+ş+Adj+DB+Verb+Zero+Pres+A3sg+Cop+</s> | Pred: y+a+n+l+ı+ş+Verb+DB+Verb+Zero+Pres+A3sg+Cop+</s> 
+ 
+True: u+y+g+u+l+a+Verb+DB+Verb+Pass+Pos+DB+Verb+Able+Fut+A3sg+</s> | Pred: u+y+g+u+l+a+Verb+DB+Verb+Pass+Pos+DB+Verb+Able+DB+Adj+FutPart 
+ 
+True: y+a+s+a+Noun+A3sg+Pnon+Nom+DB+Verb+Become+Pos+DB+Adj+FutPart+Pnon+</s> | Pred: y+a+s+a+Noun+A3sg+Pnon+Nom+DB+Verb+Become+Pos+Fut+A3sg+</s>+Pnon+</s> 
+ 
+True: i+l+e+Conj+</s> | Pred: i+l+e+Postp+PCNom 
+ 
+True: s+a+t+Verb+Pos+DB+Noun+Inf3+A3sg+P3sg+Nom+</s> | Pred: s+a+t+Verb+Pos+DB+Noun+Inf3+A3sg+P3sg+Acc+</s> 
+ 
+True: s+a+t+Verb+Pos+DB+Noun+Inf3+A3sg+P3sg+Nom+</s> | Pred: s+a+t+Verb+Pos+DB+Noun+Inf3+A3sg+P3sg+Acc+</s> 
+ 
+True: g+e+r+ç+e+k+Adj+DB+Verb+Become+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+</s> | Pred: g+e+r+ç+e+k+Adj+A3sg+Pnon+Nom+DB+Verb+Become+Pos+DB+Noun+Inf2+A3sg 
+ 
+True: i+ç+i+n+Postp+PCNom+DB+Verb+Zero+Cond+A3sg+</s> | Pred: i+ç+Verb+Pos+Imp+Pos+</s>+A3sg+</s>+DB+Verb+Zero 
+ 
+True: g+e+r+ç+e+k+Adj+DB+Verb+Become+Pos+DB+Noun+Inf2+A3sg+Pnon+Nom+</s> | Pred: g+e+r+ç+e+k+Noun+A3sg+Pnon+Nom+DB+Verb+Become+Pos+DB+Noun+Inf2+A3sg 
+ 
+True: a+v+u+r+u+p+Noun+A3sg+Pnon+Dat+</s> | Pred: a+v+u+r+u+p+a+Noun+A3sg+Pnon+Nom 
+ 
+True: d+e+l+c+o+u+r+t+Noun+A3sg+Pnon+Nom+</s> | Pred: d+e+l+c+o+c+r+t+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: o+l+u+ş+u+m+Noun+A3pl+P3sg+Nom+</s> | Pred: o+l+u+ş+u+m+Noun+A3pl+Pnon+Acc+</s> 
+ 
+True: i+ş+a+l+e+m+i+Noun+A3sg+Pnon+Gen+</s> | Pred: i+ş+a+l+e+m+Noun+A3sg+P3sg+Gen+</s>+</s> 
+ 
+True: f+ı+n+d+ı+k+Noun+A3sg+Pnon+Loc+</s> | Pred: f+i+n+d+i+k+Noun+A3sg+Pnon+Loc+</s> 
+ 
+True: m+a+m+ü+l+Adj+DB+Noun+Zero+A3pl+P3sg+Loc+</s> | Pred: m+a+m+ü+l+Noun+A3pl+P3sg+Loc+</s>+P3pl+Loc+</s> 
+ 
+True: n+ö+t+r+Adj+</s> | Pred: n+ö+t+r+Noun+A3sg 
+ 
+True: ç+a+l+ı+ş+Verb+DB+Verb+Pass+Pos+Fut+A3sg+</s> | Pred: ç+a+l+ı+ş+Verb+DB+Verb+Pass+Pos+DB+Adj+FutPart 
+ 
+True: o+r+a+n+Noun+A3pl+P3pl+Nom+</s> | Pred: o+r+a+n+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: a+l+Verb+Pos+DB+Noun+FutPart+A3pl+P2sg+Nom+</s> | Pred: a+l+Verb+Pos+DB+Noun+FutPart+A3pl+Pnon+Gen+</s> 
+ 
+True: a+l+Verb+Pos+DB+Noun+FutPart+A3pl+P2sg+Nom+</s> | Pred: a+l+Verb+Pos+DB+Noun+FutPart+A3pl+Pnon+Gen+</s> 
+ 
+True: d+ö+n+ü+ş+Verb+DB+Verb+Caus+DB+Verb+Pass+Pos+DB+Verb+Able+Prog2+A3sg+Cop+</s> | Pred: d+ö+n+ü+ş+Verb+DB+Verb+Caus+DB+Verb+Pass+Pos+DB+Verb+Able+DB+Noun+Inf1+A3sg 
+ 
+True: b+e+l+l+i+Noun+A3sg+Pnon+Nom+</s> | Pred: b+e+l+l+i+Adj+</s>+</s>+Nom+</s> 
+ 
+True: g+e+ç+Verb+Pos+DB+Adj+PresPart+</s> | Pred: g+e+ç+e+n+Adj+</s>+PresPart+</s> 
+ 
+True: z+o+r+Adj+DB+Noun+Zero+A3sg+P3sg+Loc+DB+Verb+Zero+Pres+A3pl+Cop+</s> | Pred: z+o+r+Adj+DB+Verb+Zero+A3sg+Pnon+Loc+DB+Verb+Zero+Pres+A3pl+Cop+</s> 
+ 
+True: h+a+y+l+i+Adverb+</s> | Pred: h+a+y+l+i+Adj+</s> 
+ 
+True: ç+a+l+ı+ş+Verb+DB+Verb+Pass+Pos+Fut+A3sg+</s> | Pred: ç+a+l+ı+ş+Verb+DB+Verb+Pass+Pos+DB+Adj+FutPart 
+ 
+True: a+n+ı+Noun+A3sg+Pnon+Nom+</s> | Pred: a+n+Noun+A3sg+A3sg+Nom+</s>+</s> 
+ 
+True: g+ü+z+e+l+Noun+A3sg+Pnon+Nom+</s> | Pred: g+ü+z+e+l+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: m+a+y+a+l+a+Verb+DB+Verb+Pass+Pos+DB+Adverb+ByDoingSo+</s> | Pred: m+a+y+a+l+a+Pnon+DB+DB+Verb+Pos+DB+Adverb+ByDoingSo+</s> 
+ 
+True: t+u+r+p+Noun+A3sg+Pnon+Acc+</s> | Pred: t+u+r+p+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: s+e+n+t+e+t+i+k+Adj+</s> | Pred: s+e+n+t+e+t+i+k+Noun+A3sg 
+ 
+True: o+l+u+ş+Verb+DB+Verb+Caus+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom+</s> | Pred: o+l+u+ş+Verb+DB+Verb+Caus+Pos+DB+Adj+PastPart+P3sg+</s>+Nom+</s> 
+ 
+True: t+o+k+s+i+k+Adj+</s> | Pred: t+o+k+s+i+k+Noun+A3sg 
+ 
+True: v+a+z+g+e+ç+Verb+DB+Verb+Pass+Neg+Aor+DB+Adj+Zero+DB+Noun+Zero+A3sg+P3sg+Nom+DB+Verb+Zero+Pres+Cop+A3sg+</s> | Pred: v+a+z+g+e+ç+Verb+DB+Verb+Pass+Neg+DB+Adj+AorPart+DB+Noun+Zero+A3sg+Pnon+Nom+DB+Verb+Zero+Pres+A3sg+Cop+</s>+</s> 
+ 
+True: e+k+ş+i+Adj+DB+Noun+Zero+A3sg+P3sg+Acc+</s> | Pred: e+k+ş+i+Noun+A3sg+A3sg+P3sg+</s>+</s>+</s>+</s> 
+ 
+True: s+i+v+r+i+Noun+A3sg+Pnon+Nom+</s> | Pred: s+i+v+r+i+Adj+</s>+Pnon+Nom+</s> 
+ 
+True: b+i+b+e+r+Noun+A3pl+Pnon+Acc+</s> | Pred: b+i+b+e+r+Noun+A3pl+P3sg+Nom+</s> 
+ 
+True: e+r+i+Verb+DB+Verb+Caus+Pos+Imp+A2pl+</s> | Pred: e+r+i+t+i+Noun+A3sg+P2sg+Nom+</s>+</s> 
+ 
+True: a+k+y+ı+l+d+ı+z+Noun+A3sg+Pnon+Nom+</s> | Pred: a+k+y+ı+l+Adj+DB+Verb+Zero+Past+</s>+</s>+</s> 
+ 
+True: s+e+r+i+n+l+e+Verb+DB+Verb+Caus+Pos+DB+Adj+PastPart+P3sg+</s> | Pred: s+e+r+i+n+l+e+Verb+DB+Verb+Caus+Pos+DB+Noun+PastPart+A3sg+P3sg 
+ 
+True: b+e+n+z+e+Verb+Pos+DB+Adj+AorPart+DB+Noun+Zero+A3pl+P3sg+Ins+</s> | Pred: b+e+n+z+e+Verb+Pos+DB+Adj+AorPart+DB+Noun+Zero+A3pl+Pnon+Ins+</s> 
+ 
+True: e+r+g+e+n+Adj+DB+Noun+Ness+A3sg+Pnon+Nom+</s> | Pred: e+r+g+e+n+l+i+k+Noun+A3sg+Pnon+Nom+</s> 
+ 
+True: t+u+z+Noun+A3sg+Pnon+Acc+</s> | Pred: t+u+z+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: h+a+m+u+r+Noun+A3sg+Pnon+Acc+</s> | Pred: h+a+m+u+r+Noun+A3sg+P3sg+Nom+</s> 
+ 
+True: y+o+n+c+a+Noun+A3sg+Pnon+Nom+</s> | Pred: y+o+n+c+a+Adj+</s>+</s>+Nom+</s> 
+ 
+True: y+o+n+c+a+Noun+A3sg+Pnon+Nom+</s> | Pred: y+o+n+c+a+Adj+</s>+</s>+Nom+</s> 
+ 

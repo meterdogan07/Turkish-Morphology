@@ -1,0 +1,2846 @@
+True: o~f~Noun~A3sg~Pnon~Nom~</s> | Pred: o~f~Interj~A3sg~Pnon~Nom~</s> 
+ 
+True: d~o~ğ~r~u~Adj~DB~Noun~Zero~A3sg~Pnon~Acc~</s> | Pred: d~o~ğ~r~u~Adj~DB~Noun~Zero~</s>~Pnon~Acc~</s> 
+ 
+True: d~o~b~r~a~Adj~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: d~o~b~r~a~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: m~ü~b~a~l~a~ğ~a~Noun~A3sg~Pnon~Nom~</s> | Pred: m~ü~b~a~l~a~k~Noun~A3sg~Pnon~Dat~</s>~</s> 
+ 
+True: m~ü~b~a~l~a~ğ~a~Noun~A3sg~Pnon~Dat~</s> | Pred: m~ü~b~a~l~a~s~a~Noun~A3sg~Pnon~Dat~</s> 
+ 
+True: a~ş~a~ğ~ı~Adj~</s> | Pred: a~ş~a~ğ~ı~Noun~A3sg 
+ 
+True: d~e~Verb~Pos~DB~Noun~PastPart~A3sg~P3pl~Dat~</s> | Pred: d~e~Verb~Pos~DB~Noun~PastPart~A3pl~P3pl~Dat~</s> 
+ 
+True: p~i~y~e~s~Noun~A3sg~P3sg~Loc~</s> | Pred: p~i~y~e~Noun~A3sg~P3sg~Loc~</s>~P3sg 
+ 
+True: v~u~r~Verb~DB~Verb~Pass~Pos~Past~A3sg~</s> | Pred: v~u~r~u~l~Verb~Pos~Past~A3sg~</s>~</s> 
+ 
+True: ö~v~Verb~Pos~Aor~A1pl~</s> | Pred: ö~v~e~r~i~z~Noun 
+ 
+True: ç~o~k~Adj~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: k~u~l~l~a~n~Verb~Neg~DB~Noun~PastPart~A3pl~P3pl~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: k~u~l~l~a~n~Verb~Neg~DB~Adj~PastPart~P3pl~</s>~Zero~</s>~Verb~Zero~A3sg~Cop~</s>~</s> 
+ 
+True: i~ç~m~e~Noun~A3sg~P2sg~Acc~</s> | Pred: i~ç~m~e~n~Noun~A3sg~P3sg~Nom 
+ 
+True: b~u~l~Verb~Pos~DB~Adj~PastPart~P1sg~</s> | Pred: b~u~l~Verb~Pos~DB~Noun~PastPart~A3sg~P1sg 
+ 
+True: p~i~y~e~s~Noun~A3sg~P3sg~Dat~</s> | Pred: p~i~y~e~Noun~A3sg~P3sg~Dat~</s>~P3sg 
+ 
+True: r~ü~y~a~Noun~A3sg~Pnon~Loc~DB~Verb~Zero~Narr~A3sg~</s> | Pred: r~ü~y~a~d~A3sg~Pnon~Loc~DB~Verb~Zero~Narr~A3sg~</s> 
+ 
+True: b~a~ş~t~a~n~b~a~ş~a~Adverb~</s> | Pred: b~a~ş~t~a~n~ş~a~ş~Noun~Noun~A3sg 
+ 
+True: o~y~u~n~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A3sg~</s> | Pred: o~y~u~n~Verb~Pos~Past~A3sg~</s>~Verb~Zero~Past~A3sg~</s> 
+ 
+True: ç~e~k~Verb~Pos~DB~Noun~Agt~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A3sg~</s> | Pred: ç~e~k~i~c~i~Noun~DB~Pnon~Zero~Past~A3sg~</s>~DB~Verb~Zero~Past 
+ 
+True: b~i~l~Verb~Neg~DB~Noun~PastPart~A3sg~P2pl~Nom~</s> | Pred: b~i~l~Verb~Neg~DB~Adj~PastPart~P2pl~</s>~Nom~</s> 
+ 
+True: a~t~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Cond~A2sg~</s> | Pred: a~t~Verb~Pos~Desr~A2sg~</s>~Pnon~Nom~DB~Verb~Zero 
+ 
+True: d~a~l~Verb~Pos~Aor~A3pl~Past~</s> | Pred: d~a~l~a~r~Noun~A3pl~Pnon~Nom 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: g~ı~r~Noun~A3sg~Pnon~Ins~</s> | Pred: g~ı~r~l~a~Verb~Pos~Imp 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: h~a~t~ı~r~l~a~Verb~DB~Verb~Caus~Neg~Aor~A1sg~</s> | Pred: h~a~t~ı~r~l~a~Verb~DB~Verb~Caus~Neg~DB~Noun~Inf2 
+ 
+True: n~i~ş~a~n~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3sg~P2pl~Dat~</s> | Pred: n~i~ş~a~n~l~ı~Noun~A3sg~P2pl~Dat~</s>~</s>~Dat~</s>~Dat~Dat~</s>~Dat 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: m~ü~Noun~A3sg~Pnon~Nom~</s> | Pred: m~ü~Ques~Pres~A3sg~</s>~</s> 
+ 
+True: k~a~r~ı~ş~Verb~Pos~Imp~A2pl~</s> | Pred: k~a~r~ı~ş~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: s~a~y~Verb~Pos~DB~Adj~PresPart~</s> | Pred: s~a~y~a~n~Noun~A3sg~Pnon~Nom 
+ 
+True: k~a~l~p~Noun~A3sg~Pnon~Dat~</s> | Pred: k~a~l~p~e~Noun~Pnon~Dat~</s> 
+ 
+True: o~l~Verb~Pos~DB~Noun~Inf2~A3sg~Pnon~Dat~DB~Verb~Zero~Pres~A2pl~</s> | Pred: o~l~Verb~Neg~DB~A2pl~</s>~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A2pl~</s> 
+ 
+True: ü~m~i~t~Noun~A3sg~P1sg~Nom~</s> | Pred: ü~m~i~t~Noun~A3sg~Pnon~Nom~DB 
+ 
+True: c~e~h~e~n~n~e~m~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Acc~</s> | Pred: c~e~h~e~n~n~e~m~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~P3sg~Nom~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: k~a~p~a~k~l~a~n~Verb~Pos~Prog1~Past~A3sg~</s> | Pred: k~a~p~a~k~l~a~Verb~DB~Verb~Pass~Pos~Prog1~Past 
+ 
+True: k~ü~s~t~a~h~Adj~DB~Adverb~Ly~</s> | Pred: k~ü~s~t~a~h~Adj~DB~Adj~AsIf~</s> 
+ 
+True: a~z~i~z~Adj~</s> | Pred: a~z~i~z~Noun~A3sg 
+ 
+True: b~e~n~Pron~Pers~A1sg~Pnon~Abl~</s> | Pred: b~e~n~Pron~e~A1sg~Noun~Abl~</s> 
+ 
+True: b~e~n~Pron~Pers~A1sg~Pnon~Abl~</s> | Pred: b~e~n~Pron~e~A1sg~Noun~Abl~</s> 
+ 
+True: k~a~l~Verb~Pos~DB~Noun~Inf3~A3sg~P1sg~Nom~</s> | Pred: k~a~l~ı~ş~ı~m~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: d~e~l~i~l~Noun~A3sg~P3sg~Nom~</s> | Pred: d~e~l~i~l~i~Adj~</s>~Zero~A3sg 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: p~a~r~ç~a~l~a~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: p~a~r~ç~a~l~a~Verb~Pos~DB~Adj~PastPart~A3sg~</s> 
+ 
+True: b~a~ş~k~a~Postp~PCAbl~DB~Noun~Zero~A3sg~P3sg~Acc~</s> | Pred: b~a~ş~k~a~Adj~DB~Noun~Zero~A3sg~P3sg~Acc~</s>~P3sg 
+ 
+True: d~a~l~g~ı~n~Adj~</s> | Pred: d~a~l~g~ı~n~Noun~A3sg 
+ 
+True: d~a~l~g~ı~n~Adj~</s> | Pred: d~a~l~g~ı~n~Noun~A3sg 
+ 
+True: h~ı~m~m~m~m~Noun~A3sg~Pnon~Nom~</s> | Pred: h~ı~m~m~m~Noun~A3sg~P1sg~Nom~</s>~</s> 
+ 
+True: g~u~a~d~a~l~k~e~v~i~r~Noun~A3sg~Pnon~Gen~</s> | Pred: g~u~a~d~a~l~a~v~v~a~r~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: ö~p~ü~c~ü~k~Noun~A3pl~P3sg~Gen~</s> | Pred: ö~p~ü~c~ü~Noun~Noun~A3pl~P3sg~</s>~</s> 
+ 
+True: i~p~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~P3sg~Dat~</s> | Pred: i~p~l~i~k~Noun~A3sg~P3sg~Dat~</s>~P3sg~Dat~</s> 
+ 
+True: k~o~m~e~d~y~a~Noun~A3sg~P2pl~Loc~</s> | Pred: k~o~m~e~d~y~a~z~Noun~A3sg~P2pl~Loc 
+ 
+True: y~ü~z~ü~s~t~Noun~A3sg~P3sg~Nom~</s> | Pred: y~ü~z~ü~s~Noun~A3sg~Pnon~Nom~Nom~Verb 
+ 
+True: y~a~s~t~ı~k~Noun~A3pl~Pnon~Dat~</s> | Pred: y~a~s~Verb~Pos~DB~Noun~PastPart~A3pl~Pnon~Dat 
+ 
+True: g~ö~m~Verb~DB~Verb~Pass~Pos~DB~Adverb~ByDoingSo~</s> | Pred: g~ö~m~ü~l~Verb~Verb~Pos~DB~Adverb~ByDoingSo~</s> 
+ 
+True: i~h~t~i~m~a~l~Noun~A3sg~Pnon~Dat~</s> | Pred: i~h~t~i~m~a~l~e~A3sg~Pnon~Dat~</s> 
+ 
+True: a~v~u~t~Verb~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: a~v~u~t~Verb~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: d~ü~ş~m~a~n~c~ı~l~Noun~A3sg~Pnon~Nom~</s> | Pred: d~ü~ş~m~a~n~c~a~l~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: y~u~m~Verb~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: y~u~m~Verb~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: d~i~ş~i~Noun~A3sg~Pnon~Nom~</s> | Pred: d~i~ş~i~Adj~A3sg~Nom~Nom~</s> 
+ 
+True: s~ı~k~Verb~DB~Verb~Pass~Pos~Opt~A3sg~</s> | Pred: s~ı~k~ı~l~a~Adj~Noun~Zero~A3sg~Pnon 
+ 
+True: s~ı~k~Verb~DB~Verb~Pass~Pos~Opt~A3sg~</s> | Pred: s~ı~k~ı~l~a~Adj~Noun~Zero~A3sg~Pnon 
+ 
+True: k~ı~r~Verb~Pos~DB~Adj~Agt~</s> | Pred: k~ı~r~ı~ç~Noun~A3sg~P3sg~Nom 
+ 
+True: d~ü~ş~m~a~n~Adj~DB~Noun~Ness~A3sg~Pnon~Gen~</s> | Pred: d~ü~ş~m~a~n~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: t~o~p~u~k~Noun~A3pl~P3pl~Abl~</s> | Pred: t~o~p~u~k~Noun~A3pl~P3sg~Abl~</s> 
+ 
+True: s~e~n~Pron~Pers~A2sg~Pnon~Loc~</s> | Pred: s~e~n~d~e~Noun~A3sg~Pnon~Nom 
+ 
+True: y~a~r~a~d~ı~l~ı~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~r~a~Verb~DB~Verb~Pass~Pos~DB~Noun~Inf3~A3sg~Pnon 
+ 
+True: k~ü~r~k~Noun~A3sg~P3sg~Ins~</s> | Pred: k~ü~r~k~ü~Noun~A3sg~Pnon~Ins 
+ 
+True: k~a~s~ı~l~Adj~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: k~a~s~ı~l~a~Noun~A3sg~Pnon~Nom~</s>~</s>~</s> 
+ 
+True: k~a~s~ı~l~Adj~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: k~a~s~ı~l~a~Noun~A3sg~Pnon~Nom~</s>~</s>~</s> 
+ 
+True: d~a~v~r~a~n~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Acc~</s> | Pred: d~a~v~r~a~n~Verb~Pos~DB~Noun~Inf3~A3sg~P3sg~Nom~</s> 
+ 
+True: y~a~k~ı~ş~ı~k~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~k~ı~ş~ı~k~l~ı~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: i~n~c~i~t~Verb~Pos~DB~Adj~Agt~</s> | Pred: i~n~c~i~t~i~c~i~Noun~A3sg~Pnon 
+ 
+True: h~a~y~v~a~n~Noun~A3pl~Pnon~Acc~</s> | Pred: h~a~y~v~a~n~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: y~e~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: y~e~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: b~e~y~a~z~Adj~</s> | Pred: b~e~y~a~z~Noun~A3sg 
+ 
+True: g~ö~r~Verb~Neg~DB~Adj~PastPart~P3sg~</s> | Pred: g~ö~r~Verb~Neg~DB~Adj~PastPart~A3sg~</s> 
+ 
+True: s~a~r~s~Verb~Pos~DB~Adj~PresPart~</s> | Pred: s~a~r~s~Verb~Pos~DB~A3sg~PresPart~Nom 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: p~e~ş~i~s~ı~r~Noun~A3sg~Pnon~Dat~</s> | Pred: p~e~ş~i~s~Adj~r~Noun~DB~Noun~Zero~A3sg 
+ 
+True: r~ı~h~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A1sg~</s> | Pred: r~ı~h~t~ı~m~Noun~A3sg~Pnon~Nom~</s>~Verb~Zero 
+ 
+True: k~a~r~ş~ı~Adj~</s> | Pred: k~a~r~ş~ı~Postp~PCDat 
+ 
+True: ö~t~Verb~Pos~DB~Noun~FeelLike~A3sg~P2sg~Acc~</s> | Pred: ö~t~e~Noun~A3sg~P3sg~Acc~</s>~P3sg~Acc~A3sg 
+ 
+True: ç~e~k~i~n~g~e~n~Adj~DB~Noun~Ness~A3sg~Pnon~Acc~</s> | Pred: ç~e~k~i~n~g~e~n~Adj~DB~Noun~Ness~A3sg~P3sg~Nom~</s> 
+ 
+True: g~i~r~g~i~n~Adj~</s> | Pred: g~i~r~g~i~n~Adverb~</s> 
+ 
+True: d~ü~ş~Noun~A3pl~Pnon~Acc~</s> | Pred: d~ü~ş~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: m~u~t~u~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~P3sg~Nom~</s> | Pred: m~u~t~u~l~u~k~Noun~A3sg~P3sg~Nom~</s>~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: t~a~n~ı~Verb~Pos~DB~Noun~PastPart~A3sg~P1sg~Nom~</s> | Pred: t~a~n~ı~Verb~Pos~DB~Adj~PastPart~P1sg~</s>~Nom~</s> 
+ 
+True: s~a~k~Noun~A3sg~P2sg~Nom~</s> | Pred: s~a~k~ı~n~Interj~</s>~Pnon 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: a~k~ı~l~Noun~A3sg~Pnon~Gen~</s> | Pred: a~k~l~l~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: ş~u~r~a~Noun~A3sg~Pnon~Nom~DB~Noun~Dim~A3sg~Pnon~Loc~</s> | Pred: ş~u~r~a~c~A3sg~k~Noun~A3sg~Pnon~Loc~</s>~Pnon~Loc~</s> 
+ 
+True: a~n~c~a~k~Adverb~</s> | Pred: a~n~c~a~k~Conj~</s> 
+ 
+True: y~a~k~a~r~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~</s> | Pred: y~a~k~a~r~Verb~Pos~DB~Noun~Pnon~Nom~Pnon~Nom~</s> 
+ 
+True: h~a~k~i~k~a~t~Noun~A3sg~P3sg~Nom~</s> | Pred: h~a~k~i~k~a~t~i~Adj~</s>~Nom~Nom 
+ 
+True: s~e~z~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~</s> | Pred: s~e~Verb~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~</s> 
+ 
+True: g~i~t~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: g~i~t~Verb~Pos~DB~Noun~PastPart~A3sg~</s>~Nom~</s> 
+ 
+True: k~a~b~a~Adj~DB~Adj~AsIf~DB~Verb~Zero~Past~A1sg~</s> | Pred: k~a~b~a~c~a~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past 
+ 
+True: y~a~r~a~m~a~z~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A2sg~</s> | Pred: y~a~r~a~Verb~Neg~Aor~A2sg~</s>~</s>~Nom~DB~Verb~Zero~Pres~A2sg~</s> 
+ 
+True: y~e~Verb~DB~Verb~Able~Neg~DB~Noun~PastPart~A3sg~P1sg~Nom~</s> | Pred: y~e~Verb~DB~Verb~Able~Neg~DB~Adj~PastPart~P1sg~</s>~Nom~</s> 
+ 
+True: p~a~r~m~a~k~l~ı~k~Noun~A3sg~P2sg~Loc~</s> | Pred: p~a~r~m~a~k~l~ı~k~Noun~A3sg~P3sg~Loc~</s> 
+ 
+True: k~i~ş~n~i~y~e~r~e~k~Noun~A3sg~Pnon~Nom~</s> | Pred: k~i~ş~ş~i~y~e~r~DB~Adverb~ByDoingSo~</s>~</s>~Nom~</s> 
+ 
+True: a~r~a~Verb~Pos~DB~Adj~AorPart~DB~Noun~Zero~A3pl~Pnon~Nom~</s> | Pred: a~r~a~Verb~Pos~Aor~A3pl~</s>~DB~Noun~Zero~A3pl~Pnon~Nom~</s> 
+ 
+True: o~y~n~a~t~Verb~Pos~DB~Adverb~AfterDoingSo~</s> | Pred: o~y~n~a~Verb~DB~Verb~Caus~Pos~DB~Adverb 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: o~t~u~r~Verb~Pos~DB~Noun~PastPart~A3sg~P2sg~Nom~</s> | Pred: o~t~u~r~Verb~Pos~DB~Adj~PastPart~P2sg~</s>~Nom~</s> 
+ 
+True: ş~e~f~t~a~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: ş~e~f~t~a~l~i~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Adj~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: i~l~a~n~Noun~A3pl~Pnon~Acc~</s> | Pred: i~l~a~n~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: i~l~i~k~l~e~Verb~Pos~Aor~A1sg~</s> | Pred: i~l~i~k~Adj~DB~Verb~Zero~A3pl~P1sg~</s> 
+ 
+True: h~e~r~g~e~l~e~Noun~A3sg~Pnon~Nom~</s> | Pred: h~e~r~g~e~l~Noun~A3sg~Pnon~Dat~</s>~Pnon 
+ 
+True: s~ö~y~l~e~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: s~ö~y~l~e~Verb~Pos~DB~Adj~PastPart~P3sg~P3sg 
+ 
+True: g~ö~z~Noun~A3pl~P3pl~Abl~</s> | Pred: g~ö~z~Noun~A3pl~P3sg~Abl~</s> 
+ 
+True: i~ç~Verb~Pos~Aor~Past~A2pl~</s> | Pred: i~ç~e~r~Verb~Pos~Past~A2pl 
+ 
+True: i~ç~Verb~Pos~Aor~Past~A2pl~</s> | Pred: i~ç~e~r~Verb~Pos~Past~A2pl 
+ 
+True: k~a~d~a~r~Postp~PCDat~DB~Noun~Zero~A3sg~Pnon~Acc~</s> | Pred: k~a~d~a~r~Postp~PCDat~DB~Noun~Zero~A3sg~P3sg~Nom~</s> 
+ 
+True: k~a~p~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: k~a~p~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: k~a~y~ı~k~Noun~A3sg~Pnon~Nom~DB~Noun~Agt~A3pl~Pnon~Dat~</s> | Pred: k~a~y~ı~k~ç~ı~Noun~A3pl~Pnon~Dat~</s>~</s>~Dat~</s>~Dat 
+ 
+True: k~o~r~i~d~o~r~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A3sg~</s> | Pred: k~o~r~i~d~o~r~d~A3sg~Pnon~A3sg~DB~Verb~Zero~Past~A3sg~</s> 
+ 
+True: y~o~k~s~u~n~Verb~Pos~Past~A3sg~</s> | Pred: y~o~k~s~u~n~Noun~A3sg~Pnon~Nom~DB 
+ 
+True: ç~a~t~a~l~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: ç~a~t~a~l~l~A3sg~Pnon~Nom~DB~Adj~With~</s> 
+ 
+True: g~ö~r~ü~n~Verb~Neg~Fut~A3sg~</s> | Pred: g~ö~r~ü~n~Verb~Neg~DB~Adj~FutPart 
+ 
+True: u~s~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: u~s~l~A3sg~Noun~Nom~DB~Adj~With~</s> 
+ 
+True: a~ğ~Noun~A3sg~P3sg~Ins~</s> | Pred: a~ğ~ı~Noun~A3sg~Ins~Ins 
+ 
+True: s~a~r~s~Verb~Pos~DB~Adverb~ByDoingSo~</s> | Pred: s~a~r~Verb~Verb~Pos~DB~Adverb~ByDoingSo~</s> 
+ 
+True: p~u~m~b~l~e~c~h~o~o~k~Noun~A3sg~Pnon~Gen~</s> | Pred: p~u~m~b~l~o~c~b~s~o~o~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: h~o~ş~Adj~DB~Verb~Zero~Pres~A2sg~</s> | Pred: h~o~ş~Adj~DB~Verb~Zero~Pres~A3sg~</s> 
+ 
+True: k~a~r~ş~ı~Noun~A3sg~Pnon~Loc~</s> | Pred: k~a~r~ş~ı~Noun~DB~Noun~Zero~A3sg 
+ 
+True: a~k~o~r~t~Noun~A3sg~Pnon~Nom~DB~Noun~Agt~A3sg~P3sg~Gen~</s> | Pred: a~k~o~r~t~ç~ç~Noun~A3sg~P3sg~Gen~</s>~</s>~Zero~A3sg~Pnon 
+ 
+True: m~e~l~a~n~k~o~l~i~Noun~A3sg~Pnon~Ins~</s> | Pred: m~e~l~a~n~n~e~k~i~l~Noun~A3sg~Ins~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~a~r~a~r~Verb~Pos~Narr~Past~A3sg~</s> | Pred: s~a~r~Verb~Pos~Verb~Caus~Pos~Narr~Past~A3sg 
+ 
+True: s~u~s~a~Verb~Pos~Narr~A3sg~</s> | Pred: s~u~s~a~Pos~A3sg~Narr~A3sg~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: i~s~t~e~r~Conj~</s> | Pred: i~s~t~e~Verb~Pos~Aor 
+ 
+True: u~z~a~Verb~DB~Verb~Caus~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: u~z~a~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: i~s~t~e~Verb~Pos~DB~Noun~PastPart~A3pl~P3pl~Nom~</s> | Pred: i~s~t~e~Verb~Pos~DB~Adj~PastPart~P3pl~</s>~Nom~</s> 
+ 
+True: a~n~c~a~k~Adverb~</s> | Pred: a~n~c~a~k~Conj~</s> 
+ 
+True: p~u~m~b~l~e~c~h~o~o~k~Noun~A3sg~Pnon~Nom~</s> | Pred: p~u~m~b~l~o~c~o~s~o~o~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: e~l~Noun~A3sg~P1sg~Loc~DB~Adj~Rel~</s> | Pred: e~l~i~m~Adj~DB~Noun~Zero~A3sg~Pnon 
+ 
+True: f~ı~r~s~a~t~Noun~A3pl~P3sg~Nom~</s> | Pred: f~ı~r~s~a~t~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: s~a~r~ı~k~l~ı~Adj~</s> | Pred: s~a~r~ı~k~Noun~A3sg~Pnon~Nom 
+ 
+True: ş~a~h~ı~n~Noun~A3sg~Pnon~Nom~</s> | Pred: ş~a~h~Noun~A3sg~Pnon~Gen~</s>~Nom~</s> 
+ 
+True: h~a~r~e~m~a~ğ~a~l~ı~ğ~Noun~A3sg~P3sg~Nom~</s> | Pred: h~a~r~e~m~a~ğ~a~ğ~ı~Noun~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: f~ı~s~k~i~y~e~Noun~A3sg~Pnon~Gen~</s> | Pred: f~i~s~k~i~y~e~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: v~e~b~a~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3pl~Pnon~Gen~</s> | Pred: v~e~b~a~l~Noun~A3sg~Pnon~Gen~</s>~</s>~DB~Noun~Gen~</s>~Pnon~Gen~</s> 
+ 
+True: o~r~d~u~g~a~h~Noun~A3sg~Pnon~Dat~</s> | Pred: o~r~d~u~g~a~h~a~Noun~A3sg~Pnon~Nom 
+ 
+True: a~l~Verb~DB~Verb~Caus~Pos~DB~Noun~NotState~A3sg~Pnon~Nom~</s> | Pred: a~l~Verb~DB~Verb~Caus~Pos~DB~A1pl~NotState~A3sg~Pnon~Nom~</s> 
+ 
+True: k~o~r~k~a~k~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~P1sg~Abl~</s> | Pred: k~o~r~k~a~k~Adj~DB~Noun~Ness~A3sg~P1sg~Abl~</s>~</s>~</s>~</s> 
+ 
+True: a~z~g~ı~n~Noun~A3sg~Pnon~Nom~</s> | Pred: a~z~g~ı~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~o~r~o~l~e~n~k~o~Noun~A3sg~Pnon~Gen~</s> | Pred: k~o~r~o~l~e~n~n~o~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: z~n~a~n~i~Noun~A3sg~Pnon~Nom~</s> | Pred: z~a~n~n~i~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: v~e~r~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: v~e~r~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: ç~u~d~r~Noun~A3sg~Pnon~Dat~</s> | Pred: ç~u~d~r~a~Noun~A3sg~Pnon~Nom 
+ 
+True: g~ü~ç~Noun~A3pl~Pnon~Acc~</s> | Pred: g~ü~ç~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: g~ü~ç~Noun~A3sg~Pnon~Nom~DB~Adj~Without~DB~Noun~Ness~A3sg~P3pl~Ins~</s> | Pred: g~ü~ç~ç~ü~z~Adj~DB~Noun~Ness~A3sg~P3sg~Ins~</s>~Ins~Ins~</s> 
+ 
+True: ç~a~t~ı~ş~Verb~Pos~DB~Noun~Inf2~A3pl~Pnon~Acc~</s> | Pred: ç~a~t~ı~ş~Verb~Pos~DB~Noun~Inf2~A3pl~P3sg~Nom~</s> 
+ 
+True: y~a~p~ı~t~Noun~A3sg~Pnon~Acc~</s> | Pred: y~a~p~ı~t~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: d~o~ğ~Verb~Pos~DB~Adj~PresPart~</s> | Pred: d~o~ğ~Verb~n~DB~A3sg~PresPart~</s> 
+ 
+True: k~ı~r~g~ı~n~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: k~ı~r~g~ı~n~Adj~DB~Noun~Ness~A3sg~Pnon~Nom~</s>~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: b~e~l~o~m~o~r~k~a~n~a~l~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: b~e~l~o~m~o~r~m~a~n~ı~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s>~Verb 
+ 
+True: k~a~n~a~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: k~a~n~a~l~Noun~A3sg~P3sg~Nom~</s>~</s>~With 
+ 
+True: y~a~n~s~ı~Verb~DB~Verb~Caus~Pos~DB~Adj~AorPart~</s> | Pred: y~a~n~s~ı~Verb~DB~Verb~Caus~Pos~Aor~A3sg~</s>~</s> 
+ 
+True: u~s~t~a~b~a~ş~ı~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3pl~</s> | Pred: u~s~t~a~b~a~ş~a~Noun~A3pl~Pnon~Nom~</s>~Verb~Zero~A3pl~Noun~</s> 
+ 
+True: b~o~z~Verb~Pos~DB~Noun~FutPart~A3sg~P3sg~Nom~</s> | Pred: b~o~z~Verb~Pos~DB~Adj~FutPart~P3sg~</s>~Nom~</s> 
+ 
+True: a~k~i~m~Adj~</s> | Pred: a~k~i~m~Noun~A3sg 
+ 
+True: k~u~l~l~a~n~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: k~u~l~l~a~n~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: f~i~d~a~n~Noun~A3sg~Pnon~Gen~</s> | Pred: f~i~d~a~Noun~A3sg~Pnon~Gen~</s>~</s> 
+ 
+True: d~i~k~i~l~Verb~Pos~DB~Adj~PresPart~</s> | Pred: d~i~k~Verb~DB~Verb~Pass~Pos~DB~Adj~PresPart 
+ 
+True: a~l~a~y~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: a~l~a~y~Noun~A3sg~Pnon~Nom~DB~Adj~With 
+ 
+True: a~l~a~y~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: a~l~a~y~Noun~A3sg~Pnon~Nom~DB~Adj~With 
+ 
+True: u~l~u~Verb~Pos~DB~Adj~PresPart~</s> | Pred: u~l~u~y~Verb~Pos~Adj~PresPart~</s> 
+ 
+True: l~a~p~Noun~A3sg~Pnon~Dat~</s> | Pred: l~a~p~Noun~Noun~Pnon~Dat~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: y~e~n~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Nom~</s> | Pred: y~e~Verb~DB~Verb~Pass~Pos~DB~Noun~Inf1~A3sg~Pnon 
+ 
+True: g~ö~r~ü~ş~m~e~Noun~A3sg~Pnon~Acc~</s> | Pred: g~ö~r~ü~ş~Verb~Pos~DB~Noun~Inf2~A3sg~Pnon 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: d~i~r~i~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Acc~</s> | Pred: d~i~r~i~l~Verb~DB~Verb~Noun~PastPart~A3sg~P3sg~Acc~</s> 
+ 
+True: i~s~y~a~n~Noun~A3sg~Pnon~Gen~</s> | Pred: i~s~y~a~Noun~A3sg~Pnon~Gen~</s>~</s> 
+ 
+True: s~ö~z~Noun~A3pl~Pnon~Acc~</s> | Pred: s~ö~z~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: a~ğ~ı~r~b~a~ş~l~ı~Adj~DB~Noun~Ness~A3sg~Pnon~Acc~</s> | Pred: a~ğ~ı~r~b~a~ş~l~ı~Adj~DB~Noun~Ness~A3sg~P3sg~Nom~</s> 
+ 
+True: t~a~m~e~m~e~Noun~A3sg~P2sg~Nom~</s> | Pred: t~a~m~e~m~e~n~Adverb~</s>~</s>~Nom 
+ 
+True: d~e~ş~i~k~Adj~</s> | Pred: d~e~ş~i~k~Noun~A3sg 
+ 
+True: i~r~k~i~l~Verb~Pos~Past~A3sg~</s> | Pred: i~r~k~i~l~Verb~A3sg~Past~A3sg~</s> 
+ 
+True: b~a~b~a~Noun~A3sg~P2sg~Nom~</s> | Pred: b~a~b~a~n~Noun~A3sg~Pnon~Nom 
+ 
+True: k~u~r~b~a~ğ~a~Noun~A3sg~Pnon~Nom~</s> | Pred: k~u~r~b~a~k~Noun~A3sg~Pnon~Dat~</s>~</s> 
+ 
+True: k~a~l~d~ı~r~Verb~Pos~DB~Adverb~AfterDoingSo~</s> | Pred: k~a~l~Verb~DB~Verb~Caus~Pos~DB~Adverb~AfterDoingSo~</s> 
+ 
+True: a~r~k~a~Noun~A3sg~P2sg~Dat~</s> | Pred: a~r~k~a~n~Noun~A3sg~Pnon~Dat 
+ 
+True: a~l~Verb~Pos~Imp~A2sg~</s> | Pred: a~l~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: t~e~r~e~y~a~ğ~ı~Noun~A3sg~P3sg~Nom~</s> | Pred: t~e~r~e~y~a~k~ı~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: ç~ı~k~Verb~DB~Verb~Caus~DB~Verb~Caus~Pos~Opt~A3sg~</s> | Pred: ç~ı~k~Verb~DB~Verb~Caus~DB~Caus~Caus~Pos~Opt~A3sg~</s> 
+ 
+True: ç~ı~k~Verb~DB~Verb~Caus~DB~Verb~Caus~Pos~Opt~A3sg~</s> | Pred: ç~ı~k~Verb~DB~Verb~Caus~DB~Caus~Caus~Pos~Opt~A3sg~</s> 
+ 
+True: h~ı~r~s~ı~z~Noun~A3sg~Pnon~Nom~</s> | Pred: h~ı~r~Noun~ı~z~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: ç~ı~k~Verb~Pos~DB~Verb~EverSince~DB~Noun~Inf2~A3sg~P1sg~Dat~</s> | Pred: ç~ı~k~Verb~Pos~DB~Verb~Neg~DB~Verb~Neg~DB~Noun~Inf2~A3sg 
+ 
+True: v~u~r~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A3sg~</s> | Pred: v~u~r~u~ş~Verb~Pos~Past~A3sg~</s>~Verb~Past~</s>~A3sg~</s>~</s>~</s> 
+ 
+True: k~a~t~Verb~DB~Verb~Pass~Neg~Aor~A1sg~</s> | Pred: k~a~t~Verb~DB~Verb~Pass~Neg~DB~Noun~Inf2 
+ 
+True: ç~a~l~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Cond~A3sg~</s> | Pred: ç~a~l~Verb~Pos~Desr~A3sg~</s>~</s>~</s>~</s>~DB~Zero 
+ 
+True: e~t~Verb~Pos~DB~Adverb~AfterDoingSo~</s> | Pred: e~t~Verb~Pos~DB~Adverb~Pnon~Nom 
+ 
+True: d~u~y~u~r~u~Noun~A3sg~P2sg~Nom~</s> | Pred: d~u~y~u~r~Verb~Pos~Imp~A2pl~</s>~Nom 
+ 
+True: m~a~t~e~m~a~t~i~k~ç~i~Noun~A3sg~Pnon~Gen~</s> | Pred: m~a~t~e~m~a~t~i~ç~Noun~A3sg~Pnon~Gen~DB~Noun~Ness 
+ 
+True: ş~a~i~r~a~n~e~Adj~</s> | Pred: ş~a~i~r~a~n~e~Noun~A3sg 
+ 
+True: e~ş~i~t~s~i~z~l~i~k~Noun~A3sg~Pnon~Nom~</s> | Pred: e~ş~i~t~s~i~z~Noun~DB~Noun~Ness~A3sg~Pnon~Nom~</s> 
+ 
+True: a~n~c~a~k~Adverb~</s> | Pred: a~n~c~a~k~Conj~</s> 
+ 
+True: l~ö~n~o~r~m~a~n~t~Noun~A3sg~Pnon~Dat~</s> | Pred: l~ö~n~o~r~m~a~n~Noun~A3sg~Pnon~Loc~</s>~</s> 
+ 
+True: k~a~z~a~n~ç~Noun~A3sg~P3sg~Nom~</s> | Pred: k~a~z~a~n~c~ı~Noun~A3sg~Pnon~Nom 
+ 
+True: t~o~z~Verb~Pos~DB~Noun~PastPart~A3sg~Pnon~Abl~</s> | Pred: t~o~z~Noun~Pos~DB~Noun~PastPart~A3sg~Pnon~Abl~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: i~h~t~i~y~a~r~Noun~A3sg~Pnon~Ins~</s> | Pred: i~h~t~i~y~a~r~Noun~a~Pnon~Ins~</s> 
+ 
+True: o~n~s~e~k~i~z~i~n~c~i~Num~Ord~</s> | Pred: o~n~s~e~k~i~z~c~i~z~i~Adverb~</s>~Pnon 
+ 
+True: ş~i~ş~k~o~Adj~DB~Verb~Zero~Pres~A2pl~</s> | Pred: ş~i~ş~k~o~Noun~A3sg~A3sg~Nom~Nom~DB~Verb 
+ 
+True: m~a~d~a~m~Noun~A3sg~P2sg~Nom~</s> | Pred: m~a~d~a~m~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: k~o~n~s~ü~l~Noun~A3sg~Pnon~Gen~</s> | Pred: k~o~n~s~u~l~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: s~o~f~u~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: s~o~f~u~l~u~k~Noun~A3sg~Pnon~Nom~</s>~Pnon~Nom~</s> 
+ 
+True: ç~ı~k~Verb~Neg~Aor~A3sg~</s> | Pred: ç~ı~k~m~a~Aor~Noun~A3sg 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: b~i~t~i~r~i~m~Adj~</s> | Pred: b~i~t~i~r~i~Noun~P1sg~Nom 
+ 
+True: s~o~n~r~a~Postp~PCAbl~DB~Noun~Zero~A3sg~Pnon~Nom~DB~Adj~Rel~</s> | Pred: s~o~n~r~a~Noun~A3sg~Pnon~Nom~DB~Adj~Rel~</s>~DB~Adj~Rel~</s> 
+ 
+True: k~a~d~ı~n~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Narr~A3sg~</s> | Pred: k~a~d~ı~n~Verb~Pos~Narr~A3sg~</s>~</s>~Verb~Zero~Narr~A3sg 
+ 
+True: y~a~r~a~Verb~Neg~Aor~Past~A3sg~</s> | Pred: y~a~r~Verb~DB~Verb~Able~Neg~Aor~Past 
+ 
+True: g~e~n~i~ş~l~i~k~Noun~A3sg~Pnon~Ins~</s> | Pred: g~e~n~i~ş~Adj~DB~Noun~Ness~A3sg~Pnon~Ins~</s> 
+ 
+True: k~i~r~l~e~t~Verb~Neg~Fut~A3sg~</s> | Pred: k~i~r~l~e~t~Verb~Neg~Verb~Caus~Neg 
+ 
+True: a~n~l~a~t~Verb~Pos~Past~A3sg~</s> | Pred: a~n~l~a~Verb~DB~Verb~Caus~Pos~Past 
+ 
+True: d~o~r~l~o~n~y~Noun~A3sg~Pnon~Dat~</s> | Pred: d~o~r~l~o~n~y~a~Noun~A3sg~Pnon~Nom 
+ 
+True: d~ü~k~Noun~A3sg~P3sg~Nom~</s> | Pred: d~ü~k~ü~Noun~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: g~i~b~i~Postp~PCGen~</s> | Pred: g~i~b~i~Postp~PCNom~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: s~e~r~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A1sg~</s> | Pred: s~e~r~Verb~Pos~Past~A1sg~</s>~</s>~</s>~Nom~Verb~Zero 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: f~o~u~n~t~a~i~Noun~A3sg~P2sg~Nom~</s> | Pred: f~o~u~n~t~i~n~Noun~Noun~P2sg~Nom~</s> 
+ 
+True: u~y~u~Verb~Pos~Past~A1sg~</s> | Pred: u~y~u~t~Pos~Past~A1sg~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: i~ş~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Narr~A3sg~</s> | Pred: i~ş~Verb~Pos~Narr~A3sg~</s>~</s>~</s>~</s>~A3sg~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: d~e~Verb~Pos~Aor~Cond~A2sg~</s> | Pred: d~e~r~s~Pos~n~A2sg~A3sg 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: s~ö~m~ü~r~g~e~c~i~Adj~</s> | Pred: s~ö~m~ü~r~g~e~Noun~A3sg~Pnon~Nom 
+ 
+True: ç~e~y~i~z~Noun~A3sg~Pnon~Acc~</s> | Pred: ç~e~y~i~z~Noun~A3sg~</s>~Nom~</s> 
+ 
+True: b~e~k~l~e~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: b~e~k~l~e~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: b~e~k~l~e~Noun~A3sg~Pnon~Nom~</s> | Pred: b~e~k~Noun~A3sg~Pnon~Ins~</s>~Nom~</s> 
+ 
+True: g~e~r~Verb~Pos~Imp~A2sg~</s> | Pred: g~e~r~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: a~l~Verb~Pos~DB~Noun~Inf2~A3pl~P3sg~Acc~</s> | Pred: a~l~Verb~Pos~DB~Noun~Inf2~A3sg~P3pl~Acc~</s> 
+ 
+True: ö~d~ü~n~ç~Adj~</s> | Pred: ö~d~ü~n~ç~Noun~A3sg 
+ 
+True: k~ı~y~ı~Noun~A3pl~P3pl~Abl~</s> | Pred: k~ı~y~ı~Noun~A3pl~P3sg~Abl~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: y~a~ş~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~ş~Noun~A3sg~Pnon~Nom~DB~Adj~With 
+ 
+True: y~a~ş~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~ş~Noun~A3sg~Pnon~Nom~DB~Adj~With 
+ 
+True: ç~a~k~ı~r~k~e~y~i~f~Adj~</s> | Pred: ç~a~k~ı~r~b~e~y~i~m~Noun~A3sg 
+ 
+True: d~e~n~k~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: d~e~n~g~i~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: g~ö~z~Noun~A3pl~Pnon~Equ~</s> | Pred: g~ö~z~l~e~r~c~e 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: y~a~v~a~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~v~a~ş~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~a~y~b~o~l~Verb~Neg~Prog1~Past~A3sg~</s> | Pred: k~a~y~b~o~l~Verb~Pos~Prog1~Past~A3sg~</s> 
+ 
+True: k~ı~s~a~s~Noun~A3sg~P3sg~Nom~</s> | Pred: k~ı~s~a~Noun~A3sg~P3sg~Nom~</s>~P3sg 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: y~a~r~a~m~a~z~Noun~A3sg~P3sg~Nom~</s> | Pred: y~a~r~a~Verb~Verb~Able~Neg~DB~Adj~AorPart~DB 
+ 
+True: p~e~t~e~r~s~b~u~r~g~Noun~A3sg~Pnon~Loc~DB~Adj~Rel~</s> | Pred: p~e~t~e~r~s~b~u~r~g~Noun~A3sg~Pnon~Loc~Adj~Rel~</s>~</s> 
+ 
+True: y~a~r~a~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~DB~Adj~With~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: y~a~r~a~t~Verb~DB~Caus~DB~Verb~Pass~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~DB~Adj~With~DB~Verb~Zero~Pres~A3sg~Cop~</s> 
+ 
+True: h~e~v~e~s~Noun~A3sg~P3sg~Nom~</s> | Pred: h~e~v~e~Noun~A3sg~P3sg~Nom~</s>~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: k~a~r~ş~ı~l~a~ş~Verb~Neg~DB~Noun~Inf2~A3sg~P2sg~Nom~</s> | Pred: k~a~r~ş~ı~l~a~ş~Verb~DB~Verb~Noun~Inf2~A3sg~P2sg~Nom~</s> 
+ 
+True: k~a~ş~ı~Verb~DB~Verb~Pass~Pos~DB~Adj~PresPart~</s> | Pred: k~a~ş~ı~n~Verb~Pos~DB~Adj~PresPart~</s>~</s>~</s> 
+ 
+True: b~e~y~a~z~Adj~</s> | Pred: b~e~y~a~z~Noun~A3sg 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: s~e~r~s~e~m~Adj~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: s~e~r~Verb~Pos~DB~Noun~Inf2~A3sg~Pnon~Nom~</s>~Nom~Nom 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: t~ı~k~ı~r~Noun~A3sg~Pnon~Nom~</s> | Pred: t~ı~k~ı~Pos~Aor~A3sg~</s>~</s>~</s> 
+ 
+True: t~ı~k~ı~r~Noun~A3sg~Pnon~Nom~</s> | Pred: t~ı~k~ı~Pos~Aor~A3sg~</s>~</s>~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: s~o~n~r~a~Postp~PCAbl~DB~Noun~Zero~A3sg~Pnon~Nom~DB~Adj~Rel~</s> | Pred: s~o~n~r~a~Noun~A3sg~Pnon~Nom~DB~Adj~Rel~</s>~DB~Adj~Rel~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: g~ü~ç~Adj~DB~Verb~Become~Pos~Narr~Past~A3sg~</s> | Pred: g~ü~ç~Noun~DB~Verb~Become~Pos~Narr~Past~A3sg~</s> 
+ 
+True: t~u~t~Verb~DB~Verb~Caus~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: t~u~t~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: a~r~a~Noun~A3pl~P3sg~Loc~</s> | Pred: a~r~a~Noun~A3pl~P3pl~Loc~</s> 
+ 
+True: k~o~ş~Verb~Pos~Imp~A2sg~</s> | Pred: k~o~ş~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: b~a~ğ~ı~r~Verb~Pos~Neces~Past~A3pl~</s> | Pred: b~a~ğ~ı~r~Verb~Neg~Neces~A3pl~Cop~</s> 
+ 
+True: s~a~k~ı~n~Noun~A3sg~Pnon~Nom~</s> | Pred: s~a~k~ı~n~Interj~</s>~Pnon~Nom~</s> 
+ 
+True: s~e~y~y~a~r~Adj~</s> | Pred: s~e~y~y~a~r~Noun~A3sg 
+ 
+True: s~ı~ç~r~a~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Loc~</s> | Pred: s~ı~ç~r~a~ş~ı~ş~Noun~A3sg~Pnon~Loc~</s>~Pnon 
+ 
+True: a~n~c~a~k~Adverb~</s> | Pred: a~n~c~a~k~Conj~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: a~r~t~Noun~A3sg~P3sg~Abl~</s> | Pred: a~r~d~ı~n~d~a~n 
+ 
+True: d~o~ğ~r~u~l~Verb~DB~Verb~Caus~Pos~Prog1~Past~A3sg~</s> | Pred: d~o~ğ~r~u~l~Verb~Verb~Verb~Caus~Pos~Prog1~Past~A3sg~</s> 
+ 
+True: c~o~ş~k~u~n~Adj~</s> | Pred: c~o~ş~k~u~n~Adj~A3sg 
+ 
+True: ş~a~k~r~a~k~Adj~</s> | Pred: ş~a~k~r~a~k~Noun~A3sg 
+ 
+True: ç~a~l~ç~e~n~e~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~a~l~ç~e~n~Adj~Adj~PresPart~Zero~A3sg~Pnon 
+ 
+True: y~e~r~s~i~z~Adj~</s> | Pred: y~e~Verb~Noun~A3sg~Pnon~Nom~DB 
+ 
+True: d~o~k~u~z~Num~Card~DB~Noun~Zero~A3sg~Pnon~Nom~DB~Verb~Zero~DB~Adverb~While~</s> | Pred: d~o~k~u~z~Verb~DB~Verb~Zero~DB~Adverb~While~</s>~</s>~</s>~</s>~Adverb~</s>~</s>~</s> 
+ 
+True: k~ı~r~g~ı~n~Noun~A3sg~Pnon~Nom~</s> | Pred: k~ı~r~g~ı~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: t~i~t~r~e~k~Adj~</s> | Pred: t~i~t~r~e~k~Noun~A3sg 
+ 
+True: v~a~h~ş~i~Adj~DB~Adverb~Ly~</s> | Pred: v~a~h~ş~i~Adj~DB~Adverb~</s>~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: ş~a~ş~k~ı~n~Noun~A3sg~Pnon~Nom~</s> | Pred: ş~a~ş~k~ı~n~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~t~Noun~A3sg~Pnon~Nom~</s> | Pred: s~t~a~Noun~A3sg~Pnon~Nom 
+ 
+True: b~a~t~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~t~ı~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: s~ö~m~ü~r~Verb~Pos~DB~Noun~Inf2~A3sg~Pnon~Abl~</s> | Pred: s~ö~m~ü~r~Verb~e~Noun~A3sg~Pnon~Abl~</s>~Pnon~</s> 
+ 
+True: ç~i~m~e~n~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3pl~Pnon~Loc~</s> | Pred: ç~i~m~e~n~l~i~k~Noun~A3pl~Pnon~Loc~</s>~Pnon~Loc~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: y~e~t~i~ş~k~i~n~Noun~A3pl~Pnon~Nom~</s> | Pred: y~e~t~i~ş~k~i~n~Adj~DB~Noun~Zero~A3pl 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: i~l~e~r~l~e~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: i~l~e~r~l~e~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: b~e~y~a~z~Adj~</s> | Pred: b~e~y~a~z~Noun~A3sg 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: d~ö~ş~e~l~i~Adj~</s> | Pred: d~ö~ş~e~Noun~A3sg~Pnon~Nom 
+ 
+True: b~i~r~i~b~i~r~i~Noun~A3sg~Pnon~Gen~</s> | Pred: b~i~r~i~b~i~r~i~Pron~Quant~A3sg~P3sg~Gen 
+ 
+True: m~u~a~y~e~n~e~Noun~A3sg~Pnon~Nom~</s> | Pred: m~u~a~y~e~n~e~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: f~ı~r~ç~a~Noun~A3sg~Pnon~Nom~</s> | Pred: f~ı~r~ç~a~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: t~e~r~t~e~m~i~z~Adj~</s> | Pred: t~e~r~t~e~m~i~z~Noun~A3sg 
+ 
+True: a~t~Noun~A3sg~P2pl~Nom~</s> | Pred: a~t~Verb~Pos~P2pl~Nom~</s> 
+ 
+True: a~l~Verb~DB~Verb~Able~Neg~DB~Adj~PastPart~P2pl~</s> | Pred: a~l~Verb~DB~Verb~Able~Neg~DB~Noun~PastPart~A3sg~P2pl 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: a~h~e~n~k~Noun~A3sg~Pnon~Acc~</s> | Pred: a~h~e~n~g~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: m~ü~ş~f~i~k~Adj~DB~Verb~Zero~Pres~A2pl~</s> | Pred: m~ü~ş~f~i~k~Noun~A3sg~P3sg~Nom~DB~Verb~Zero 
+ 
+True: i~z~m~a~r~i~t~Noun~A3sg~Pnon~Nom~</s> | Pred: i̇~z~m~a~r~i~t~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: b~u~d~a~l~a~Adj~DB~Adj~AsIf~</s> | Pred: b~u~d~a~l~a~Adj~DB~Adverb~Ly~</s> 
+ 
+True: e~s~r~a~r~e~n~g~i~z~Adj~</s> | Pred: e~s~r~a~r~e~n~g~i~z~Noun~A3sg 
+ 
+True: ş~a~r~l~m~a~n~y~Noun~A3sg~Pnon~Nom~</s> | Pred: ş~a~r~l~l~a~n~y~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: r~o~b~e~s~p~i~y~e~r~Noun~A3sg~Pnon~Nom~</s> | Pred: r~o~b~e~s~y~i~y~e~r~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: g~o~r~d~i~y~o~Noun~A3sg~P2sg~Nom~</s> | Pred: g~o~r~d~i~y~o~n~Noun~A3sg~Pnon~Nom 
+ 
+True: i~l~m~i~k~Noun~A3sg~P3sg~Dat~</s> | Pred: i~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Dat 
+ 
+True: ç~ı~k~Verb~Pos~Aor~A3sg~</s> | Pred: ç~ı~k~a~r~Noun~A3sg~Pnon 
+ 
+True: h~a~k~k~ı~n~d~a~Noun~A3sg~Pnon~Acc~</s> | Pred: h~a~k~Noun~A3sg~n~d~a~Noun~A3sg~Pnon~Acc~</s> 
+ 
+True: b~a~ğ~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Verb~Zero~Pres~A2pl~</s> | Pred: b~a~ğ~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Verb~Zero~Pres~</s>~</s> 
+ 
+True: e~k~Noun~A3sg~Pnon~Nom~</s> | Pred: e~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: g~r~u~p~Noun~A3pl~Pnon~Acc~</s> | Pred: g~r~u~p~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: g~i~z~l~e~Verb~DB~Verb~Reflex~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3pl~Pnon~Nom~</s> | Pred: g~i~z~l~e~Verb~DB~Verb~Pass~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3pl~Pnon~Nom~</s> 
+ 
+True: e~ş~i~t~l~e~Verb~DB~Verb~Pass~Pos~Fut~A3sg~</s> | Pred: e~ş~i~t~l~e~Verb~DB~Verb~Pass~Pos~DB~Adj~FutPart 
+ 
+True: t~o~p~l~a~Verb~Pos~DB~Noun~Agt~A3pl~P3sg~Nom~</s> | Pred: t~o~p~l~a~Verb~Pos~DB~Noun~Agt~A3pl~P3sg~Acc~</s> 
+ 
+True: s~a~ğ~l~a~Verb~Pos~DB~Noun~Agt~A3sg~P3pl~Abl~</s> | Pred: s~a~ğ~l~a~Verb~Pos~DB~Noun~Agt~A3pl~P3sg~Abl~</s> 
+ 
+True: t~a~m~Noun~A3sg~Pnon~Nom~</s> | Pred: t~a~m~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: u~z~a~k~l~ı~k~Noun~A3sg~P2sg~Loc~</s> | Pred: u~z~a~k~l~ı~k~Noun~A3sg~P3sg~Loc~</s> 
+ 
+True: d~i~s~k~Noun~A3pl~P3pl~Nom~</s> | Pred: d~i~s~k~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: k~a~l~d~ı~r~Verb~Pos~Imp~A2pl~</s> | Pred: k~a~l~Verb~DB~Verb~Caus~Pos~Imp~A2pl~</s> 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: ü~y~e~Noun~A3pl~Pnon~Acc~</s> | Pred: ü~y~e~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: ç~o~k~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~o~k~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: g~ö~r~ü~n~Verb~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: g~ö~r~ü~n~Verb~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: y~o~k~s~a~y~m~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: y~o~k~s~a~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: s~i~n~y~a~l~Noun~A3sg~P3sg~Nom~</s> | Pred: s~i~n~y~a~l~Noun~Pnon~Nom~DB~Adj 
+ 
+True: f~r~e~k~a~n~s~Noun~A3sg~Pnon~Dat~</s> | Pred: f~r~e~k~a~n~s~a~Noun~A3sg~Pnon~Nom 
+ 
+True: p~r~o~f~i~l~Noun~A3sg~Pnon~Acc~</s> | Pred: p~r~o~f~i~l~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: g~r~u~p~Noun~A3pl~Pnon~Acc~</s> | Pred: g~r~u~p~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: y~ö~n~t~e~m~Noun~A3pl~Pnon~Acc~</s> | Pred: y~ö~n~t~e~m~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: i~z~i~n~Noun~A3pl~Pnon~Acc~</s> | Pred: i~z~i~n~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: h~i~z~m~e~t~Noun~A3pl~Pnon~Acc~</s> | Pred: h~i~z~m~e~t~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: g~i~r~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~</s> | Pred: g~i~r~Verb~Pos~DB~A3sg~Inf3~A3sg~Pnon~Nom~</s> 
+ 
+True: k~u~r~Verb~Pos~Aor~A3sg~</s> | Pred: k~u~r~a~Pos~Noun~A3sg~Pnon 
+ 
+True: i~n~s~a~n~Noun~A3pl~P3sg~Nom~</s> | Pred: i~n~s~a~n~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: g~e~r~e~k~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: g~e~r~e~k~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: g~i~r~i~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: g~i~r~Verb~Pos~DB~A3sg~Inf3~A3sg~</s> 
+ 
+True: g~i~r~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~</s> | Pred: g~i~r~Verb~Pos~DB~A3sg~Inf3~A3sg~</s>~Nom~</s> 
+ 
+True: y~ö~n~e~t~Noun~A3sg~Pnon~Nom~</s> | Pred: y~ö~n~e~t~Verb~Pos~Imp~A2sg~</s> 
+ 
+True: b~e~l~g~e~Noun~A3pl~Pnon~Acc~</s> | Pred: b~e~l~g~e~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: y~ö~n~e~t~Noun~A3sg~Pnon~Nom~</s> | Pred: y~ö~n~e~t~Verb~Pos~Imp~A2sg~</s> 
+ 
+True: b~i~l~g~i~Noun~A3pl~Pnon~Acc~</s> | Pred: b~i~l~g~i~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: d~i~z~e~Noun~A3pl~Pnon~Acc~</s> | Pred: d~i~z~e~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: ö~z~e~l~l~i~k~Noun~A3pl~Pnon~Acc~</s> | Pred: ö~z~e~l~l~i~k~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: t~a~l~e~p~Noun~A3pl~P3sg~Nom~</s> | Pred: t~a~l~e~p~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: y~ö~n~l~e~n~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~Aor~A3pl~</s> | Pred: y~ö~n~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~DB~Verb~Caus~DB~Verb~Pass~Pos 
+ 
+True: i~k~i~l~Noun~A3sg~Pnon~Acc~</s> | Pred: i~k~i~l~i~Noun~A3sg~Pnon~Nom 
+ 
+True: p~r~o~g~r~a~m~Noun~A3pl~P3pl~Nom~</s> | Pred: p~r~o~g~r~a~m~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: e~ş~Noun~A3sg~Pnon~Nom~DB~Verb~Become~DB~Verb~Caus~DB~Verb~Pass~Pos~Narr~A3sg~</s> | Pred: e~ş~Noun~A3sg~Pnon~Nom~DB~Verb~Become~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Adj~NarrPart 
+ 
+True: k~o~l~a~y~Noun~A3sg~Pnon~Nom~</s> | Pred: k~o~l~a~y~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~o~l~a~y~Noun~A3sg~Pnon~Nom~</s> | Pred: k~o~l~a~y~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~a~m~e~r~a~Noun~A3sg~P1sg~Abl~</s> | Pred: k~a~m~e~r~a~m~Noun~A3sg~Pnon~Abl 
+ 
+True: p~a~y~l~a~ş~Verb~Pos~DB~Noun~PastPart~A3sg~P2pl~Nom~</s> | Pred: p~a~y~l~a~ş~Verb~Pos~DB~Adj~PastPart~P2pl~</s>~Nom~</s> 
+ 
+True: g~i~r~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~</s> | Pred: g~i~r~Verb~Pos~DB~A3sg~Inf3~A3sg~Pnon~Nom~</s> 
+ 
+True: y~a~p~Verb~DB~Verb~Pass~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: y~a~p~Verb~DB~Verb~Pass~Pos~DB~Adj~PastPart~P3sg~</s>~</s>~</s> 
+ 
+True: d~ü~z~e~y~Noun~A3pl~P3pl~Acc~</s> | Pred: d~ü~z~e~y~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: h~e~s~a~p~l~a~Verb~Pos~DB~Noun~Inf2~A3pl~Pnon~Acc~</s> | Pred: h~e~s~a~p~l~a~Verb~Pos~DB~Noun~Inf2~A3pl~P3sg~Nom~</s> 
+ 
+True: a~l~t~k~ü~m~e~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: a~l~t~k~ü~Verb~e~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: u~y~g~u~l~a~m~a~Noun~A3pl~P3pl~Nom~</s> | Pred: u~y~g~u~l~a~m~a~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: g~e~l~i~ş~Verb~Pos~DB~Adj~NarrPart~</s> | Pred: g~e~l~i~ş~Verb~Pos~DB~A3sg~NarrPart~</s> 
+ 
+True: g~i~d~e~n~Noun~A3sg~Pnon~Nom~</s> | Pred: g~i~t~Verb~Pos~DB~Adj~PresPart~</s>~</s> 
+ 
+True: s~ü~r~ü~k~l~e~Verb~Pos~Imp~A2sg~</s> | Pred: s~ü~r~ü~k~l~e~Adverb~</s>~</s>~Nom~</s> 
+ 
+True: b~i~l~g~i~Noun~A3pl~P3sg~Nom~</s> | Pred: b~i~l~g~i~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: ö~z~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: ö~z~e~l~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: o~l~a~y~Noun~A3pl~Pnon~Acc~</s> | Pred: o~l~a~y~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: r~o~l~Noun~A3sg~Pnon~Acc~</s> | Pred: r~o~l~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: g~r~u~p~Noun~A3pl~Pnon~Acc~</s> | Pred: g~r~u~p~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: i~ş~l~e~Verb~DB~Verb~Pass~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: i~ş~l~e~Verb~DB~Verb~Pass~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: o~l~a~y~Noun~A3pl~Pnon~Acc~</s> | Pred: o~l~a~y~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: k~l~a~s~ö~r~Noun~A3sg~P1sg~Nom~</s> | Pred: k~l~a~s~ö~r~Noun~A3sg~P1sg~Nom~DB 
+ 
+True: k~l~a~s~ö~r~Noun~A3sg~P1sg~Nom~</s> | Pred: k~l~a~s~ö~r~Noun~A3sg~P1sg~Nom~DB 
+ 
+True: y~ü~k~l~ü~Noun~A3sg~Pnon~Nom~</s> | Pred: y~ü~k~Noun~A3sg~Pnon~Nom~DB~Adj~With 
+ 
+True: y~ü~k~s~e~l~Verb~DB~Verb~Caus~Pos~DB~Adj~AorPart~</s> | Pred: y~ü~k~s~e~l~Verb~DB~Verb~Caus~Pos~Aor~A3sg~</s>~</s> 
+ 
+True: z~a~m~a~n~l~a~Verb~DB~Verb~Pass~Neg~DB~Adj~NarrPart~</s> | Pred: z~a~m~a~n~l~a~Verb~DB~Verb~Pass~Neg~Narr~A3sg~</s>~</s> 
+ 
+True: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3pl~Acc~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3pl~P3pl~Acc~</s> 
+ 
+True: d~u~r~Verb~DB~Verb~Caus~Pos~DB~Adverb~WithoutHavingDoneSo~</s> | Pred: d~u~r~Verb~DB~Verb~Caus~Pos~DB~Noun~Inf2~A3sg 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~i~t~e~Noun~A3sg~Pnon~Nom~</s> | Pred: s~i~t~Noun~Noun~Pnon~Dat~</s>~</s> 
+ 
+True: b~i~l~g~i~s~i~y~a~r~Noun~A3sg~Pnon~Dat~</s> | Pred: b~i~l~g~i~s~a~y~a~r~Noun~A3sg~Pnon~Dat~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: y~o~r~d~a~m~Noun~A3pl~Pnon~Acc~</s> | Pred: y~o~r~d~a~m~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: ö~n~l~e~m~Noun~A3pl~P3sg~Nom~</s> | Pred: ö~n~l~e~m~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: s~u~n~Verb~Pos~DB~Noun~Agt~A3sg~P3sg~Acc~</s> | Pred: s~u~n~u~c~u~Noun~A3sg~P3sg~Acc~</s>~P3sg 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: t~a~n~ı~m~Noun~A3sg~Pnon~Dat~</s> | Pred: t~a~n~ı~m~Noun~A3sg~Noun~Dat~A3sg 
+ 
+True: g~i~r~i~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: g~i~r~Verb~Pos~DB~A3sg~Inf3~A3sg~Pnon 
+ 
+True: k~a~r~a~k~t~e~r~Noun~A3pl~Pnon~Acc~</s> | Pred: k~a~r~a~k~t~e~r~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: u~y~Verb~Pos~DB~Adj~PresPart~</s> | Pred: u~y~Verb~Pos~DB~Adj~PresPart~Nom 
+ 
+True: i~z~i~n~Noun~A3pl~Pnon~Acc~</s> | Pred: i~z~i~n~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: b~u~l~Verb~DB~Verb~Pass~Neg~DB~Noun~PastPart~A3sg~P3sg~Loc~</s> | Pred: b~u~l~u~n~Verb~Neg~DB~Noun~PastPart~A3sg~P3sg~Loc~</s>~Loc 
+ 
+True: a~ş~Verb~DB~Verb~Pass~Pos~Narr~A3sg~</s> | Pred: a~ş~Verb~DB~Verb~Pass~Pos~DB~A3sg~</s> 
+ 
+True: ç~a~r~p~ı~n~ı~m~ı~n~Noun~A3sg~P3sg~Nom~</s> | Pred: ç~a~r~p~ı~n~Noun~m~Noun~A3sg~P3sg~Acc~</s>~P3sg~Acc 
+ 
+True: d~ö~k~ü~m~Noun~A3sg~P3sg~Nom~</s> | Pred: d~ö~k~ü~m~Noun~A3sg~Pnon~Acc~</s> 
+ 
+True: b~a~ğ~l~a~Verb~Pos~DB~Verb~Able~DB~Noun~FutPart~A3sg~P2pl~Nom~</s> | Pred: b~a~ğ~l~a~Verb~Pos~DB~Verb~Able~DB~Noun~FutPart~P2pl~</s>~Nom~</s> 
+ 
+True: ö~d~e~m~e~Noun~A3pl~Pnon~Gen~</s> | Pred: ö~d~e~Verb~Pos~DB~A3pl~Inf2~A3pl~Pnon 
+ 
+True: f~o~n~k~s~i~y~o~n~Noun~A3sg~Pnon~Acc~</s> | Pred: f~o~n~k~s~i~y~o~n~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: i~ş~l~e~m~Noun~A3sg~Pnon~Acc~</s> | Pred: i~ş~l~e~m~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: b~a~ğ~l~a~n~t~ı~Noun~A3pl~Pnon~Acc~</s> | Pred: b~a~ğ~l~a~n~t~ı~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: b~u~l~Verb~DB~Verb~Pass~DB~Verb~Able~Neg~DB~Noun~PastPart~A3sg~P3sg~Acc~</s> | Pred: b~u~l~u~n~Verb~DB~Verb~Able~Neg~DB~Noun~PastPart~A3sg~P3sg~Acc~</s>~P3sg 
+ 
+True: i~ş~l~e~Verb~DB~Verb~Pass~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: i~ş~l~e~Verb~DB~Verb~Pass~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: a~l~Verb~DB~Verb~Pass~Pos~DB~Noun~Inf1~A3sg~Pnon~Loc~</s> | Pred: a~l~ı~n~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Loc~</s>~Loc 
+ 
+True: a~y~a~r~Noun~A3sg~P3sg~Acc~</s> | Pred: a~y~Verb~Pos~DB~Adj~P3sg~Acc~</s> 
+ 
+True: b~ı~r~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: b~ı~r~a~k~Verb~Pos~Imp~A2sg~</s> 
+ 
+True: g~e~r~ç~e~k~Noun~A3sg~Pnon~Nom~DB~Verb~Become~DB~Verb~Caus~Pos~Imp~A2sg~</s> | Pred: g~e~r~ç~e~k~Noun~A3sg~Pnon~Nom~DB~Verb~Become~DB~Verb~Caus~Pos~Imp~A3sg~</s> 
+ 
+True: t~a~l~e~p~Noun~A3pl~P3sg~Nom~</s> | Pred: t~a~l~e~p~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: y~ö~n~l~e~n~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~Aor~A3pl~</s> | Pred: y~ö~n~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~DB~Verb~Caus~DB~Verb~Pass~Pos 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: t~a~m~Noun~A3sg~Pnon~Nom~</s> | Pred: t~a~m~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: h~a~k~k~ı~n~d~a~Noun~A3sg~Pnon~Acc~</s> | Pred: h~a~k~Noun~A3sg~n~d~a~Noun~A3sg~Pnon~Acc~</s> 
+ 
+True: k~a~l~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: k~a~l~Verb~Pos~DB~Adj~PresPart~</s>~</s> 
+ 
+True: ö~n~k~o~ş~u~l~Noun~A3pl~P3pl~Nom~</s> | Pred: ö~n~k~o~ş~u~l~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: ö~z~e~l~l~i~k~Noun~A3pl~P3sg~Nom~</s> | Pred: ö~z~e~l~l~i~k~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: h~i~z~m~e~t~Noun~A3pl~Pnon~Acc~</s> | Pred: h~i~z~m~e~t~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: e~y~l~e~m~Noun~A3sg~Pnon~Acc~</s> | Pred: e~y~l~e~m~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: s~i~t~e~Noun~A3pl~Pnon~Acc~</s> | Pred: s~i~t~e~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: y~ü~k~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Verb~Zero~Cond~A3sg~</s> | Pred: y~ü~k~l~ü~Verb~Pos~Desr~A3sg~</s>~</s>~Verb~Zero~Cond~A3sg~</s> 
+ 
+True: d~i~z~e~Noun~A3pl~Pnon~Acc~</s> | Pred: d~i~z~e~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: d~o~s~y~a~Noun~A3sg~P1sg~Acc~</s> | Pred: d~o~s~y~a~m~Noun~A3sg~Pnon~Nom 
+ 
+True: k~u~l~l~a~n~Verb~Pos~DB~Noun~Agt~A3pl~Pnon~Acc~</s> | Pred: k~u~l~l~a~n~Verb~Pos~DB~Noun~Agt~A3pl~P3sg~Nom~</s> 
+ 
+True: i~ş~l~e~ç~Noun~A3sg~Pnon~Dat~</s> | Pred: i~ş~l~e~c~Pos~DB~Adverb~</s>~</s> 
+ 
+True: s~o~l~a~Noun~A3sg~Pnon~Nom~</s> | Pred: s~o~l~Noun~A3sg~Pnon~Dat~</s>~</s> 
+ 
+True: o~r~t~a~l~a~Verb~Pos~Imp~A2sg~</s> | Pred: o~r~t~a~l~Noun~A3sg~Pnon~Dat~</s>~</s> 
+ 
+True: {~Punct~</s> | Pred: ]~Punct~</s> 
+ 
+True: }~Punct~</s> | Pred: &~Punct~</s> 
+ 
+True: t~a~n~ı~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: t~a~n~ı~Verb~Pos~DB~Adj~PastPart~A3sg~</s> 
+ 
+True: k~i~m~l~i~k~Noun~A3pl~P3pl~Acc~</s> | Pred: k~i~m~l~i~k~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: b~i~l~g~i~s~a~y~a~r~Noun~A3pl~P3sg~Loc~DB~Verb~Zero~Narr~A3sg~</s> | Pred: b~i~l~g~i~s~a~y~a~r~Noun~A3sg~P3sg~Loc~DB~Verb~Zero~Narr~A3sg~</s> 
+ 
+True: k~i~ş~i~Noun~A3pl~Pnon~Acc~</s> | Pred: k~i~ş~i~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: o~r~t~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: o~r~t~a~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: o~r~t~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: o~r~t~a~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: g~e~r~i~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~r~i~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: g~e~r~i~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~r~i~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: u~z~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: u~z~a~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: b~i~l~g~i~Noun~A3pl~Pnon~Acc~</s> | Pred: b~i~l~g~i~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: b~e~l~g~e~Noun~A3pl~P3pl~Acc~</s> | Pred: b~e~l~g~e~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: a~d~Noun~A3sg~Pnon~Acc~</s> | Pred: a~d~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: h~a~n~e~Noun~A3pl~P3sg~Nom~</s> | Pred: h~a~n~e~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~i~t~e~Noun~A3sg~Pnon~Nom~</s> | Pred: s~i~t~Noun~Noun~Pnon~Dat~</s>~</s> 
+ 
+True: d~e~ğ~e~r~Noun~A3sg~Pnon~Acc~</s> | Pred: d~e~ğ~e~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: g~r~u~p~l~a~n~d~ı~r~Noun~A3sg~Pnon~Acc~</s> | Pred: g~r~u~p~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~DB~Noun~A3sg 
+ 
+True: d~e~n~e~t~i~m~Noun~A3sg~P3pl~Gen~</s> | Pred: d~e~n~e~t~i~m~Noun~A3pl~P3sg~Gen~</s> 
+ 
+True: p~i~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: p~i~l~Noun~A3sg~P3sg~Nom~</s>~</s> 
+ 
+True: g~e~n~i~ş~Adj~DB~Noun~Ness~A3sg~Pnon~Gen~</s> | Pred: g~e~n~i~ş~l~i~k~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: u~y~g~u~l~a~Verb~Pos~DB~Noun~Inf2~A3sg~P3sg~Nom~</s> | Pred: u~y~g~u~l~a~Verb~Pos~Noun~A3sg~P3sg~Nom~</s>~Nom~</s> 
+ 
+True: k~ı~s~a~y~o~l~Noun~A3pl~Pnon~Acc~</s> | Pred: k~ı~s~a~y~o~l~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: d~e~ğ~e~r~Noun~A3sg~Pnon~Acc~</s> | Pred: d~e~ğ~e~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: k~e~n~a~r~Adj~DB~Noun~Ness~A3sg~P3sg~Gen~</s> | Pred: k~e~n~a~r~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: k~e~n~a~r~Adj~DB~Noun~Ness~A3sg~P3sg~Acc~</s> | Pred: k~e~n~a~r~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: s~a~ğ~Noun~A3sg~P3sg~Loc~</s> | Pred: s~a~ğ~ı~n~Adj~DB~Noun 
+ 
+True: v~e~r~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Abl~DB~Verb~Zero~Cond~A3sg~</s> | Pred: v~e~r~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Loc~DB~Verb~Zero~Cond~A3sg~</s> 
+ 
+True: k~a~l~Verb~DB~Verb~Caus~Pos~DB~Noun~Inf1~A3sg~Pnon~Nom~</s> | Pred: k~a~l~d~ı~r~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Nom~</s> 
+ 
+True: v~e~z~i~r~Noun~A3sg~Pnon~Acc~</s> | Pred: v~e~z~i~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: o~r~t~a~Noun~A3sg~Pnon~Nom~</s> | Pred: o~r~t~a~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~u~t~u~Noun~A3sg~P3sg~Loc~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: k~u~t~u~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> 
+ 
+True: s~o~l~i~t~a~i~r~Noun~A3sg~Pnon~Dat~</s> | Pred: s~o~l~i~t~a~r~e~r~Noun~A3sg~Pnon~Nom 
+ 
+True: o~y~u~n~Noun~A3sg~Pnon~Acc~</s> | Pred: o~y~u~n~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: d~ü~ğ~m~e~Noun~A3sg~P3pl~Dat~</s> | Pred: d~ü~ğ~m~e~Noun~A3pl~P3sg~Dat~</s> 
+ 
+True: d~e~ğ~e~r~Noun~A3sg~Pnon~Acc~</s> | Pred: d~e~ğ~e~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: b~a~ş~k~a~Postp~PCAbl~</s> | Pred: b~a~ş~k~a~Adj~</s>~</s> 
+ 
+True: i~ç~e~r~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: i~ç~e~r~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: y~a~z~ı~l~ı~m~Noun~A3sg~Pnon~Acc~</s> | Pred: y~a~z~ı~l~ı~m~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: a~l~Verb~Pos~DB~Noun~Agt~A3pl~Pnon~Acc~</s> | Pred: a~l~Verb~Pos~DB~Noun~Agt~A3pl~P3pl~Nom~</s> 
+ 
+True: s~a~ğ~Noun~A3sg~P3sg~Loc~</s> | Pred: s~a~ğ~ı~n~Adj~DB~Noun 
+ 
+True: s~a~t~ı~r~Noun~A3sg~Pnon~Acc~</s> | Pred: s~a~t~ı~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: u~y~Verb~Pos~DB~Adj~PresPart~</s> | Pred: u~y~Verb~Pos~DB~Adj~PresPart~Nom 
+ 
+True: a~r~a~l~ı~k~Noun~A3sg~P3sg~Nom~</s> | Pred: a~r~a~l~ı~k~Noun~A3sg~Pnon~Acc~</s> 
+ 
+True: i~ç~e~r~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: i~ç~e~r~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: k~a~p~s~a~Verb~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: k~a~p~s~a~Verb~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: b~i~l~g~i~Noun~A3pl~Pnon~Acc~</s> | Pred: b~i~l~g~i~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: a~n~l~a~ş~Verb~DB~Verb~Pass~Pos~DB~Verb~Able~DB~Adj~AorPart~</s> | Pred: a~n~l~a~ş~Verb~DB~Verb~Pass~Pos~DB~Verb~Able~Aor~A3sg~</s>~</s> 
+ 
+True: z~a~m~a~n~l~a~Verb~Pos~DB~Noun~Agt~A3sg~Pnon~Ins~</s> | Pred: z~a~m~a~n~l~a~Verb~Pos~DB~Noun~Agt~A3sg~P3sg~Ins~</s> 
+ 
+True: u~z~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: u~z~a~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: o~l~u~ş~Verb~DB~Verb~Caus~Pos~DB~Noun~PastPart~A3sg~P2pl~Nom~</s> | Pred: o~l~u~ş~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P2pl~</s>~Nom~</s> 
+ 
+True: k~o~ş~u~l~Noun~A3pl~P3sg~Nom~</s> | Pred: k~o~ş~u~l~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: h~a~t~a~Noun~A3pl~P3sg~Nom~</s> | Pred: h~a~t~a~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: i~s~t~e~m~Noun~A3sg~Pnon~Acc~</s> | Pred: i~s~t~e~m~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: e~t~k~i~n~Adj~DB~Verb~Become~DB~Verb~Caus~DB~Verb~Pass~Neg~Narr~A3sg~</s> | Pred: e~t~k~i~n~Adj~DB~Verb~Become~DB~Verb~Caus~DB~Verb~Pass~Neg~DB~Adj~NarrPart 
+ 
+True: g~ü~v~e~n~i~l~i~r~Noun~A3sg~Pnon~Nom~</s> | Pred: g~ü~v~e~n~Verb~DB~Verb~Pass~Pos~DB~Adj~AorPart~</s> 
+ 
+True: e~y~l~e~m~Noun~A3pl~Pnon~Acc~</s> | Pred: e~y~l~e~m~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: k~u~r~a~l~Noun~A3pl~P3pl~Nom~</s> | Pred: k~u~r~a~l~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: i~l~e~t~i~Noun~A3pl~P3sg~Nom~</s> | Pred: i~l~e~t~i~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: i~l~e~t~i~Noun~A3pl~P3sg~Nom~</s> | Pred: i~l~e~t~i~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: k~e~s~i~r~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: k~e~s~Noun~i~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> 
+ 
+True: b~i~r~i~k~Verb~Pos~DB~Adverb~AsLongAs~</s> | Pred: b~i~r~i~k~t~i~c~i~k~Adverb 
+ 
+True: t~ü~k~e~t~Verb~Pos~DB~Adj~AorPart~DB~Noun~Zero~A3pl~Pnon~Nom~</s> | Pred: t~ü~k~e~t~Verb~Pos~Aor~A3pl~</s>~</s>~Pnon~Nom~</s>~Pnon~Nom~</s> 
+ 
+True: b~i~l~g~i~Noun~A3pl~Pnon~Acc~</s> | Pred: b~i~l~g~i~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: b~i~l~g~i~Noun~A3pl~Pnon~Acc~</s> | Pred: b~i~l~g~i~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: ç~o~k~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~o~k~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: g~ö~r~ü~n~Verb~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: g~ö~r~ü~n~Verb~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: ö~z~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: ö~z~e~l~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: g~ö~r~ü~n~Noun~A3sg~P1sg~Dat~</s> | Pred: g~ö~r~ü~n~ü~m~Noun~A3sg~Pnon 
+ 
+True: t~e~m~i~z~l~e~Verb~DB~Verb~Reflex~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: t~e~m~i~z~l~e~Verb~DB~Verb~Pass~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3sg~Pnon~Dat~</s> 
+ 
+True: b~e~l~i~r~Verb~DB~Verb~Caus~Pos~DB~Noun~PastPart~A3sg~P2pl~Nom~</s> | Pred: b~e~l~i~r~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P2pl~</s>~Nom~</s> 
+ 
+True: u~y~Verb~Pos~DB~Adj~PresPart~</s> | Pred: u~y~Verb~Pos~DB~Adj~PresPart~Nom 
+ 
+True: ö~z~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: ö~z~e~l~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: a~ç~ı~k~l~a~Verb~DB~Verb~Pass~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: a~ç~ı~k~l~a~Verb~DB~Verb~Pass~Pos~DB~Noun~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: a~y~g~ı~t~Noun~A3pl~Pnon~Acc~</s> | Pred: a~y~g~ı~t~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~ü~r~ü~c~ü~l~e~r~i~n~i~Noun~A3sg~Pnon~Gen~</s> | Pred: s~ü~r~ü~c~ü~Noun~A3pl~P3sg~Gen~</s>~Gen~Gen~A3sg~P3sg~Gen~</s> 
+ 
+True: i~ş~l~e~m~Noun~A3pl~Pnon~Acc~</s> | Pred: i~ş~l~e~m~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: i~ş~l~e~m~Noun~A3pl~Pnon~Acc~</s> | Pred: i~ş~l~e~m~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: u~y~g~u~l~a~Verb~Pos~DB~Noun~Inf2~A3sg~P3sg~Nom~</s> | Pred: u~y~g~u~l~a~Verb~Pos~DB~A3sg~Inf2~Nom~P3sg~Nom~</s> 
+ 
+True: s~e~ç~i~k~Dup~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: s~e~ç~Verb~Pos~Noun~A3sg~Pnon~Nom~DB~Zero~Pres~A3sg 
+ 
+True: c~i~p~h~e~r~Noun~A3sg~Pnon~Nom~</s> | Pred: c~i~p~h~e~r~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: k~a~y~n~a~k~Noun~A3pl~Pnon~Acc~</s> | Pred: k~a~y~n~a~k~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: d~a~y~a~n~Verb~DB~Verb~Caus~Pos~DB~Verb~Able~Aor~A2pl~</s> | Pred: d~a~y~a~Verb~DB~Verb~Caus~Pos~DB~Verb~Able~Aor~A2pl~</s>~Aor 
+ 
+True: a~y~a~r~Noun~A3pl~Pnon~Acc~</s> | Pred: a~y~a~r~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: a~y~a~r~Noun~A3pl~Pnon~Acc~</s> | Pred: a~y~a~r~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: t~a~m~Noun~A3sg~Pnon~Nom~</s> | Pred: t~a~m~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: d~u~r~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: d~u~r~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: s~u~n~u~c~u~Noun~A3sg~Pnon~Dat~</s> | Pred: s~u~n~Verb~Pos~DB~Noun~Agt~A3sg~Pnon~Dat 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: b~a~ş~l~a~Verb~DB~Verb~Caus~Neg~Aor~A1sg~</s> | Pred: b~a~ş~l~a~Verb~DB~Verb~Caus~Neg~DB~Noun~Inf2 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: a~l~ı~n~Verb~Pos~DB~Verb~Able~DB~Noun~FutPart~A3sg~P3sg~Nom~</s> | Pred: a~l~Verb~DB~Verb~Pass~Pos~DB~Verb~Able~DB~Noun~FutPart~A3sg~P3sg~Nom 
+ 
+True: t~e~p~k~i~Noun~A3pl~P3sg~Acc~</s> | Pred: t~e~p~k~i~Noun~A3pl~P3pl~Acc~</s> 
+ 
+True: ç~ı~k~ı~ş~Verb~Pos~DB~Adverb~ByDoingSo~</s> | Pred: ç~ı~k~Verb~DB~Verb~Recip~Pos~DB~Adverb~ByDoingSo 
+ 
+True: n~e~w~f~o~u~n~d~l~a~n~d~Noun~A3sg~Pnon~Nom~</s> | Pred: n~e~f~h~o~u~n~d~u~l~d~Noun~A3sg~A3sg~Nom~</s>~</s> 
+ 
+True: b~ö~l~g~e~Noun~A3pl~P3sg~Nom~</s> | Pred: b~ö~l~g~e~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: b~a~l~ı~k~ç~ı~l~ı~k~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~l~ı~k~ç~ı~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: ç~i~f~t~Adj~DB~Noun~Ness~A3pl~P3sg~Nom~</s> | Pred: ç~i~f~t~l~i~k~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: h~a~y~v~a~n~Noun~A3sg~P3pl~Nom~</s> | Pred: h~a~y~v~a~n~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: a~v~Noun~A3sg~P3sg~Ins~</s> | Pred: a~v~ı~Noun~A3sg~Ins~Ins 
+ 
+True: a~d~a~Verb~Pos~DB~Adj~PresPart~</s> | Pred: a~d~a~y~Pos~DB~Adj~PresPart~</s> 
+ 
+True: k~a~n~a~d~a~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: k~a~n~a~d~a~l~ı~A3sg~P3sg~Nom~Adj~With 
+ 
+True: k~ü~r~k~Noun~A3pl~P3pl~Acc~</s> | Pred: k~ü~r~k~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: ı~Noun~A3sg~Pnon~Nom~</s> | Pred: i~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: s~p~l~e~n~d~i~d~o~Noun~A3sg~Pnon~Nom~</s> | Pred: s~p~e~n~d~e~l~i~d~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: a~r~a~Adj~</s> | Pred: a~r~a~Noun~A3sg 
+ 
+True: h~a~y~r~a~n~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~P1sg~Nom~</s> | Pred: h~a~y~r~a~n~Adj~DB~Noun~Ness~A3sg~P1sg~Nom~</s>~Verb~Zero~Pres 
+ 
+True: h~ı~r~Noun~A3sg~Pnon~Nom~DB~Adj~Without~DB~Noun~Ness~A3sg~P3sg~Acc~</s> | Pred: h~ı~r~Noun~ı~Pnon~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~P3sg~Acc~</s> 
+ 
+True: i~n~s~a~n~Noun~A3sg~Pnon~Acc~</s> | Pred: i~n~s~a~n~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: n~e~Pron~Ques~A3sg~Pnon~Abl~DB~Verb~Zero~Pres~A3pl~Cop~</s> | Pred: n~e~d~e~n~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3pl 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: s~ü~t~ç~ü~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: s~ü~t~Noun~ü~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~</s> 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: b~i~t~k~i~Noun~A3pl~P3sg~Nom~</s> | Pred: b~i~t~k~i~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: p~a~r~s~e~l~l~e~Verb~DB~Verb~Pass~Pos~DB~Adverb~AfterDoingSo~</s> | Pred: p~a~r~s~e~l~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~DB~Adverb~AfterDoingSo 
+ 
+True: i~n~Verb~DB~Verb~Caus~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: i~n~Verb~DB~Verb~Caus~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: g~e~n~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~n~e~l~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: f~r~a~n~c~i~s~c~o~Noun~A3sg~Pnon~Nom~</s> | Pred: f~r~a~n~c~i~c~c~o~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: y~a~n~ı~t~Noun~A3sg~Pnon~Nom~DB~Adj~Without~</s> | Pred: y~a~n~ı~t~s~ı~z~Adj~</s>~Adj~Without~</s> 
+ 
+True: g~e~n~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~n~e~l~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: s~e~k~r~e~t~e~r~l~i~ğ~Noun~A3sg~P3sg~Dat~</s> | Pred: s~e~k~r~e~t~e~r~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: a~d~a~y~l~ı~k~Noun~A3sg~P3sg~Acc~</s> | Pred: a~d~a~y~l~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: w~t~o~Noun~A3sg~Pnon~Nom~</s> | Pred: w~w~o~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: f~a~h~r~i~Adj~</s> | Pred: f~a~h~r~i~Noun~A3sg 
+ 
+True: k~o~n~s~o~l~o~s~l~u~k~Noun~A3sg~Pnon~Nom~</s> | Pred: k~o~n~s~o~l~o~s~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: g~o~d~i~n~h~o~Noun~A3sg~Pnon~Gen~</s> | Pred: g~o~d~i~n~y~o~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: z~e~k~i~Adj~</s> | Pred: z~e~k~i~Noun~</s> 
+ 
+True: a~m~e~r~i~k~a~l~ı~Adj~DB~Noun~Zero~A3pl~Pnon~Acc~</s> | Pred: a~m~e~r~i~k~a~l~ı~Adj~DB~Noun~Zero~A3pl~P3sg~Nom~</s> 
+ 
+True: f~i~l~i~s~t~i~n~Noun~A3sg~Pnon~Nom~</s> | Pred: f~i~l~i~s~t~Noun~n~Pnon~</s>~</s>~Nom~</s> 
+ 
+True: d~ö~ş~e~c~e~ğ~Noun~A3sg~P3sg~Nom~</s> | Pred: d~ö~ş~e~Verb~Pos~DB~Noun~FutPart~A3sg~P3sg~Nom 
+ 
+True: ç~a~r~k~ç~ı~b~a~ş~ı~Noun~A3sg~Pnon~Gen~</s> | Pred: ç~a~r~k~ç~ı~b~a~ş~ı~Noun~A3sg~P3sg~Gen~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: k~o~r~k~m~a~z~Noun~A3sg~Pnon~Nom~</s> | Pred: k~o~r~k~Verb~Neg~Aor~A3sg~</s>~</s>~Nom~</s> 
+ 
+True: d~i~l~e~Verb~Pos~DB~Noun~PastPart~A3sg~P2pl~Nom~</s> | Pred: d~i~l~e~Verb~Pos~DB~Adj~PastPart~P2pl~</s>~Nom~</s> 
+ 
+True: r~o~b~e~r~t~s~o~Noun~A3sg~P2sg~Nom~</s> | Pred: r~o~b~e~r~t~o~o~n~Noun~A3sg~Pnon~Nom 
+ 
+True: m~i~l~l~e~t~Noun~A3sg~Pnon~Acc~</s> | Pred: m~i~l~l~e~t~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: k~u~r~t~a~c~a~ğ~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A1pl~</s> | Pred: k~u~r~t~a~Pos~Verb~A1pl~</s>~A1pl~</s>~Nom~</s>~Verb~Zero~A1pl~</s>~</s> 
+ 
+True: y~ı~l~Noun~A3pl~P2sg~Nom~</s> | Pred: y~ı~l~Noun~A3pl~Pnon~Gen~</s> 
+ 
+True: p~r~i~n~c~e~s~s~Noun~A3sg~Pnon~Nom~</s> | Pred: p~r~ı~n~c~e~s~s~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: h~ü~r~Noun~A3sg~Pnon~Nom~</s> | Pred: h~ü~r~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: d~e~s~i~l~e~b~e~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: d~e~s~i~l~e~b~e~l~i~Noun~A3sg~Pnon~Nom~</s>~</s> 
+ 
+True: u~y~Verb~Pos~DB~Adj~PresPart~</s> | Pred: u~y~Verb~Pos~DB~Adj~PresPart~Nom 
+ 
+True: b~ö~l~g~e~Noun~A3pl~P3sg~Nom~</s> | Pred: b~ö~l~g~e~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: b~ö~l~g~e~Noun~A3pl~P3sg~Nom~</s> | Pred: b~ö~l~g~e~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: i~h~t~i~y~a~ç~Noun~A3pl~P2sg~Acc~</s> | Pred: i~h~t~i~y~a~ç~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: h~ü~k~ü~m~e~t~Noun~A3sg~Pnon~Acc~</s> | Pred: h~ü~k~ü~m~e~t~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: k~a~n~a~t~Noun~A3sg~Pnon~Dat~</s> | Pred: k~a~n~a~d~a~Noun~A3sg~Pnon~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: d~i~k~Adj~DB~Verb~Become~Pos~DB~Adverb~When~</s> | Pred: d~i~k~l~DB~Verb~Become~Pos~DB~Adverb~When~</s> 
+ 
+True: ö~g~e~r~Noun~A3sg~Pnon~Nom~</s> | Pred: ö~g~e~Pos~Aor~A3sg~</s>~Nom~</s> 
+ 
+True: s~e~v~i~n~ç~Noun~A3sg~P1sg~Dat~</s> | Pred: s~e~v~i~n~c~Noun~A3sg~P1sg~Dat~</s> 
+ 
+True: k~a~r~ş~ı~l~a~Verb~Pos~DB~Noun~Inf2~A3pl~P3sg~Gen~</s> | Pred: k~a~r~ş~ı~l~a~Verb~Pos~DB~Noun~Inf2~A3pl~P3pl~Gen~</s> 
+ 
+True: d~e~y~i~ş~Noun~A3pl~P3pl~Ins~</s> | Pred: d~e~y~i~ş~Noun~A3pl~P3sg~Ins~</s> 
+ 
+True: k~a~r~ş~ı~Adj~DB~Noun~Zero~A3pl~P3pl~Loc~</s> | Pred: k~a~r~ş~ı~Adj~A3sg~P3pl~Loc~</s>~P3pl~Loc~</s> 
+ 
+True: g~i~b~i~Postp~PCGen~</s> | Pred: g~i~b~i~Postp~PCNom~</s> 
+ 
+True: t~e~r~Noun~A3sg~P3sg~Ins~</s> | Pred: t~e~r~i~A3sg~P3sg~Ins~</s> 
+ 
+True: k~a~l~a~ş~n~i~k~o~f~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: k~a~l~a~ş~n~i~k~o~k~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> 
+ 
+True: g~ü~v~e~n~l~i~k~ç~i~Noun~A3pl~Pnon~Ins~</s> | Pred: g~ü~v~e~n~l~i~k~Noun~A3sg~Pnon~Nom~DB~Noun~Agt 
+ 
+True: a~r~a~ç~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: a~r~a~ç~l~ı~k~Noun~A3sg~Pnon~Nom~</s>~Pnon~Nom~</s> 
+ 
+True: ş~e~h~i~r~Noun~A3sg~Pnon~Acc~</s> | Pred: ş~e~h~i~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: e~z~b~e~r~l~e~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: e~z~b~e~r~l~e~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: k~o~r~u~m~a~Noun~A3pl~Pnon~Nom~</s> | Pred: k~o~r~u~Verb~Pos~DB~Noun~Inf2~A3pl~Pnon 
+ 
+True: b~e~r~b~e~r~a~Noun~A3sg~Pnon~Nom~</s> | Pred: b~e~r~b~e~r~a~Adverb~</s>~</s>~Nom~</s> 
+ 
+True: u~y~g~a~r~Adj~DB~Adj~AsIf~</s> | Pred: u~y~g~a~r~c~a~Adj~</s>~Pnon 
+ 
+True: a~k~Verb~Pos~Desr~A1pl~</s> | Pred: a~k~s~a~k~Noun~A3sg 
+ 
+True: b~a~ş~k~a~Postp~PCAbl~</s> | Pred: b~a~ş~k~a~Adj~</s>~</s> 
+ 
+True: u~ç~Verb~DB~Verb~Caus~DB~Verb~Caus~Pos~Past~A1sg~</s> | Pred: u~ç~u~r~Verb~DB~Verb~Caus~Pos~Past~A1sg~</s>~A1sg 
+ 
+True: m~a~s~l~a~h~a~t~g~ü~z~a~r~Noun~A3sg~Pnon~Nom~</s> | Pred: m~a~s~l~a~h~a~t~i~h~g~e~r~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: b~a~ş~k~a~Postp~PCAbl~</s> | Pred: b~a~ş~k~a~Adj~</s>~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: g~e~n~ç~Noun~A3pl~Pnon~Acc~</s> | Pred: g~e~n~ç~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~DB~Noun~Zero~A3sg~Pnon~Nom~DB~Adj~Rel~</s> | Pred: s~o~n~r~a~Noun~A3sg~Pnon~Nom~DB~Adj~Rel~</s>~DB~Adj~Rel~</s> 
+ 
+True: ü~r~e~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Adj~NarrPart~</s> | Pred: ü~r~e~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~Narr~A3sg~</s>~</s> 
+ 
+True: m~ü~t~e~ş~e~b~b~i~s~Adj~</s> | Pred: m~ü~t~e~ş~e~b~b~e~s~Noun~A3sg 
+ 
+True: r~u~j~Noun~A3sg~Pnon~Abl~</s> | Pred: r~u~j~d~a~Pnon~Noun~A3sg 
+ 
+True: i~c~r~a~a~t~Noun~A3pl~P3sg~Gen~</s> | Pred: i~c~r~a~a~t~Noun~A3sg~P3pl~Gen~</s> 
+ 
+True: e~l~Noun~A3pl~P3sg~Nom~</s> | Pred: e~l~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: y~a~p~Verb~Pos~DB~Adj~FutPart~P3sg~</s> | Pred: y~a~p~Verb~Pos~DB~Noun~FutPart~P3sg~</s> 
+ 
+True: g~i~t~Verb~DB~Verb~Pass~Pos~Fut~A3sg~</s> | Pred: g~i~t~Verb~DB~Verb~Pass~Pos~DB~A3sg~</s> 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: s~ö~y~l~e~Verb~Pos~DB~Adj~PastPart~P1sg~</s> | Pred: s~ö~y~l~e~Verb~Pos~DB~Noun~PastPart~A3sg~P1sg 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: h~a~l~e~p~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3pl~Pnon~Abl~</s> | Pred: h~a~l~e~p~i~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3pl~Pnon~Abl~</s> 
+ 
+True: y~e~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Abl~</s> | Pred: y~e~Verb~e~k~Noun~A3sg~Pnon~Abl~</s>~</s> 
+ 
+True: ö~z~h~e~r~m~e~s~Noun~A3sg~Pnon~Nom~</s> | Pred: ö~z~p~e~r~Verb~e~s~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: s~i~k~k~e~Noun~A3sg~Pnon~Nom~</s> | Pred: s~i~k~k~e~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: d~ö~k~m~e~c~i~Noun~A3sg~Pnon~Nom~</s> | Pred: d~ö~k~m~e~Noun~A3sg~Pnon~Nom~DB~Noun~Agt 
+ 
+True: u~s~t~a~Noun~A3sg~P3sg~Nom~</s> | Pred: u~s~t~a~s~i~Adj~</s>~Pnon 
+ 
+True: k~a~y~a~k~ç~ı~Noun~A3pl~Pnon~Acc~</s> | Pred: k~a~y~a~k~ç~ı~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: k~e~ç~i~t~e~p~e~Noun~A3sg~P3sg~Abl~</s> | Pred: k~e~ç~i~t~e~t~e~Noun~A3sg~P3sg~Abl~</s> 
+ 
+True: s~n~o~w~b~o~a~r~d~Noun~A3sg~Pnon~Nom~</s> | Pred: s~n~o~b~b~o~r~d~d~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: y~u~s~u~f~e~l~i~Noun~A3sg~P3sg~Loc~DB~Adj~Rel~</s> | Pred: y~u~s~u~f~e~l~Noun~A3sg~P3sg~Loc~DB~Adj~Rel~</s>~</s> 
+ 
+True: k~i~l~i~s~e~Noun~A3pl~Pnon~Acc~</s> | Pred: k~i~l~i~s~e~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: t~r~a~n~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: t~r~a~n~s~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: ş~e~h~i~r~Noun~A3pl~P3pl~Abl~</s> | Pred: ş~e~h~i~r~Noun~A3pl~P3sg~Abl~</s> 
+ 
+True: b~e~ğ~e~n~Verb~Pos~DB~Noun~PastPart~A3sg~P2pl~Nom~</s> | Pred: b~e~ğ~e~n~Verb~Pos~DB~Adj~PastPart~P2pl~</s>~Nom~</s> 
+ 
+True: ş~a~r~a~p~Noun~A3sg~Pnon~Acc~</s> | Pred: ş~a~r~a~p~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: y~e~Verb~DB~Verb~Pass~Pos~Aor~A3sg~</s> | Pred: y~e~n~DB~Verb~Pass~Pos~Aor~A3sg~</s> 
+ 
+True: y~a~p~Verb~Pos~DB~Noun~PastPart~A3pl~P3pl~Nom~</s> | Pred: y~a~p~Verb~Pos~DB~Adj~PastPart~P3pl~</s>~</s>~</s> 
+ 
+True: p~l~a~j~Noun~A3sg~Pnon~Dat~</s> | Pred: p~l~a~j~a~Noun~A3sg~Pnon~Nom 
+ 
+True: y~u~m~u~r~t~a~Noun~A3pl~P3pl~Acc~</s> | Pred: y~u~m~u~r~t~a~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: b~i~l~i~n~ç~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~DB~Verb~Caus~Pos~Past~A3sg~</s> | Pred: b~i~l~i~n~ç~l~e~n~DB~Verb~Verb~Caus~Pos~Past~A3sg~</s>~Verb~Zero~Past 
+ 
+True: o~t~e~l~Noun~A3pl~Pnon~Acc~</s> | Pred: o~t~e~l~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: k~u~r~b~a~ğ~a~Noun~A3sg~Pnon~Nom~</s> | Pred: k~u~r~b~a~k~Noun~A3sg~Pnon~Dat~</s>~</s> 
+ 
+True: i~n~c~e~l~e~Verb~Pos~DB~Adj~PastPart~P3pl~</s> | Pred: i~n~c~e~l~e~Verb~Pos~DB~Noun~PastPart~A3pl~P3pl 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: r~a~d~y~o~a~k~t~i~v~i~t~e~Noun~A3sg~Pnon~Dat~</s> | Pred: r~a~d~y~o~y~e~t~i~m~Noun~i~Noun~A3sg~Pnon~Loc~</s>~Nom 
+ 
+True: t~a~s~a~r~Noun~A3sg~P1pl~Nom~</s> | Pred: t~a~s~a~r~ı~m~A3sg~P1pl~Nom 
+ 
+True: h~ı~z~Noun~A3sg~Pnon~Acc~</s> | Pred: h~ı~z~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: ç~i~ğ~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~i~ğ~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~h~e~l~l~Noun~A3sg~Pnon~Abl~</s> | Pred: s~h~e~l~Noun~A3sg~Pnon~Abl~</s>~</s> 
+ 
+True: i~ş~ç~i~l~i~k~Noun~A3sg~Pnon~Nom~</s> | Pred: i~ş~ç~i~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: y~ı~r~t~ı~n~Verb~Pos~Prog1~Past~A3sg~</s> | Pred: y~ı~r~t~Verb~DB~Verb~Pos~Pos~Prog1~Past~A3sg 
+ 
+True: ı~s~l~ı~k~Noun~A3sg~P1sg~Nom~</s> | Pred: i~s~l~ı~k~Noun~A3sg~P1sg~Nom~</s> 
+ 
+True: k~ı~z~c~a~ğ~ı~z~Noun~A3sg~P3sg~Acc~</s> | Pred: k~ı~z~c~a~ğ~ı~z~Noun~A3sg~P2pl~Acc~</s> 
+ 
+True: ç~a~l~a~k~a~l~e~m~Adverb~</s> | Pred: ç~a~l~a~k~a~l~e~Verb~Noun~A3sg 
+ 
+True: s~a~t~ı~c~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: s~a~t~Verb~c~DB~Noun~Agt~A3sg~Nom~Nom 
+ 
+True: s~a~t~ı~c~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: s~a~t~Verb~c~DB~Noun~Agt~A3sg~Nom~Nom 
+ 
+True: s~e~v~Verb~Pos~DB~Adj~PastPart~P1sg~</s> | Pred: s~e~v~Verb~Pos~DB~Adj~PastPart~A3sg~P1sg 
+ 
+True: k~e~y~f~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A3sg~</s> | Pred: k~e~y~t~i~f~Noun~A3sg~P3sg~Nom~</s>~Verb~Zero~Past 
+ 
+True: t~u~z~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: t~u~z~l~u~k~Noun~A3sg~Pnon~Nom~</s>~Pnon~Nom~</s> 
+ 
+True: m~ü~k~ü~Noun~A3sg~Pnon~Nom~</s> | Pred: m~ü~k~ü~Noun~A3sg~Nom~Nom~</s> 
+ 
+True: r~a~h~m~e~t~l~i~Adj~DB~Noun~Zero~A3sg~Pnon~Ins~</s> | Pred: r~a~h~m~e~t~l~i~Noun~A3sg~Pnon~Ins~</s>~</s>~Ins~</s> 
+ 
+True: b~a~l~a~y~ı~Noun~A3sg~P1pl~Acc~</s> | Pred: b~a~l~a~y~Noun~A3sg~P1pl~Acc~</s>~Acc 
+ 
+True: m~a~y~o~r~k~a~Noun~A3sg~Pnon~Loc~</s> | Pred: m~a~y~o~r~y~a~Noun~A3sg~Pnon~Loc~</s> 
+ 
+True: ç~o~k~Adj~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: i~s~t~e~m~e~z~m~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A2pl~</s> | Pred: i~s~t~e~Verb~Neg~DB~Noun~Inf2~A3sg~P2pl~Nom~</s>~Verb~Zero~Pres~</s>~</s> 
+ 
+True: i̇~ğ~n~e~a~d~a~Noun~A3sg~Pnon~Nom~</s> | Pred: i~ğ~n~n~a~a~Noun~A3sg~Pnon~Loc~</s>~</s> 
+ 
+True: ı~s~t~ı~r~a~n~c~a~Noun~A3pl~P3pl~Nom~</s> | Pred: ı~s~t~ı~r~a~Pos~DB~Noun~Agt~A3pl~P3pl~Nom~</s> 
+ 
+True: k~ı~b~r~ı~s~Noun~A3sg~Pnon~Nom~</s> | Pred: k~ı~b~r~i~s~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: m~ü~s~a~b~a~k~a~Noun~A3pl~Pnon~Acc~</s> | Pred: m~ü~s~a~b~a~k~a~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: ş~o~v~Noun~A3sg~Pnon~Dat~</s> | Pred: ş~o~v~a~Noun~A3sg~Pnon~Nom 
+ 
+True: m~i~l~l~i~Adj~</s> | Pred: m~i~l~l~i~Noun~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: h~a~k~Noun~A3sg~Pnon~Nom~DB~Adj~Without~DB~Noun~Ness~A3sg~Pnon~Acc~</s> | Pred: h~a~k~Noun~A3sg~Pnon~Nom~DB~Adj~Without~DB~Noun~Ness~A3sg~P3sg~Nom~</s> 
+ 
+True: u~n~u~t~Verb~Pos~DB~Noun~Inf2~A3sg~P1sg~Nom~</s> | Pred: u~n~u~t~Verb~Neg~Aor~A1sg~</s>~A3sg~P1sg~Nom~</s> 
+ 
+True: h~e~d~e~f~l~e~Verb~Pos~DB~Adj~PastPart~P3pl~</s> | Pred: h~e~d~e~f~l~e~Verb~Pos~DB~Noun~PastPart~P3pl~</s> 
+ 
+True: y~a~r~Verb~Pos~DB~Noun~Inf3~A3pl~Pnon~Nom~</s> | Pred: y~a~r~ı~ş~Noun~A3pl~Pnon~Nom~</s>~Pnon~</s> 
+ 
+True: d~e~r~e~b~e~y~i~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: d~e~r~e~b~e~y~l~i~k~Noun~A3sg~Pnon~Nom~</s>~Adverb~Related~</s>~Adverb 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: a~d~a~Noun~A3sg~P1sg~Acc~</s> | Pred: a~d~a~m~Noun~A3sg~Pnon~Acc 
+ 
+True: k~a~r~ş~ı~Adj~</s> | Pred: k~a~r~ş~ı~Postp~PCDat 
+ 
+True: s~a~m~s~u~n~s~p~o~r~Noun~A3sg~Pnon~Loc~</s> | Pred: s~a~m~s~u~n~s~u~o~r~Noun~A3sg~Pnon~Loc~</s> 
+ 
+True: k~o~n~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~</s> | Pred: k~o~n~u~ş~Noun~A3sg~Pnon~Nom~</s>~</s>~Nom 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: a~n~c~a~k~Adverb~</s> | Pred: a~n~c~a~k~Conj~</s> 
+ 
+True: m~i~l~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: m~i~l~l~i~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: l~a~y~t~o~Noun~A3sg~P2sg~Nom~</s> | Pred: l~a~y~t~o~n~Noun~A3sg~Pnon~Nom 
+ 
+True: o~l~Verb~Pos~DB~Noun~Inf2~A3pl~P3pl~Nom~</s> | Pred: o~l~Verb~Pos~DB~Noun~Inf2~A3pl~P3sg~Nom~</s> 
+ 
+True: ş~o~v~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: ş~o~v~Verb~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> 
+ 
+True: d~e~Verb~DB~Verb~Caus~DB~Verb~Caus~Pos~Fut~A3sg~</s> | Pred: d~e~Verb~DB~Verb~Caus~DB~Verb~Caus~Pos~DB~Adj~FutPart 
+ 
+True: b~i~r~i~y~Noun~A3sg~Pnon~Nom~</s> | Pred: b~i~r~i~y~Quant~A3sg~P3sg~Nom~</s> 
+ 
+True: r~e~b~r~o~v~Noun~A3sg~Pnon~Nom~</s> | Pred: r~e~b~b~o~v~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: t~a~ç~Noun~A3sg~Pnon~Dat~</s> | Pred: t~a~c~a~A3sg~Pnon~Dat~</s> 
+ 
+True: s~a~r~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: s~a~r~Verb~Pos~DB~Adj~PresPart~</s>~</s> 
+ 
+True: s~e~v~g~i~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: s~e~v~g~i~l~i~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: s~a~r~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: s~a~r~Verb~Pos~DB~Adj~PresPart~</s>~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: a~r~k~a~Noun~A3sg~P2sg~Abl~</s> | Pred: a~r~k~a~n~Noun~A3sg~Pnon~Abl 
+ 
+True: h~a~s~t~a~Noun~A3pl~Pnon~Acc~</s> | Pred: h~a~s~t~a~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: a~n~l~a~Verb~Pos~Fut~A3sg~</s> | Pred: a~n~l~a~Verb~Pos~DB~Adj~FutPart 
+ 
+True: a~d~r~e~n~a~l~i~n~Noun~A3sg~Pnon~Nom~</s> | Pred: a~d~r~e~n~a~l~Noun~A3sg~Pnon~Gen~</s>~Nom~</s> 
+ 
+True: f~ı~r~a~t~p~e~n~Noun~A3sg~Pnon~Gen~DB~Pron~Rel~A3sg~Pnon~Nom~</s> | Pred: f~ı~r~a~t~p~e~n~Noun~A3sg~Pnon~Loc~DB~Adj~Rel~</s>~Pnon~Nom~</s> 
+ 
+True: ç~o~k~u~l~u~s~l~u~Adj~</s> | Pred: c~o~k~u~l~Noun~A3sg~Pnon~Nom~DB~Adj 
+ 
+True: i~n~ş~a~l~l~a~h~l~Noun~A3sg~Pnon~Dat~</s> | Pred: i~n~ş~a~l~l~a~h~a~DB~Noun~Zero~A3sg~Pnon 
+ 
+True: k~u~r~Verb~DB~Verb~Pass~Pos~DB~Noun~Inf3~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A1pl~</s> | Pred: k~u~r~u~l~u~ş~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A1pl~</s>~</s>~Verb~Pres 
+ 
+True: u~s~l~u~Noun~A3sg~Pnon~Nom~</s> | Pred: u~s~l~A3sg~Noun~Nom~DB~Adj~With 
+ 
+True: m~e~d~f~o~r~d~Noun~A3sg~Pnon~Nom~</s> | Pred: m~e~d~d~o~r~d~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: b~i~l~g~i~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: b~i~l~g~i~l~i~Noun~A3sg~DB~Adj~</s> 
+ 
+True: ç~o~k~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~o~k~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: b~i~l~g~i~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: b~i~l~g~i~l~i~Noun~A3sg~DB~Adj~</s> 
+ 
+True: o~y~n~a~Verb~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: o~y~n~a~Verb~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: b~ü~t~ü~n~Noun~A3sg~Pnon~Nom~</s> | Pred: b~ü~t~ü~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: s~k~o~r~Noun~A3pl~Pnon~Acc~</s> | Pred: s~k~o~r~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: k~l~i~n~i~k~Noun~A3sg~Pnon~Dat~</s> | Pred: k~l~i~n~Noun~A3sg~Pnon~DB~Noun~A3sg~Pnon 
+ 
+True: g~e~n~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~n~e~l~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: y~e~ş~i~l~Adj~DB~Noun~Zero~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3pl~Pnon~Acc~</s> | Pred: y~e~ş~i~l~Adj~DB~Noun~Zero~A3sg~P3sg~Nom~DB~Adj~With~DB~Noun~Zero~A3pl~P3pl~Nom~</s> 
+ 
+True: m~i~l~o~j~e~v~i~c~Noun~A3sg~Pnon~Nom~</s> | Pred: m~i~l~o~ç~e~v~i~ç~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: 0~Num~Card~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: 0~0~Num~Card~DB~Noun~Ness~A3sg~Pnon~Nom 
+ 
+True: b~i~l~g~i~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: b~i~l~g~i~l~i~Noun~A3sg~DB~Adj~</s> 
+ 
+True: b~e~l~ç~i~k~a~l~ı~Noun~A3pl~P3sg~Nom~</s> | Pred: b~e~l~ç~i~k~a~Noun~A3sg~Pnon~Nom~DB~Adj~With 
+ 
+True: i~t~a~l~y~a~n~Noun~A3pl~P3pl~Nom~</s> | Pred: i~t~a~l~y~a~n~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: y~a~p~ı~Noun~A3sg~P1pl~Gen~</s> | Pred: y~a~p~ı~Noun~P1pl~P1pl~Gen~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: a~s~m~a~l~ı~m~e~s~c~i~t~Noun~A3sg~Pnon~Nom~</s> | Pred: a~s~m~a~l~i~m~c~t~i~s~t~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: e~n~t~e~l~e~k~t~ü~e~l~Noun~A3sg~P1sg~Nom~</s> | Pred: e~n~t~e~l~e~k~t~ü~e~e~Noun~A3sg~Nom~Nom~Adverb 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: t~ı~b~Noun~A3sg~Pnon~Loc~</s> | Pred: t~ı~p~Noun~A3sg~Pnon~Loc~</s> 
+ 
+True: k~o~z~m~e~t~i~k~Noun~A3pl~P3pl~Nom~</s> | Pred: k~o~z~m~e~t~i~k~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: o~l~Verb~DB~Verb~Able~Neg~DB~Adj~PastPart~P3pl~</s> | Pred: o~l~Verb~DB~Verb~Able~Neg~DB~Noun~PastPart~A3pl~</s> 
+ 
+True: y~ı~k~Verb~DB~Verb~Able~Neg~Imp~A2pl~</s> | Pred: y~ı~k~a~Verb~Neg~Imp~A2pl~</s>~Gen~</s> 
+ 
+True: ş~a~m~p~u~a~n~Noun~A3pl~P3pl~Nom~</s> | Pred: ş~a~m~p~u~n~n~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: u~l~t~r~a~v~i~y~o~l~e~Noun~A3sg~Pnon~Nom~</s> | Pred: u~l~t~r~a~v~i~y~o~l~Noun~Noun~Pnon~Dat~</s>~</s> 
+ 
+True: a~n~a~Noun~A3sg~Pnon~Nom~</s> | Pred: a~n~a~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: e~n~s~t~i~t~ü~Noun~A3sg~P3pl~Gen~</s> | Pred: e~n~s~t~i~t~e~Noun~A3sg~P3pl~Gen~</s> 
+ 
+True: g~e~l~i~ş~Verb~Pos~DB~Adj~NarrPart~</s> | Pred: g~e~l~i~ş~Verb~Pos~DB~A3sg~NarrPart~</s> 
+ 
+True: b~i~l~i~n~ç~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Noun~Inf2~A3sg~P3sg~Nom~</s> | Pred: b~i~l~i~n~ç~l~e~n~d~i~r~i~m~l~i~Noun~Noun~A3sg~P3sg~Nom~</s>~</s>~</s>~P3sg~</s>~</s> 
+ 
+True: 7~0~Num~Card~DB~Noun~Zero~A3sg~Pnon~Acc~</s> | Pred: 7~0~Num~Card~DB~Noun~Zero~A3sg~P3sg~Nom~</s> 
+ 
+True: e~v~r~e~n~s~e~l~Adj~</s> | Pred: e~v~r~e~n~s~e~l~Noun~A3sg 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: k~a~l~ı~n~Adj~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: k~a~l~ı~A3sg~P3sg~Dat~</s>~Dat~</s>~</s>~Dat~</s> 
+ 
+True: m~u~a~y~e~n~e~Noun~A3pl~Pnon~Nom~</s> | Pred: m~u~a~y~e~n~e~Adj~DB~Noun~Zero~Pnon 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: k~a~l~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: k~a~l~Verb~Pos~DB~Adj~PresPart~</s>~</s> 
+ 
+True: d~ö~v~ü~n~Verb~Pos~Imp~A2sg~</s> | Pred: d~ö~v~Verb~Pos~Imp~A2pl~</s>~Nom~</s> 
+ 
+True: y~a~k~l~a~ş~ı~m~Noun~A3sg~Pnon~Acc~</s> | Pred: y~a~k~l~a~ş~ı~m~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: ç~ı~r~ı~l~ç~ı~p~l~a~k~Adj~</s> | Pred: ç~i~r~i~l~ç~i~p~l~i~ğ~Adj~</s> 
+ 
+True: e~l~b~i~l~e~s~e~Noun~A3pl~P1pl~Dat~</s> | Pred: e~l~b~i~y~e~Noun~A3pl~P1pl~Dat~</s>~A3pl~Dat 
+ 
+True: ç~a~l~ı~ş~Verb~Pos~DB~Noun~PastPart~A3sg~P1pl~Nom~</s> | Pred: ç~a~l~ı~ş~Verb~Pos~DB~Adj~PastPart~P1pl~</s>~Nom~</s> 
+ 
+True: u~y~a~n~ı~k~Adj~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: u~y~a~n~ı~k~l~ı~k~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: e~t~Verb~Pos~DB~Adverb~AfterDoingSo~</s> | Pred: e~t~Verb~Pos~DB~Adverb~Pnon~Nom 
+ 
+True: h~u~y~s~u~z~l~a~n~Verb~Pos~Past~A3sg~</s> | Pred: h~u~y~s~u~z~Adj~DB~Verb~Acquire~Pos~Past~A3sg~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: k~o~p~e~n~h~a~g~Noun~A3sg~Pnon~Nom~</s> | Pred: k~o~p~e~n~g~a~h~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: d~ü~ş~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: d~ü~ş~Verb~Pos~DB~Adj~PastPart~A3sg~</s> 
+ 
+True: m~ü~k~t~e~s~a~b~a~t~Noun~A3sg~P3sg~Nom~</s> | Pred: m~ü~k~t~e~b~a~b~a~t~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: g~e~t~i~r~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: g~e~t~i~r~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: d~e~m~i~r~y~o~l~u~Noun~A3sg~P3sg~Nom~</s> | Pred: d~e~m~i~r~y~o~l~u~Noun~P3sg~Nom~</s>~</s> 
+ 
+True: s~a~n~a~y~i~Noun~A3sg~Pnon~Nom~DB~Verb~Become~Pos~DB~Adj~PresPart~</s> | Pred: s~a~n~a~y~i~l~e~Verb~Pos~DB~DB~PresPart~</s>~Noun~Zero~A3sg~P2sg 
+ 
+True: g~i~r~i~ş~i~m~c~i~Noun~A3sg~Pnon~Nom~</s> | Pred: g~i~r~i~ş~i~m~Noun~A3sg~Pnon~Nom~DB~Noun~Agt 
+ 
+True: b~a~l~ı~k~e~s~i~r~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~l~ı~k~e~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres 
+ 
+True: s~ü~r~Verb~DB~Verb~Caus~Pos~Fut~A3sg~</s> | Pred: s~ü~r~Verb~DB~Verb~Caus~Pos~DB~A3sg~</s> 
+ 
+True: g~ü~m~ü~l~c~i~n~e~Noun~A3sg~Pnon~Loc~</s> | Pred: g~ü~m~ü~l~c~i~n~i~Noun~A3sg~Pnon~Loc~</s> 
+ 
+True: b~i~l~Verb~Neg~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: b~i~l~Verb~Neg~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: a~f~Noun~A3sg~P3sg~Nom~</s> | Pred: a~f~f~i~Adj~</s>~Pnon 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: e~t~Verb~DB~Verb~Pass~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: e~t~Verb~DB~Verb~Pass~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: m~i~l~i~t~a~n~Noun~A3sg~Pnon~Gen~</s> | Pred: m~i~l~i~t~a~Noun~A3sg~Pnon~Gen~</s>~</s> 
+ 
+True: e~m~e~k~l~i~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Gen~</s> | Pred: e~m~e~k~l~i~Adj~DB~Noun~Ness~A3sg~Pnon~Gen~</s>~Pnon~Gen~</s> 
+ 
+True: y~a~p~ı~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~Imp~A2sg~</s> | Pred: y~a~p~Verb~DB~Verb~Pass~Pos~DB~Adj~PresPart~</s>~</s>~</s>~</s> 
+ 
+True: a~r~a~Noun~A3pl~P3sg~Loc~</s> | Pred: a~r~a~Noun~A3pl~P3pl~Loc~</s> 
+ 
+True: e~ş~i~t~Noun~A3sg~Pnon~Nom~</s> | Pred: e~ş~i~t~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: y~ü~k~s~e~k~Noun~A3sg~Pnon~Nom~</s> | Pred: y~ü~k~s~e~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: t~a~m~Adverb~</s> | Pred: t~a~m~Adj~</s> 
+ 
+True: ç~a~l~ı~ş~a~n~Noun~A3pl~Pnon~Acc~</s> | Pred: ç~a~l~ı~ş~a~n~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: t~ü~s~i~a~t~Noun~A3sg~Pnon~Gen~</s> | Pred: t~ü~s~i~a~d~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: a~r~i~t~m~e~t~i~k~Adj~DB~Noun~Zero~A3sg~P3sg~Nom~</s> | Pred: a~r~i~t~m~e~t~i~k~Noun~A3sg~P3sg~Nom~</s>~A3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: b~a~k~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: b~a~k~Verb~Pos~DB~Noun~PastPart~P3sg~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~o~s~y~o~l~o~j~i~k~Adj~</s> | Pred: s~o~s~y~o~l~o~j~i~Noun~A3sg~Pnon 
+ 
+True: f~a~ş~i~z~m~Noun~A3sg~P3sg~Nom~</s> | Pred: f~a~ş~i~z~m~Noun~A3sg~P3sg~</s>~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: n~a~k~l~e~n~Adverb~</s> | Pred: n~a~k~l~e~Noun~A3sg~P2sg 
+ 
+True: h~a~b~i~r~e~Adverb~</s> | Pred: h~a~b~i~r~e~Noun~A3sg 
+ 
+True: d~u~r~Verb~Pos~DB~Noun~Inf3~A3sg~P3sg~Nom~</s> | Pred: d~u~r~Verb~Pos~DB~Noun~Inf3~A3sg~P3sg~Acc~</s> 
+ 
+True: k~a~l~d~ı~r~Verb~DB~Verb~Able~Neg~DB~Noun~PastPart~A3pl~P3pl~Nom~</s> | Pred: k~a~l~Verb~DB~Verb~Caus~DB~Verb~Able~Neg~DB~Noun~PastPart~A3pl~P3pl~Nom~</s> 
+ 
+True: h~e~k~z~a~g~r~a~m~Noun~A3pl~Pnon~Gen~</s> | Pred: h~e~k~z~a~g~r~a~Noun~A3pl~A3pl~Pnon~Gen~</s> 
+ 
+True: ı~Noun~A3sg~Pnon~Nom~</s> | Pred: i~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: h~e~k~z~a~g~r~a~m~Noun~A3pl~Pnon~Nom~</s> | Pred: h~e~k~z~a~g~r~a~Noun~A3pl~A3pl~Pnon~Nom~</s> 
+ 
+True: a~s~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: a~s~l~A3sg~Noun~Nom~DB~Adj~With 
+ 
+True: ç~a~l~ı~ş~k~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~a~l~ı~ş~k~a~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: ç~a~r~p~Verb~Pos~Fut~A3sg~</s> | Pred: ç~a~r~p~Verb~Pos~DB~Adj~FutPart 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: y~a~ş~a~Verb~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3sg~P3sg~Nom~</s> | Pred: y~a~ş~a~Verb~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3sg~Pnon~Acc~</s> 
+ 
+True: ö~n~e~m~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Adj~AsIf~</s> | Pred: ö~n~e~m~l~e~Verb~Pos~DB~Noun~Pnon~</s>~</s>~Nom~</s> 
+ 
+True: s~e~l~i~m~i~y~e~Noun~A3sg~Pnon~Nom~</s> | Pred: s~e~l~i~m~Noun~A3sg~P3sg~Dat~</s>~A3sg~Nom~</s> 
+ 
+True: k~ı~ş~l~a~Noun~A3sg~P3sg~Loc~DB~Adj~Rel~</s> | Pred: k~ı~ş~l~a~Noun~A3sg~DB~Loc~Rel~Adj~Rel~</s> 
+ 
+True: g~e~r~ç~e~k~Adj~DB~Verb~Become~Pos~Narr~Past~A3sg~</s> | Pred: g~e~r~ç~e~k~Noun~A3sg~Pnon~Become~Pos~Narr~Past~A3sg~</s> 
+ 
+True: i~h~s~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: i~s~s~a~n~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: b~a~h~r~i~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~h~i~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: b~e~l~e~n~Noun~A3sg~Pnon~Nom~</s> | Pred: b~e~l~Verb~Pos~DB~Adj~PresPart~</s>~</s> 
+ 
+True: b~i~l~i~r~g~e~n~Noun~A3sg~Pnon~Nom~</s> | Pred: b~i~l~i~r~g~e~n~Adj~</s>~</s>~Nom~</s> 
+ 
+True: s~e~ç~k~i~n~Noun~A3sg~Pnon~Nom~</s> | Pred: s~e~ç~k~i~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: s~o~n~e~r~Noun~A3sg~Pnon~Nom~</s> | Pred: s~o~n~e~r~Postp~</s>~Pnon~Nom~</s> 
+ 
+True: e~m~e~k~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: e~m~e~k~l~i~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: g~ı~y~a~p~Noun~A3sg~P3sg~Loc~</s> | Pred: g~ı~y~a~b~Noun~A3sg~P3sg~Loc~</s> 
+ 
+True: h~a~b~e~r~Noun~A3sg~P1sg~Nom~</s> | Pred: h~a~b~e~r~Noun~A3sg~Pnon~Nom~DB 
+ 
+True: i~l~ı~c~a~k~Noun~A3pl~Pnon~Dat~</s> | Pred: ı~l~ı~c~a~k~Adj~DB~Noun~Zero~A3pl 
+ 
+True: i~l~ı~c~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: i~l~i~c~a~k~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: k~a~r~ı~ş~Verb~Pos~Past~A3sg~</s> | Pred: k~a~r~i~ş~Verb~Pos~Past~A3sg~</s> 
+ 
+True: a~s~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: a~s~l~A3sg~Noun~A3sg~DB~Adj~With 
+ 
+True: i~l~e~Conj~</s> | Pred: i~l~e~Postp~PCNom 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: k~a~n~a~d~a~l~ı~Noun~A3pl~Pnon~Gen~</s> | Pred: k~a~n~a~d~a~l~ı~Noun~A3pl~Gen~</s>~</s> 
+ 
+True: ö~t~e~Postp~PCAbl~</s> | Pred: ö~t~e~Noun~A3sg~Pnon 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: k~o~v~Noun~A3sg~Pnon~Dat~</s> | Pred: k~o~v~a~Noun~A3sg~Pnon~Nom 
+ 
+True: b~u~r~c~u~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A1sg~</s> | Pred: b~u~r~ç~Noun~A3sg~P3sg~Nom~DB~DB~Zero~Pres~A1sg~</s>~</s> 
+ 
+True: b~e~n~Pron~Pers~A1sg~Pnon~Abl~</s> | Pred: b~e~n~Pron~e~A1sg~Noun~Abl~</s> 
+ 
+True: m~u~a~y~e~n~e~Noun~A3sg~Pnon~Nom~</s> | Pred: m~u~a~y~e~n~e~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: n~e~t~i~c~e~Noun~A3pl~P3pl~Nom~</s> | Pred: n~e~t~i~c~e~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: l~a~f~Noun~A3sg~Pnon~Acc~</s> | Pred: l~a~f~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: m~a~z~o~t~Noun~A3sg~Pnon~Dat~</s> | Pred: m~a~z~o~t~a~Noun~A3sg~Pnon~Nom 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: s~a~y~ı~n~Adj~</s> | Pred: s~a~y~ı~n~Noun~A3sg 
+ 
+True: d~e~v~a~Noun~A3sg~P2sg~Acc~</s> | Pred: d~e~v~a~n~Noun~A3sg~P3sg~Nom 
+ 
+True: k~a~r~ş~ı~Adj~</s> | Pred: k~a~r~ş~ı~Postp~PCDat 
+ 
+True: y~e~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Abl~</s> | Pred: y~e~Verb~e~k~Noun~A3sg~Pnon~Abl~</s>~</s> 
+ 
+True: k~a~r~ş~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: k~a~r~ş~ı~Postp~PCDat~</s>~Nom~</s> 
+ 
+True: t~o~p~u~z~Noun~A3sg~Pnon~Nom~</s> | Pred: t~o~p~u~z~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: s~a~ğ~l~a~m~Adj~DB~Verb~Become~DB~Verb~Caus~DB~Verb~Pass~Pos~Prog1~A3sg~</s> | Pred: s~a~ğ~l~a~k~Adj~DB~Verb~Become~DB~Verb~Caus~DB~Verb~Pass~Pos~Prog1~A3sg~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: s~t~i~l~Noun~A3sg~Pnon~Acc~</s> | Pred: s~t~i~l~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: f~ü~z~y~o~n~Noun~A3sg~Pnon~Acc~</s> | Pred: f~ü~z~y~o~n~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: a~y~r~ı~l~m~a~z~Noun~A3sg~Pnon~Nom~</s> | Pred: a~y~ı~r~Verb~DB~Verb~Pass~Neg~Aor~A3sg~</s>~</s> 
+ 
+True: b~e~y~a~z~Adj~</s> | Pred: b~e~y~a~z~Noun~A3sg 
+ 
+True: 6~0~Num~Card~DB~Verb~Zero~Pres~A3pl~</s> | Pred: 6~0~Num~Card~DB~Noun~Zero~A3pl~Pnon~Nom 
+ 
+True: f~ü~t~ü~r~i~s~t~i~k~Adj~</s> | Pred: f~ü~t~ü~r~i~s~s~i~k~Noun~A3sg 
+ 
+True: k~o~n~t~r~a~s~t~Adj~DB~Noun~Zero~A3pl~P3sg~Nom~</s> | Pred: k~o~n~t~r~a~s~t~Noun~A3pl~P3sg~Nom~</s>~</s>~Nom~</s> 
+ 
+True: a~ğ~ı~r~l~ı~k~Noun~A3sg~P2sg~Acc~</s> | Pred: a~ğ~ı~r~l~ı~k~Noun~A3sg~P3sg~Acc~</s> 
+ 
+True: b~e~y~a~z~Adj~</s> | Pred: b~e~y~a~z~Noun~A3sg 
+ 
+True: g~ö~r~ü~n~t~ü~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: g~ö~r~ü~n~t~ü~l~A3sg~Pnon~Nom~DB~Adj~With~</s> 
+ 
+True: g~e~c~e~l~e~r~i~Adverb~</s> | Pred: g~e~c~e~Noun~A3pl~P3pl~Nom~</s>~</s> 
+ 
+True: d~e~Verb~Pos~DB~Adj~PastPart~P1sg~</s> | Pred: d~e~Verb~Pos~DB~Adj~PastPart~A3sg~P1sg 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: k~a~r~a~r~Noun~A3sg~Pnon~Acc~</s> | Pred: k~a~r~a~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: k~a~p~r~i~s~Noun~A3sg~P3sg~Acc~</s> | Pred: k~a~p~r~i~Noun~A3sg~P3sg~Acc~</s>~P3sg 
+ 
+True: p~i~t~o~r~e~s~k~Adj~DB~Noun~Zero~A3sg~Pnon~Abl~</s> | Pred: p~i~t~o~r~e~s~k~A3sg~A3sg~Abl~</s>~</s>~Abl~</s>~</s> 
+ 
+True: v~a~z~g~e~ç~Verb~Neg~Aor~A1sg~</s> | Pred: v~a~z~g~e~ç~Verb~Neg~DB~Noun~Inf2 
+ 
+True: k~ı~y~a~f~e~t~Noun~A3pl~P3pl~Nom~</s> | Pred: k~ı~y~a~f~e~t~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: a~k~s~e~s~u~v~a~r~Noun~A3sg~Pnon~Loc~</s> | Pred: a~k~s~e~s~u~v~a~r~l~a~Noun~A3sg~Pnon 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: k~i~t~a~p~Noun~A3pl~Pnon~Acc~</s> | Pred: k~i~t~a~p~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: d~e~r~t~l~e~ş~Verb~Pos~Past~A1sg~</s> | Pred: d~e~r~t~Noun~A3sg~Pnon~Nom~DB~Verb~Become~Pos 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: t~e~y~p~Noun~A3sg~Pnon~Dat~</s> | Pred: t~e~y~b~e~Noun~A3sg~Pnon~Nom 
+ 
+True: ö~ğ~r~e~n~Verb~Pos~DB~Adj~PastPart~P1sg~</s> | Pred: ö~ğ~r~e~n~Verb~Pos~DB~Noun~PastPart~A3sg~P1sg 
+ 
+True: k~o~r~k~Verb~DB~Verb~Caus~Pos~Fut~A3sg~</s> | Pred: k~o~r~k~Verb~DB~Verb~Caus~Pos~DB~Adj~FutPart 
+ 
+True: z~e~y~t~i~n~Noun~A3sg~Pnon~Gen~</s> | Pred: z~e~y~t~i~Noun~A3sg~Pnon~Gen~</s>~</s> 
+ 
+True: a~m~p~u~l~Noun~A3sg~Pnon~Gen~</s> | Pred: a~m~p~u~l~A3sg~Pnon~Pnon~</s>~Pnon 
+ 
+True: m~e~v~z~i~Noun~A3sg~Pnon~Gen~</s> | Pred: m~e~v~z~i~Noun~A3sg~P3sg~Gen~</s> 
+ 
+True: g~i~z~l~e~Verb~DB~Verb~Reflex~Pos~DB~Adverb~WithoutHavingDoneSo~</s> | Pred: g~i~z~l~e~Verb~DB~Verb~Pass~Pos~DB~Noun~Inf2~A3sg 
+ 
+True: r~e~s~m~e~t~Verb~DB~Verb~Pass~Pos~Narr~A3sg~</s> | Pred: r~e~s~Verb~DB~Verb~Pass~Neg~Narr~Past~A3sg~</s>~</s>~Zero 
+ 
+True: n~e~Pron~Ques~A3sg~Pnon~Abl~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: n~e~d~e~n~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg 
+ 
+True: n~a~z~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: n~a~z~l~ı~Noun~A3sg~Pnon~Nom~</s>~</s> 
+ 
+True: z~i~l~l~i~Adj~</s> | Pred: z~i~l~Noun~A3sg~Pnon~Nom 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: y~ü~z~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3sg~Pnon~Acc~</s> | Pred: y~ü~z~Noun~ü~Noun~A3sg~Pnon~Acc~</s>~Acc~</s>~Acc~</s>~Acc~</s>~Pnon 
+ 
+True: ý~s~m~a~i~l~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A3sg~</s> | Pred: i̇~s~m~a~i~l~Noun~A3sg~Pnon~DB~DB~Zero~Past~A3sg~</s>~</s> 
+ 
+True: a~ş~k~Noun~A3sg~Pnon~Gen~</s> | Pred: a~ş~k~Noun~A3sg~Pnon~A3sg~</s> 
+ 
+True: o~l~Verb~Pos~DB~Noun~PastPart~A3pl~P3pl~Nom~</s> | Pred: o~l~Verb~Pos~DB~Adj~PastPart~P3pl~</s>~Nom~</s> 
+ 
+True: b~e~s~t~e~k~a~r~Noun~A3sg~Pnon~Gen~</s> | Pred: b~e~s~t~e~k~a~r~Noun~A3sg~Pnon~</s>~Pnon 
+ 
+True: g~a~z~a~l~Noun~A3sg~P3sg~Gen~</s> | Pred: g~a~z~a~l~i~Noun~A3sg~Pnon~Gen 
+ 
+True: t~e~ş~b~i~h~Noun~A3sg~Pnon~Nom~</s> | Pred: t~e~s~b~i~h~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: l~e~y~l~a~Noun~A3sg~Pnon~Nom~</s> | Pred: l~e~y~Noun~A3sg~Pnon~Ins~</s>~Nom~</s> 
+ 
+True: s~a~y~a~r~Noun~A3sg~Pnon~Nom~</s> | Pred: s~a~y~Verb~Pos~Aor~A3sg~</s>~Nom~</s> 
+ 
+True: m~u~h~t~e~r~e~m~Noun~A3sg~Pnon~Nom~</s> | Pred: m~u~h~t~e~r~e~m~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~o~n~s~t~a~n~t~r~e~Noun~A3sg~Pnon~Nom~</s> | Pred: k~o~n~s~t~a~n~t~r~e~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: g~ı~n~a~Noun~A3sg~Pnon~Nom~</s> | Pred: g~i~n~a~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: l~o~l~l~o~b~r~i~g~i~d~a~Noun~A3sg~Pnon~Nom~</s> | Pred: l~o~l~l~o~b~r~i~g~i~Noun~A3sg~Pnon~Loc~</s>~Nom~</s> 
+ 
+True: d~a~n~d~i~n~i~Noun~A3sg~Pnon~Nom~</s> | Pred: d~a~n~d~i~n~Noun~A3sg~P3sg~Nom~</s>~</s> 
+ 
+True: e~ğ~l~e~Verb~DB~Verb~Pass~Pos~Prog1~A3sg~</s> | Pred: e~ğ~l~e~n~Verb~Pos~Prog1~A3sg~</s>~A3sg~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~e~n~t~e~z~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A1pl~</s> | Pred: s~e~n~t~e~z~i~z~Noun~A3sg~Pnon~Nom~</s>~Verb~Zero~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: ç~a~ğ~l~a~y~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~a~ğ~l~a~Verb~Pos~DB~Adj~PresPart~</s>~Nom~</s> 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: k~a~m~p~Noun~A3sg~Pnon~Dat~</s> | Pred: k~a~m~p~a~Noun~A3sg~Pnon~Nom 
+ 
+True: d~e~ğ~i~l~Verb~Neg~Pres~A3sg~</s> | Pred: d~e~ğ~i~l~Conj~</s>~Pres~A3sg~</s> 
+ 
+True: b~i~r~l~i~k~t~e~Adverb~</s> | Pred: b~i~r~l~i~k~t~e~Postp~PCIns 
+ 
+True: h~a~r~e~k~e~t~Noun~A3pl~Pnon~Acc~</s> | Pred: h~a~r~e~k~e~t~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: e~m~i~n~Noun~A3sg~Pnon~Nom~</s> | Pred: e~m~i~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~a~s~e~t~Noun~A3sg~P3sg~Nom~</s> | Pred: k~a~s~e~d~i~Noun~A3sg~Pnon~Nom 
+ 
+True: e~r~g~Noun~A3sg~Pnon~Gen~</s> | Pred: e~r~g~i~n~Noun~A3sg~Pnon 
+ 
+True: r~a~d~i~k~a~l~Noun~A3sg~Pnon~Nom~</s> | Pred: r~a~d~i~k~a~l~Adj~A3sg~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: d~e~Verb~Pos~Aor~Past~A2pl~</s> | Pred: d~e~r~Verb~Pos~Past~A2pl~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: i~ç~i~n~Postp~PCNom~DB~Verb~Zero~Past~A3sg~</s> | Pred: i~ç~Noun~n~P3sg~PCNom~DB~Verb~Zero~Past~A3sg~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: g~ü~n~e~r~i~Noun~A3sg~Pnon~Nom~</s> | Pred: g~ü~n~e~r~Noun~A3sg~P3sg~Nom~</s>~</s> 
+ 
+True: g~e~n~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~n~e~l~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: b~i~l~i~n~ç~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~DB~Noun~Inf2~A3sg~P3sg~Nom~</s> | Pred: b~i~l~i~n~ç~l~e~Verb~DB~Verb~Pass~Pos~DB~Noun~Inf2~A3sg~P3sg~Nom~</s>~</s> 
+ 
+True: v~a~z~g~e~ç~Verb~DB~Verb~Pass~Neg~DB~Adj~AorPart~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: v~a~z~g~e~ç~Verb~DB~Verb~Pass~Neg~Aor~DB~Adj~</s>~DB~Noun~Zero~A3sg~Pnon~Nom 
+ 
+True: m~u~s~e~v~i~Noun~A3sg~P3pl~Gen~</s> | Pred: m~u~s~e~v~i~Noun~A3pl~P3sg~Gen~</s> 
+ 
+True: e~n~g~i~s~i~z~y~o~Noun~A3sg~Pnon~Gen~</s> | Pred: e~n~g~i~s~i~y~o~n~Noun~A3sg~P3sg~Gen~</s> 
+ 
+True: z~u~l~ü~m~Noun~A3sg~P3sg~Abl~</s> | Pred: z~u~l~m~ü~A3sg~P3sg~Abl~</s>~Abl 
+ 
+True: s~o~s~y~o~l~o~j~i~k~Adj~</s> | Pred: s~o~s~y~o~l~o~j~i~Noun~A3sg~Pnon 
+ 
+True: h~ü~s~n~ü~Noun~A3sg~Pnon~Nom~</s> | Pred: h~ü~s~ü~n~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: d~e~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: d~e~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: s~a~t~Verb~Pos~Imp~A3sg~</s> | Pred: s~a~t~Noun~A3sg~Pnon~Nom~DB 
+ 
+True: i~s~t~e~r~Conj~</s> | Pred: i~s~t~e~Verb~Pos~Aor 
+ 
+True: k~ü~b~a~l~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: k~ü~b~a~l~Noun~A3sg~P3sg~Nom~</s>~With 
+ 
+True: p~e~r~k~ü~s~y~o~Noun~A3sg~P2sg~Nom~</s> | Pred: p~e~r~k~ü~s~y~o~n~Noun~A3sg~Pnon~Nom 
+ 
+True: c~a~n~d~a~n~Adj~DB~Noun~Ness~A3sg~P3sg~Dat~</s> | Pred: c~a~n~d~a~n~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: b~i~l~Verb~Pos~DB~Adverb~SinceDoingSo~</s> | Pred: b~i~l~e~Noun~A3sg~Pnon~Nom~DB 
+ 
+True: b~a~t~e~r~i~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~t~e~r~i~Noun~P3sg~Pnon~Nom~</s> 
+ 
+True: y~a~ş~a~r~Noun~A3sg~Pnon~Gen~</s> | Pred: y~a~ş~a~Verb~Pos~Imp~A2pl~</s>~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: y~a~ş~a~Verb~Pos~Aor~A3sg~</s> | Pred: y~a~ş~a~r~Noun~A3sg~Pnon~Nom 
+ 
+True: ç~o~ğ~u~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~o~ğ~u~Det~</s>~Pnon~Nom~</s> 
+ 
+True: m~i~l~y~o~n~l~a~r~c~a~Num~Card~DB~Noun~Zero~A3sg~P3sg~Nom~</s> | Pred: m~i~l~y~o~n~l~a~r~Pos~DB~A2pl~</s>~Nom~Noun~Zero~A3sg~P3sg~Nom~</s> 
+ 
+True: b~e~n~Pron~Pers~A1sg~Pnon~Abl~</s> | Pred: b~e~n~Pron~e~A1sg~Noun~Abl~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: b~i~r~a~z~Adj~DB~Noun~Zero~A3sg~P3sg~Acc~</s> | Pred: b~i~r~a~z~Noun~A3sg~P3sg~Acc~</s>~P3sg~Acc~</s> 
+ 
+True: ş~e~k~e~r~l~e~Verb~Pos~DB~Noun~Inf2~A3sg~Pnon~Nom~</s> | Pred: ş~e~k~e~r~l~e~m~e~Noun~A3sg~Pnon~Nom~</s>~Nom~</s> 
+ 
+True: k~a~m~ı~ş~Noun~A3sg~P3sg~Nom~</s> | Pred: k~a~m~Verb~Pos~DB~Noun~Inf3~A3sg~P3sg 
+ 
+True: ı~r~m~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: i~r~m~a~k~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: ü~s~t~ü~n~Noun~A3sg~Pnon~Nom~</s> | Pred: ü~s~t~ü~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~a~r~a~y~o~l~u~Noun~A3sg~P3sg~Nom~</s> | Pred: k~a~r~a~y~o~l~u~Noun~A3sg~P3sg~</s>~</s> 
+ 
+True: o~y~u~n~c~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: o~y~u~n~c~a~k~Noun~Pnon~Pnon~</s>~</s> 
+ 
+True: k~a~r~a~y~o~l~u~Noun~A3sg~P3sg~Nom~</s> | Pred: k~a~r~a~y~o~l~u~Noun~A3sg~P3sg~</s>~</s> 
+ 
+True: s~e~m~a~f~o~r~Noun~A3sg~Pnon~Dat~</s> | Pred: s~e~m~a~f~o~r~Noun~Noun~A3sg~Dat~</s> 
+ 
+True: d~e~r~t~Noun~A3sg~Pnon~Nom~DB~Verb~Become~Pos~DB~Noun~Inf1~A3sg~Pnon~Nom~</s> | Pred: d~e~r~t~l~e~ş~Verb~Pos~DB~Noun~Inf1~A3sg~Pnon~Nom~</s>~Nom~</s>~</s> 
+ 
+True: h~o~p~Interj~</s> | Pred: h~o~p~Adj~</s> 
+ 
+True: d~e~p~r~e~s~y~o~n~Noun~A3sg~Pnon~Loc~DB~Verb~Zero~Pres~A3pl~</s> | Pred: d~e~p~r~e~s~y~o~n~Noun~A3pl~P3sg~Nom~</s>~Verb~Zero~</s>~</s>~Pnon 
+ 
+True: i~k~i~l~e~m~Noun~A3sg~Pnon~Loc~</s> | Pred: i~k~i~l~e~m~Noun~P1sg~Loc~</s>~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: b~a~t~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~t~ı~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: o~l~u~m~l~u~Adj~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: o~l~u~m~l~u~Noun~A3sg~Pnon~Dat~</s>~</s>~Pnon~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: g~e~r~e~k~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: g~e~r~e~k~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: k~o~n~j~o~n~k~t~ü~r~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: k~o~n~j~o~n~k~ü~ü~t~l~l~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: g~e~r~ç~e~k~Adj~DB~Verb~Become~DB~Verb~Caus~Pos~DB~Verb~Able~Fut~A3sg~</s> | Pred: g~e~r~ç~e~k~Noun~A3sg~Pnon~Nom~DB~Verb~Become~DB~Verb~Caus~Pos~DB~Verb~Able 
+ 
+True: d~e~v~r~e~t~Noun~A3sg~Pnon~Nom~</s> | Pred: d~e~v~r~e~t~Verb~Pos~Imp~A2sg~</s> 
+ 
+True: d~e~m~i~r~y~o~l~u~Noun~A3sg~P3sg~Nom~</s> | Pred: d~e~m~i~r~y~o~l~u~Noun~P3sg~Nom~</s>~</s> 
+ 
+True: i~ş~l~e~Verb~DB~Verb~Caus~Pos~Aor~A3sg~</s> | Pred: i~ş~l~e~Verb~DB~Verb~Caus~Pos~DB~Adj~AorPart 
+ 
+True: e~p~d~k~Noun~A3sg~Pnon~Nom~</s> | Pred: e~p~d~k~Noun~A3sg~Nom~Nom~</s> 
+ 
+True: k~i~k~Noun~A3sg~Pnon~Nom~</s> | Pred: k~ı~k~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: d~ö~v~i~z~Noun~A3pl~P3pl~Nom~</s> | Pred: d~ö~v~i~z~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: d~ö~v~i~z~Noun~A3pl~P3pl~Nom~</s> | Pred: d~ö~v~i~z~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: o~r~t~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: o~r~t~a~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: a~k~ı~ş~ı~k~Noun~A3sg~Pnon~Gen~</s> | Pred: a~k~ı~ş~ı~k~Adj~DB~Noun~Zero~A3sg 
+ 
+True: ı~m~p~l~a~n~t~Noun~A3sg~Pnon~Nom~</s> | Pred: i~m~p~l~a~n~t~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: k~u~r~t~a~r~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: k~u~r~t~a~r~Verb~Pos~DB~Adj~PresPart~</s>~</s> 
+ 
+True: b~a~y~ı~n~d~ı~r~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~y~ı~n~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres 
+ 
+True: s~ü~r~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: s~ü~r~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: b~a~y~r~a~m~k~i~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~y~r~a~m~Noun~A3sg~Pnon~Nom~DB~Adj~Rel 
+ 
+True: m~a~c~e~r~a~Noun~A3pl~P3sg~Nom~</s> | Pred: m~a~c~e~r~a~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: o~Pron~Pers~A3sg~Pnon~Nom~</s> | Pred: o~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: h~o~v~a~r~d~a~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: h~o~v~a~r~d~a~l~ı~k~Noun~A3sg~Pnon~Nom~</s>~Pnon~Nom~</s> 
+ 
+True: y~a~ş~a~Verb~Pos~DB~Noun~PastPart~A3sg~P1sg~Nom~</s> | Pred: y~a~ş~a~Verb~Pos~DB~Adj~PastPart~P1sg~</s>~Nom~</s> 
+ 
+True: ç~e~v~r~e~s~e~l~Adj~</s> | Pred: ç~e~v~r~e~Noun~A3sg~Pnon~Nom~DB 
+ 
+True: t~a~s~a~r~ı~m~l~a~Verb~Pos~DB~Adj~AorPart~DB~Noun~Zero~A3sg~P1sg~Acc~</s> | Pred: t~a~s~a~r~ı~m~Noun~A3pl~P1sg~Acc~</s>~Adj~Zero~A3sg~Noun~Zero~A3sg~Acc~Acc~</s> 
+ 
+True: p~l~a~s~t~i~k~Adj~</s> | Pred: p~l~a~s~t~i~k~Noun~A3sg 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: b~e~y~a~z~Adj~</s> | Pred: b~e~y~a~z~Noun~A3sg 
+ 
+True: k~u~l~l~a~n~Verb~DB~Verb~Pass~Neg~DB~Adj~FutPart~Pnon~</s> | Pred: k~u~l~l~a~n~Verb~DB~Verb~Pass~Neg~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: y~e~n~i~k~a~p~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: y~e~n~i~k~a~p~i~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: m~a~v~i~Noun~A3sg~Pnon~Nom~</s> | Pred: m~a~v~i~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: n~i~l~Noun~A3sg~Pnon~Gen~</s> | Pred: n~i~l~Noun~A3sg~Pnon~</s>~</s> 
+ 
+True: d~e~s~t~a~n~s~ı~Adj~</s> | Pred: d~e~s~t~a~n~s~Noun~A3sg~P3sg 
+ 
+True: v~o~l~k~a~n~i~k~Adj~</s> | Pred: v~o~l~k~a~n~i~k~Noun~A3sg 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: b~i~l~Verb~DB~Verb~Pass~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: b~i~l~Verb~DB~Verb~Pass~Pos~DB~Adj~PastPart~A3sg~P3sg 
+ 
+True: z~a~y~ı~f~Noun~A3sg~Pnon~Nom~</s> | Pred: z~a~y~ı~f~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: v~a~z~g~e~ç~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: v~a~z~g~e~ç~Verb~Pos~DB~Adj~PastPart~P3sg~P3sg~Nom~</s> 
+ 
+True: t~r~a~b~z~o~n~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3pl~Pnon~Loc~</s> | Pred: t~r~a~b~z~o~n~Noun~A3sg~Pnon~Loc~DB~Adj~Rel~DB~Noun~Zero~A3pl~Pnon~Loc~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: g~ö~z~d~a~ğ~ı~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Past~A3sg~</s> | Pred: g~ö~z~d~a~ğ~ı~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A3sg~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: d~o~ğ~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: d~o~ğ~Verb~n~DB~A3sg~PresPart~</s>~</s> 
+ 
+True: h~o~r~a~s~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: h~o~r~a~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Cond 
+ 
+True: o~s~m~a~n~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3sg~Pnon~Acc~</s> | Pred: o~s~m~a~n~l~ı~Noun~A3sg~Pnon~Acc~</s>~Adj~With~DB~Noun~Zero~A3sg~Pnon 
+ 
+True: k~u~r~Verb~Pos~DB~Adj~PresPart~</s> | Pred: k~u~r~Verb~Pos~Noun~Adj~PresPart~Nom 
+ 
+True: ç~i~ç~e~k~Noun~A3sg~P3sg~Nom~</s> | Pred: ç~i~ç~e~k~Noun~A3sg~Pnon~Acc~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: s~a~t~Verb~DB~Verb~Pass~Pos~DB~Adj~PresPart~</s> | Pred: s~a~t~ı~l~a~n~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: 4~0~Num~Card~DB~Noun~Zero~A3sg~Pnon~Acc~</s> | Pred: 4~0~Num~Card~DB~Noun~Zero~A3sg~P3sg~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: y~a~k~a~l~a~Verb~Pos~DB~Noun~FutPart~A3sg~P3pl~Nom~</s> | Pred: y~a~k~a~l~a~Verb~Pos~DB~Noun~FutPart~A3pl~P3pl~Nom~</s> 
+ 
+True: c~c~n~p~Noun~A3sg~Pnon~Nom~</s> | Pred: c~c~p~p~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: p~r~o~f~e~s~s~i~o~n~a~l~Noun~A3sg~Pnon~Nom~</s> | Pred: p~r~o~f~e~s~s~i~n~a~l~Noun~A3sg~Pnon~Nom~</s>~</s> 
+ 
+True: c~c~d~p~Noun~A3sg~Pnon~Nom~</s> | Pred: c~c~p~p~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: d~e~s~i~g~n~Noun~A3sg~Pnon~Nom~</s> | Pred: d~e~s~i~i~n~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: p~r~o~f~e~s~s~i~o~n~a~l~Noun~A3sg~Pnon~Nom~</s> | Pred: p~r~o~f~e~s~s~i~n~a~l~Noun~A3sg~Pnon~Nom~</s>~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~a~t~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: s~a~t~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: y~a~n~s~ı~Verb~Pos~Prog1~Past~A3sg~</s> | Pred: y~a~n~s~a~Verb~Pos~Prog1~Past~A3sg~</s> 
+ 
+True: h~ı~r~s~ı~z~Noun~A3sg~Pnon~Nom~</s> | Pred: h~ı~r~Noun~ı~z~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: k~i~ş~i~Noun~A3pl~Pnon~Acc~</s> | Pred: k~i~ş~i~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: d~ö~n~e~m~Noun~A3sg~Pnon~Acc~</s> | Pred: d~ö~n~e~m~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: ö~z~t~u~n~a~Noun~A3sg~Pnon~Nom~</s> | Pred: ö~z~t~u~n~Noun~A3sg~Pnon~Dat~</s>~</s> 
+ 
+True: b~e~r~n~d~t~s~o~Noun~A3sg~P2sg~Nom~</s> | Pred: b~e~r~n~d~d~o~n~Noun~A3sg~A3sg~Nom~</s> 
+ 
+True: a~n~c~a~k~Adverb~</s> | Pred: a~n~c~a~k~Conj~</s> 
+ 
+True: a~y~ı~k~l~a~Verb~DB~Verb~Pass~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: a~y~ı~k~l~a~Verb~DB~Verb~Pass~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3sg~P2sg~Dat~</s> 
+ 
+True: u~y~g~u~l~a~m~a~Noun~A3sg~Pnon~Acc~</s> | Pred: u~y~g~u~l~a~Verb~Pos~DB~Noun~Inf2~A3sg~Pnon 
+ 
+True: u~l~u~s~a~l~Noun~A3sg~Pnon~Nom~</s> | Pred: u~l~u~s~a~l~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: ö~d~e~Verb~Neg~DB~Adj~PastPart~P3sg~</s> | Pred: ö~d~e~Verb~Neg~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: e~ş~Noun~A3sg~P1sg~Nom~</s> | Pred: e~ş~Noun~m~Noun~A3sg~Pnon 
+ 
+True: g~a~s~p~ç~ı~Noun~A3pl~Pnon~Gen~</s> | Pred: g~a~s~p~ı~Noun~Noun~A3pl~Gen~</s>~</s> 
+ 
+True: g~a~s~p~ç~ı~Noun~A3pl~Pnon~Nom~</s> | Pred: g~a~s~p~ı~Noun~Noun~Pnon~Nom~Nom~</s> 
+ 
+True: ü~r~e~Verb~DB~Verb~Caus~Pos~DB~Noun~Agt~A3pl~P3sg~Nom~</s> | Pred: ü~r~e~Verb~DB~Verb~Caus~Pos~DB~Noun~Agt~A3pl~P3pl~Nom~</s> 
+ 
+True: s~i~b~e~r~Adj~</s> | Pred: s~i~b~e~r~Noun~A3sg 
+ 
+True: u~z~a~y~Noun~A3sg~Pnon~Dat~</s> | Pred: u~z~a~Noun~A3sg~Pnon~Dat~</s>~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: s~a~r~v~e~Noun~A3sg~P2sg~Nom~</s> | Pred: s~a~r~v~e~n~Noun~A3sg~Pnon~Nom 
+ 
+True: a~l~a~c~a~k~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~DB~Adverb~While~</s> | Pred: a~l~Verb~Pos~a~k~Adverb~Adverb~Adverb~</s>~</s>~Adverb~</s>~</s>~Adverb~While~</s> 
+ 
+True: u~y~g~u~n~Noun~A3sg~Pnon~Nom~</s> | Pred: u~y~g~u~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: z~a~m~Noun~A3sg~P3sg~Dat~</s> | Pred: z~a~m~Noun~A3sg~P3sg~A3sg~</s> 
+ 
+True: a~ç~m~a~z~Noun~A3sg~P3sg~Acc~</s> | Pred: a~ç~Verb~Pos~DB~Noun~Inf2~A3sg~P3sg~Acc 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: f~r~e~n~Noun~A3sg~Pnon~Nom~</s> | Pred: f~r~e~Noun~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: f~r~e~n~Noun~A3sg~Pnon~Nom~</s> | Pred: f~r~e~Noun~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: m~u~a~y~e~n~e~Noun~A3sg~Pnon~Nom~</s> | Pred: m~u~a~y~e~n~e~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: ç~ı~k~Verb~DB~Verb~Caus~Pos~Fut~A3sg~</s> | Pred: ç~ı~k~Verb~DB~Verb~Caus~Pos~DB~A3sg~FutPart 
+ 
+True: y~a~p~Verb~Pos~DB~Noun~FutPart~A3sg~P3sg~Nom~</s> | Pred: y~a~p~Verb~Pos~DB~Noun~FutPart~P3sg~</s>~Nom~</s> 
+ 
+True: ö~m~ü~r~Noun~A3sg~Pnon~Nom~</s> | Pred: o~m~ü~r~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: p~a~s~t~e~l~Noun~A3sg~Pnon~Ins~</s> | Pred: p~a~s~t~e~l~l~e~Noun~A3sg~Pnon 
+ 
+True: e~v~Noun~A3pl~P3pl~Acc~</s> | Pred: e~v~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: y~a~n~l~ı~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~n~l~ı~ş~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: y~e~t~e~n~e~k~Noun~A3pl~P3pl~Gen~</s> | Pred: y~e~t~e~n~e~k~Noun~A3pl~P3sg~Gen~</s> 
+ 
+True: b~a~ş~k~a~Postp~PCAbl~</s> | Pred: b~a~ş~k~a~Adj~</s>~</s> 
+ 
+True: ç~i~z~Verb~Pos~Past~A1pl~</s> | Pred: ç~i~z~d~Pos~k~Noun~A3sg 
+ 
+True: d~u~v~a~r~Noun~A3sg~P3sg~Nom~</s> | Pred: d~u~v~a~r~Noun~Noun~P3sg~Nom~</s> 
+ 
+True: s~a~n~Verb~Pos~DB~Adverb~AfterDoingSo~</s> | Pred: s~a~n~i~p~Noun~A3sg~Pnon~Nom 
+ 
+True: h~a~z~ı~r~l~a~Verb~DB~Verb~Pass~Neg~Aor~A1sg~</s> | Pred: h~a~z~ı~r~l~a~Verb~DB~Verb~Pass~Pos~DB~Noun~Inf2 
+ 
+True: ö~m~ü~r~Noun~A3sg~Pnon~Dat~</s> | Pred: ö~m~e~r~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: y~a~p~Verb~Pos~DB~Verb~Able~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: y~a~p~Verb~Pos~DB~Verb~Able~DB~Adj~PastPart~P3sg~</s>~</s>~</s> 
+ 
+True: f~r~a~n~ç~o~i~s~Noun~A3sg~Pnon~Nom~</s> | Pred: f~r~a~n~k~o~i~s~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: s~ö~y~l~e~n~t~i~Noun~A3pl~Pnon~Acc~</s> | Pred: s~ö~y~l~e~n~t~i~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: z~i~h~i~n~Noun~A3pl~Pnon~Acc~</s> | Pred: z~i~h~i~n~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: a~i~l~e~Noun~A3sg~Pnon~Abl~DB~Verb~Zero~Past~A3sg~</s> | Pred: a~i~l~e~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Past~A3sg~</s> 
+ 
+True: s~i~n~y~a~l~Noun~A3sg~P3sg~Nom~</s> | Pred: s~i~n~y~a~l~Noun~A3sg~Nom~DB~Adj 
+ 
+True: m~ü~s~l~a~m~a~Noun~A3sg~P2sg~Nom~</s> | Pred: m~ü~s~l~ü~m~a~n~Adj~</s>~Pnon~Nom 
+ 
+True: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P1pl~Nom~</s> | Pred: o~l~Verb~Pos~DB~Adj~PastPart~P1pl~</s>~Nom~</s> 
+ 
+True: l~e~z~z~e~t~Noun~A3pl~P3sg~Nom~</s> | Pred: l~e~z~z~e~t~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: k~o~d~l~a~Verb~DB~Verb~Pass~Pos~Prog1~A3pl~</s> | Pred: k~o~d~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~Prog1~A3pl 
+ 
+True: m~e~n~e~ş~v~Noun~A3sg~Pnon~Dat~</s> | Pred: m~e~n~e~ş~v~e~Noun~A3sg~Pnon~Dat 
+ 
+True: v~e~r~i~m~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Ness~A3sg~P3sg~Nom~</s> | Pred: v~e~r~i~m~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Ness~A3sg~P3sg~Nom~</s>~</s> 
+ 
+True: d~a~r~ı~c~ı~Noun~A3sg~Pnon~Gen~</s> | Pred: d~a~r~ı~c~Noun~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: i~s~t~a~t~i~s~t~i~k~i~Adj~</s> | Pred: i~s~t~a~t~i~s~t~i~k~Noun~A3sg~Pnon 
+ 
+True: o~l~a~ğ~a~n~d~ı~ş~ı~Noun~A3sg~P3sg~Nom~</s> | Pred: o~l~a~ğ~a~n~d~ı~ş~ı~Adj~</s>~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: ç~o~k~Adj~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: a~l~Verb~Pos~Imp~A2sg~</s> | Pred: a~l~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: m~o~d~e~r~n~Adj~DB~Verb~Become~Pos~DB~Adj~PresPart~</s> | Pred: m~o~d~e~r~n~e~DB~Verb~Become~Pos~DB~Adj~PresPart~</s> 
+ 
+True: g~i~r~i~t~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: g~i~r~i~t~Noun~A3sg~Pnon~Nom~DB~Adj~With 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: g~ö~r~ü~ş~Noun~A3sg~P3sg~Nom~</s> | Pred: g~ö~r~ü~ş~Noun~A3sg~Pnon~Acc~</s> 
+ 
+True: b~i~l~g~e~Adj~DB~Noun~Ness~A3sg~P3sg~Nom~</s> | Pred: b~i~l~g~e~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: b~a~z~ı~Pron~Quant~A3pl~P3pl~Equ~</s> | Pred: b~a~z~ı~l~Verb~Pos~DB~Adverb~When 
+ 
+True: ş~i~r~k~e~t~Noun~A3pl~P3pl~Nom~</s> | Pred: ş~i~r~k~e~t~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~s~y~a~l~Noun~A3sg~Pnon~Nom~</s> | Pred: s~o~s~y~a~l~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: c~a~d~d~e~s~i~Noun~A3sg~Pnon~Gen~</s> | Pred: c~a~d~d~e~Noun~A3sg~P3sg~Gen~</s>~</s>~</s> 
+ 
+True: k~ı~z~ı~l~t~o~p~r~a~k~Noun~A3sg~Pnon~Nom~</s> | Pred: k~ı~z~ı~l~t~ı~r~a~a~k~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: m~a~ğ~a~z~a~Noun~A3pl~P3pl~Nom~</s> | Pred: m~a~ğ~a~z~a~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: k~a~r~ş~ı~Adj~DB~Noun~Zero~A3sg~P1sg~Loc~DB~Adj~Rel~DB~Noun~Zero~A3sg~Pnon~Acc~</s> | Pred: k~a~r~ş~ı~Noun~DB~Noun~Zero~A3sg~P2sg~Loc~DB~Adj~Rel~DB~Noun~Zero~A3sg~Pnon~Acc~</s> 
+ 
+True: e~t~Verb~Pos~Fut~DB~Adverb~While~</s> | Pred: e~t~Verb~Pos~DB~DB~Adverb~While~</s> 
+ 
+True: p~i~ç~Noun~A3sg~Pnon~Nom~</s> | Pred: p~i~ç~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: k~u~r~u~Adj~DB~Noun~Zero~A3sg~P3sg~Nom~</s> | Pred: k~u~r~u~Noun~A3sg~P3sg~Nom~</s>~P3sg~Nom~</s> 
+ 
+True: b~e~l~t~a~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: b~e~l~t~a~ş~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: y~e~m~e~k~Noun~A3pl~Pnon~Acc~</s> | Pred: y~e~m~e~k~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~a~a~t~Noun~A3pl~P3pl~Dat~</s> | Pred: s~a~a~t~Noun~A3pl~P3sg~Dat~</s> 
+ 
+True: o~f~Noun~A3sg~Pnon~Nom~</s> | Pred: o~f~Interj~A3sg~Pnon~Nom~</s> 
+ 
+True: y~e~Verb~Pos~Neces~A3sg~</s> | Pred: y~e~Verb~Pos~DB~Noun~Inf2 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: p~e~t~Adj~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: p~e~t~e~Noun~A3sg~Pnon~Nom~</s>~Nom~</s> 
+ 
+True: y~a~r~k~ı~n~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~r~k~ı~A3sg~Pnon~Gen~</s>~Nom~</s> 
+ 
+True: b~i~l~e~t~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A1sg~</s> | Pred: b~i~l~e~t~Noun~A3sg~P1sg~Nom~</s>~Verb~Zero~Pres~A1sg~</s> 
+ 
+True: d~e~ğ~Verb~DB~Verb~Pass~Pos~Desr~A2sg~</s> | Pred: d~e~ğ~i~l~Verb~Neg~Cond~A2sg~</s>~</s> 
+ 
+True: b~o~z~f~a~k~ı~o~ğ~l~u~Noun~Noun~A3sg~Pnon~Nom~</s> | Pred: b~o~z~f~a~k~a~ğ~l~u~Noun~Noun~A3sg~Pnon~Nom~</s>~</s> 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: e~v~Noun~A3pl~P3pl~Nom~</s> | Pred: e~v~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: d~u~t~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: d~u~t~Noun~u~Adj~</s>~Pnon~Nom~</s>~</s> 
+ 
+True: t~e~r~m~a~l~Adj~</s> | Pred: t~e~r~m~a~l~Noun~A3sg 
+ 
+True: m~e~k~a~n~Noun~A3sg~Pnon~Acc~</s> | Pred: m~e~k~a~n~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: a~c~e~m~i~Adj~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: a~c~e~m~i~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: p~n~o~j~e~Noun~A3pl~P1pl~Nom~</s> | Pred: p~o~n~j~e~Noun~A3pl~P1pl~Nom~</s> 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: c~e~r~e~n~Noun~A3sg~Pnon~Nom~</s> | Pred: c~e~r~e~n~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: s~e~v~d~a~Noun~A3sg~Pnon~Nom~DB~Adj~With~DB~Noun~Zero~A3pl~P3sg~Dat~</s> | Pred: s~e~v~d~a~l~A3sg~Noun~A3pl~P3sg~</s>~</s>~Dat~Dat~</s>~Dat~Dat~Dat~Dat 
+ 
+True: n~c~i~Noun~A3sg~Pnon~Nom~</s> | Pred: n~i~i~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: r~ü~ş~t~ü~Noun~A3sg~Pnon~Nom~</s> | Pred: r~ü~ş~t~ü~Noun~A3sg~Pnon~</s>~</s> 
+ 
+True: p~i~l~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Cond~A2sg~</s> | Pred: p~i~l~s~e~n~Noun~A3sg~Pnon~Nom~</s>~Verb~Zero 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: a~t~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: a~t~Verb~Pos~DB~Adj~PresPart~</s>~</s> 
+ 
+True: i~s~y~a~n~Noun~A3sg~Pnon~Gen~</s> | Pred: i~s~y~a~Noun~A3sg~Pnon~Gen~</s>~</s> 
+ 
+True: m~i~l~l~e~t~v~e~k~i~l~i~Noun~A3sg~P3sg~Nom~DB~Verb~Zero~Pres~A1sg~</s> | Pred: m~i~l~l~e~t~v~e~k~i~l~i~Noun~A3sg~P1sg~Nom~DB~Verb~Zero~Pres~A1sg~</s> 
+ 
+True: s~ı~k~ı~t~l~a~y~a~m~a~z~Noun~A3sg~Pnon~Nom~</s> | Pred: s~ı~k~ı~t~l~a~Verb~DB~Verb~Able~Neg~Aor~A3sg~</s>~</s>~</s> 
+ 
+True: a~l~l~a~h~Noun~A3sg~Pnon~Abl~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: a~l~l~a~h~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> 
+ 
+True: t~e~k~n~i~k~Noun~A3sg~Pnon~Nom~</s> | Pred: t~e~k~n~i~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: t~ı~ğ~a~Noun~A3sg~P2sg~Dat~</s> | Pred: t~i~g~a~n~Noun~A3sg~Pnon~Dat 
+ 
+True: y~a~n~l~ı~ş~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s> | Pred: y~a~n~l~ı~ş~Adj~DB~Noun~Ness~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3sg~Cop~</s>~Verb~Zero~Pres 
+ 
+True: g~ö~r~Verb~Pos~DB~Adj~PastPart~P2pl~</s> | Pred: g~ö~r~Verb~Pos~DB~Noun~PastPart~A3sg~P2pl 
+ 
+True: k~e~s~i~m~Noun~A3pl~P3sg~Nom~</s> | Pred: k~e~s~i~m~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: d~ü~ş~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: d~ü~ş~Verb~Pos~DB~Adj~PastPart~A3sg~</s>~Nom~</s> 
+ 
+True: k~e~s~i~m~Noun~A3pl~Pnon~Acc~</s> | Pred: k~e~s~i~m~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: y~u~Noun~A3sg~Pnon~Nom~</s> | Pred: y~u~Interj~</s>~Imp~</s>~</s> 
+ 
+True: d~a~n~ı~ş~Verb~Pos~Past~A2pl~</s> | Pred: d~a~n~ı~ş~DB~Verb~Pos~A2pl~</s> 
+ 
+True: e~l~e~ş~t~i~r~i~Noun~A3pl~P3sg~Abl~</s> | Pred: e~l~e~ş~t~i~r~i~Noun~A3pl~P3pl~Abl~</s> 
+ 
+True: t~a~r~z~b~e~y~a~n~a~t~Noun~A3pl~Pnon~Acc~</s> | Pred: t~a~r~z~z~e~y~a~n~a~a~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: h~a~t~ı~r~l~a~Verb~DB~Verb~Able~Neg~DB~Noun~PastPart~A3sg~P1sg~Nom~</s> | Pred: h~a~t~ı~r~l~a~Verb~DB~Verb~Able~Neg~DB~Adj~PastPart~P1sg~</s>~Nom~</s> 
+ 
+True: a~l~g~ı~l~a~Verb~Pos~DB~Noun~Inf2~A3sg~Pnon~Nom~</s> | Pred: a~l~g~ı~l~a~m~a~Noun~A3sg~Pnon~Nom~</s>~Nom~</s> 
+ 
+True: m~i~l~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: m~i~l~l~i~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: a~r~a~Verb~Pos~DB~Noun~PastPart~A3sg~P3pl~Nom~</s> | Pred: a~r~a~Verb~Pos~DB~Adj~PastPart~P3pl~</s>~Nom~</s> 
+ 
+True: h~a~z~ı~r~l~a~Verb~Pos~DB~Adj~PastPart~P2pl~</s> | Pred: h~a~z~ı~r~l~a~Verb~Pos~DB~Noun~PastPart~A3sg~P2pl 
+ 
+True: y~o~ğ~u~r~t~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: y~o~ğ~u~r~t~u~u~Noun~A3sg~Pnon~Nom~</s>~</s> 
+ 
+True: f~ı~r~ç~a~Noun~A3sg~Pnon~Nom~</s> | Pred: f~ı~r~ç~a~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: y~o~ğ~u~r~t~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: y~o~ğ~u~r~t~u~u~Noun~A3sg~Pnon~Nom~</s>~</s> 
+ 
+True: h~a~r~ç~Noun~A3sg~Pnon~Acc~</s> | Pred: h~a~r~ç~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: 5~x~5~Noun~A3sg~Pnon~Nom~</s> | Pred: 5~8~5~Num~Card~</s>~Nom~</s> 
+ 
+True: a~y~ı~r~Verb~Pos~Imp~A2pl~</s> | Pred: a~y~ı~r~Noun~A3sg~Pnon~Gen~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: a~l~e~v~i~Noun~A3sg~Pnon~Nom~</s> | Pred: a~l~e~v~i~Noun~P3sg~Nom~</s>~</s> 
+ 
+True: s~ü~n~n~i~Noun~A3sg~Pnon~Nom~</s> | Pred: s~ü~n~b~i~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: b~i~l~g~i~Noun~A3pl~P3sg~Nom~</s> | Pred: b~i~l~g~i~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: s~o~s~y~a~l~Noun~A3sg~Pnon~Nom~</s> | Pred: s~o~s~y~a~l~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: v~a~r~Verb~Pos~Narr~A3sg~DB~Adverb~AsIf~</s> | Pred: v~a~r~Verb~Neg~Narr~A3sg~DB~Adverb~AsIf~</s> 
+ 
+True: k~o~l~i~Noun~A3sg~Pnon~Gen~</s> | Pred: k~o~l~Noun~A3sg~P3sg~Gen~</s>~Gen 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: r~i~c~a~Noun~A3pl~P3pl~Nom~</s> | Pred: r~i~c~a~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: b~i~r~i~k~Verb~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3pl~Pnon~Dat~</s> | Pred: b~i~r~i~k~i~n~Postp~DB~DB~Zero~A3pl~Pnon~Dat~</s>~Dat~Dat 
+ 
+True: h~a~y~v~a~n~a~t~Noun~A3sg~Pnon~Nom~</s> | Pred: h~a~y~v~a~n~t~t~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: s~o~l~Noun~A3sg~Pnon~Loc~DB~Adj~Rel~DB~Noun~Zero~A3sg~Pnon~Gen~</s> | Pred: s~o~l~Noun~A3sg~P3sg~Loc~DB~Adj~Rel~DB~Noun~Zero~A3sg~Pnon~Gen~</s> 
+ 
+True: 1~0~/~7~Num~Ratio~</s> | Pred: 1~0~7~7~Num~Card~</s> 
+ 
+True: f~ı~n~d~ı~k~z~a~d~e~Noun~A3sg~Pnon~Nom~</s> | Pred: f~ı~n~d~ı~z~d~a~d~ı~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: e~k~s~i~l~Verb~Pos~Fut~Past~A3sg~</s> | Pred: e~k~s~i~Verb~Pos~Fut~Past~A3sg~</s>~</s> 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: o~l~u~ş~u~m~Noun~A3sg~Pnon~Nom~DB~Noun~Agt~A3pl~Pnon~Dat~</s> | Pred: o~l~u~ş~Verb~Pos~DB~Noun~Agt~A3pl~Pnon~Dat~</s>~</s>~Dat~</s>~Dat 
+ 
+True: d~e~r~t~Noun~A3sg~P1pl~Nom~</s> | Pred: d~e~r~Verb~Pos~Past~A1sg~</s>~Nom 
+ 
+True: s~a~b~r~e~t~Verb~Pos~Neces~A3sg~</s> | Pred: s~a~b~r~e~t~m~e~Neces~A3sg~A3sg 
+ 
+True: ç~i~p~Noun~A3sg~P1sg~Nom~</s> | Pred: ç~i~p~i~m~Noun~A3sg~Pnon 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: k~a~l~Verb~Pos~DB~Noun~FutPart~A3sg~P3sg~Nom~</s> | Pred: k~a~l~Verb~Pos~DB~Adj~FutPart~P3sg~</s>~Nom~</s> 
+ 
+True: g~i~r~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~</s> | Pred: g~i~r~Verb~Pos~DB~A3sg~Inf3~A3sg~</s>~Nom~</s> 
+ 
+True: b~a~r~b~u~Noun~A3sg~P2sg~Nom~</s> | Pred: b~a~r~b~u~n~Pnon~Gen~</s>~Nom 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: h~a~z~ı~r~o~l~Noun~A3sg~Pnon~Loc~</s> | Pred: h~a~z~ı~r~l~l~Noun~A3sg~Pnon~Loc~</s> 
+ 
+True: d~i~m~d~i~k~Noun~A3sg~Pnon~Nom~</s> | Pred: d~i~m~d~i~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: g~ö~r~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: g~ö~r~Verb~Pos~DB~Noun~PastPart~A3sg~</s>~Nom~</s> 
+ 
+True: e~v~r~e~n~s~e~l~Adj~</s> | Pred: e~v~r~e~n~s~e~l~Noun~A3sg 
+ 
+True: y~ö~n~e~t~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: y~ö~n~e~t~Verb~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: n~o~k~s~a~n~Adj~DB~Noun~Ness~A3sg~P3sg~Gen~</s> | Pred: n~o~k~s~a~n~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: k~a~n~u~n~i~Noun~A3sg~Pnon~Nom~</s> | Pred: k~a~n~u~n~Noun~A3sg~P3sg~Nom~</s>~</s> 
+ 
+True: s~a~r~ı~y~e~r~Noun~A3sg~Pnon~Nom~</s> | Pred: s~a~r~ı~y~e~r~Adverb~</s>~Pnon~Nom~</s> 
+ 
+True: u~y~g~u~l~a~Verb~Pos~DB~Noun~PastPart~A3pl~P3pl~Nom~</s> | Pred: u~y~g~u~l~a~Verb~Pos~DB~Noun~PastPart~A3sg~P3pl~Nom~</s> 
+ 
+True: i̇~n~t~e~r~p~o~l~Noun~A3sg~Pnon~Nom~</s> | Pred: i~n~t~e~r~p~o~l~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: i~s~i~m~Noun~A3pl~Pnon~Acc~</s> | Pred: i~s~i~m~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~ı~k~Verb~DB~Verb~Pass~Pos~Opt~A3sg~</s> | Pred: s~ı~k~ı~l~a~Adj~Noun~Zero~A3sg~Pnon 
+ 
+True: s~ı~k~Verb~DB~Verb~Pass~Pos~Opt~A3sg~</s> | Pred: s~ı~k~ı~l~a~Adj~Noun~Zero~A3sg~Pnon 
+ 
+True: d~ü~ş~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: d~ü~ş~Verb~Pos~DB~Adj~PastPart~A3sg~</s> 
+ 
+True: a~v~a~n~t~a~Noun~A3sg~Pnon~Nom~DB~Noun~Agt~A3pl~Pnon~Nom~DB~Verb~Zero~Pres~A2pl~</s> | Pred: a~v~a~n~t~a~c~Noun~A3pl~Nom~Nom~Nom~Noun~A3sg~P2pl~Nom~DB~Verb~Zero~A2pl~</s>~</s> 
+ 
+True: k~a~r~a~Noun~A3sg~Pnon~Nom~</s> | Pred: k~a~r~a~Adj~</s>~Dat~Nom~</s> 
+ 
+True: y~a~p~Verb~Pos~DB~Noun~PastPart~A3pl~P3pl~Nom~</s> | Pred: y~a~p~Verb~Pos~DB~Adj~PastPart~P3pl~</s>~</s>~</s> 
+ 
+True: e~s~a~s~Noun~A3pl~Pnon~Nom~</s> | Pred: e~s~a~s~Adj~DB~Noun~Zero~A3pl 
+ 
+True: a~s~Noun~A3sg~Pnon~Nom~DB~Adj~With~</s> | Pred: a~s~l~A3sg~Noun~Nom~DB~Adj~With~</s> 
+ 
+True: g~e~n~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~n~e~l~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: d~u~r~Noun~A3sg~Pnon~Nom~</s> | Pred: d~u~r~Noun~Pos~Pnon~Nom~</s> 
+ 
+True: d~u~r~Noun~A3sg~Pnon~Nom~</s> | Pred: d~u~r~Noun~Pos~Pnon~Nom~</s> 
+ 
+True: d~u~r~Noun~A3sg~Pnon~Nom~</s> | Pred: d~u~r~Noun~Pos~Pnon~Nom~</s> 
+ 
+True: t~e~k~i~r~d~a~ğ~Noun~A3sg~Pnon~Nom~</s> | Pred: t~e~k~i~r~d~a~k~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: b~a~l~ı~k~e~s~i~r~Noun~A3sg~Pnon~Acc~</s> | Pred: b~a~l~ı~k~e~t~e~r~Noun~A3sg~Pnon~Acc~</s> 
+ 
+True: y~a~l~a~n~l~a~Verb~DB~Verb~Pass~Pos~Narr~A1sg~</s> | Pred: y~a~l~a~n~l~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~Narr~A1sg 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: b~i~l~g~i~Noun~A3pl~Pnon~Acc~</s> | Pred: b~i~l~g~i~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: b~e~r~a~a~t~Noun~A3sg~P2pl~Acc~</s> | Pred: b~e~r~a~a~t~i~A3sg~P2pl~Acc~</s> 
+ 
+True: k~a~d~a~r~Postp~PCDat~DB~Noun~Zero~A3sg~Pnon~Acc~</s> | Pred: k~a~d~a~r~Postp~PCDat~DB~Noun~Zero~A3sg~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: s~a~y~ı~Noun~A3sg~P3sg~Nom~</s> | Pred: s~a~y~i~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: n~a~ç~i~z~a~n~e~Adj~</s> | Pred: n~a~ç~i~z~a~n~e~Noun~A3sg 
+ 
+True: s~e~a~n~s~Noun~A3sg~Pnon~Dat~</s> | Pred: s~e~a~n~s~A3sg~A3sg~Nom~DB~Verb 
+ 
+True: a~n~l~a~Verb~DB~Verb~Caus~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: a~n~l~a~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: i~ş~Noun~A3pl~Pnon~Acc~</s> | Pred: i~ş~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: m~e~c~z~u~p~Adj~DB~Noun~Zero~A3pl~Pnon~Nom~</s> | Pred: m~e~c~c~u~p~Noun~A3pl~Pnon~Nom~</s>~Pnon~Nom~</s> 
+ 
+True: s~u~b~a~ş~ı~Noun~A3sg~Pnon~Nom~</s> | Pred: s~u~b~a~ş~Noun~A3sg~P3sg~Nom~</s>~</s> 
+ 
+True: r~i~s~k~Noun~A3pl~P3pl~Acc~</s> | Pred: r~i~s~k~Noun~A3pl~P3sg~Acc~</s> 
+ 
+True: f~e~l~ç~Noun~A3sg~Pnon~Acc~</s> | Pred: f~e~l~ç~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: b~i~r~Num~Card~DB~Noun~Zero~A3sg~P3sg~Nom~DB~Verb~Zero~Cond~A2pl~</s> | Pred: b~i~r~i~y~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Cond~A2pl~</s>~</s>~Zero 
+ 
+True: d~a~n~ı~ş~Noun~A3sg~Pnon~Gen~</s> | Pred: d~a~n~ı~ş~Noun~Pos~Imp~A2pl~</s> 
+ 
+True: h~a~b~e~r~Noun~A3pl~Pnon~Acc~</s> | Pred: h~a~b~e~r~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: a~l~f~a~Noun~A3sg~Pnon~Nom~</s> | Pred: a~l~f~Noun~A3sg~Pnon~Dat~</s>~</s> 
+ 
+True: o~l~Verb~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~Verb~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: a~ş~k~Noun~A3sg~Pnon~Gen~</s> | Pred: a~ş~k~Noun~A3sg~Pnon~A3sg~</s> 
+ 
+True: b~e~l~i~r~l~e~Verb~Neg~DB~Noun~PastPart~A3pl~P3sg~Acc~</s> | Pred: b~e~l~i~r~l~e~Verb~Neg~DB~Noun~PastPart~A3pl~P3pl~Acc~</s> 
+ 
+True: a~ş~k~Noun~A3sg~Pnon~Gen~</s> | Pred: a~ş~k~Noun~A3sg~Pnon~A3sg~</s> 
+ 
+True: t~u~t~Verb~DB~Verb~Pass~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: t~u~t~Verb~DB~Verb~Pass~Pos~DB~Adj~PastPart~A3sg~</s>~Nom~</s> 
+ 
+True: ç~a~t~k~a~y~a~Noun~A3sg~Pnon~Nom~</s> | Pred: ç~a~t~k~a~Noun~A3sg~Pnon~Dat~</s>~Nom~</s> 
+ 
+True: o~n~b~e~ş~Num~Card~</s> | Pred: o~n~b~e~ş~Noun~A3sg~Pnon 
+ 
+True: b~i~r~l~i~k~t~e~Adverb~</s> | Pred: b~i~r~l~i~k~t~e~Postp~PCIns 
+ 
+True: b~a~s~Verb~DB~Verb~Caus~Pos~DB~Noun~PastPart~A3sg~P3sg~Nom~</s> | Pred: b~a~s~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P3sg~</s>~Nom~</s> 
+ 
+True: d~i~n~Noun~A3sg~Pnon~Acc~</s> | Pred: d~i~n~i~Adj~</s>~Acc~</s> 
+ 
+True: y~ı~k~a~Verb~DB~Verb~Pass~Pos~Fut~A3sg~</s> | Pred: y~ı~k~a~Verb~DB~Verb~Pass~Pos~DB~Adj~FutPart 
+ 
+True: i~l~k~Adverb~</s> | Pred: i~l~k~Adj~</s> 
+ 
+True: g~e~n~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~n~e~l~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: b~e~l~g~e~Noun~A3pl~Pnon~Acc~</s> | Pred: b~e~l~g~e~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: y~i~n~e~l~e~Verb~Pos~Aor~A3sg~</s> | Pred: y~i~n~e~Noun~A3pl~Pnon~Nom~</s>~Pnon~Nom 
+ 
+True: a~l~Verb~Pos~Imp~A2sg~</s> | Pred: a~l~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: b~a~k~i~Adj~DB~Noun~Zero~A3sg~P1sg~Nom~</s> | Pred: b~a~k~ı~m~Noun~A3sg~Pnon~Nom~</s>~Pnon~</s> 
+ 
+True: d~e~k~l~a~n~ş~ö~r~Noun~A3sg~Pnon~Dat~</s> | Pred: d~e~k~l~a~n~t~ö~r~e~Noun~A3sg~Pnon~Nom 
+ 
+True: y~a~p~Verb~Neg~DB~Adj~PastPart~P3sg~</s> | Pred: y~a~p~Verb~Neg~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: c~a~n~d~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: c~a~n~Noun~A3sg~Pnon~Abl~</s>~Pnon~Nom~</s> 
+ 
+True: ü~n~l~ü~Noun~A3pl~Pnon~Nom~</s> | Pred: ü~n~Noun~A3sg~Pnon~Nom~DB~Adj~With 
+ 
+True: m~e~r~a~k~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A1sg~</s> | Pred: m~e~r~a~k~Noun~A3sg~P1sg~Nom~</s>~Verb~Zero~Pres~A1sg~</s> 
+ 
+True: b~a~k~ı~n~Verb~Pos~Imp~A2sg~</s> | Pred: b~a~k~Verb~Pos~Imp~A2pl~</s>~Nom~</s> 
+ 
+True: ç~a~n~t~a~Noun~A3pl~P3sg~Nom~</s> | Pred: ç~a~n~t~a~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: b~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: b~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: s~e~v~Verb~Pos~DB~Adj~PastPart~P1sg~</s> | Pred: s~e~v~Verb~Pos~DB~Adj~PastPart~A3sg~P1sg 
+ 
+True: d~e~ğ~i~l~Conj~</s> | Pred: d~e~ğ~i~l~Verb~Neg 
+ 
+True: i~ç~i~n~Postp~PCGen~</s> | Pred: i~ç~i~n~Postp~PCNom~</s> 
+ 
+True: s~a~r~m~a~l~a~Verb~DB~Verb~Pass~Pos~DB~Noun~Inf2~A3sg~P2sg~Nom~</s> | Pred: s~a~r~m~a~l~a~Verb~DB~Verb~Pass~Neg~DB~Adj~PresPart~</s>~Nom~Nom~</s> 
+ 
+True: k~a~l~Verb~Pos~DB~Verb~Hastily~Narr~Past~A3pl~</s> | Pred: k~a~l~Verb~Pos~DB~Verb~Hastily~Narr~A3pl~</s>~</s> 
+ 
+True: s~e~v~Verb~Pos~DB~Adj~PastPart~P1sg~</s> | Pred: s~e~v~Verb~Pos~DB~Adj~PastPart~A3sg~P1sg 
+ 
+True: y~e~Verb~Pos~DB~Noun~FutPart~A3sg~P3sg~Nom~</s> | Pred: y~i~y~e~c~e~k~Noun~A3sg~P3sg~Nom 
+ 
+True: a~l~t~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A1sg~</s> | Pred: a~l~t~ı~m~Noun~A3sg~Pnon~Nom~</s>~Verb~Zero~</s> 
+ 
+True: y~a~n~l~ı~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~n~l~ı~ş~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: ç~o~c~u~k~Noun~A3pl~P3sg~Nom~</s> | Pred: ç~o~c~u~k~Noun~A3pl~Pnon~Acc~</s> 
+ 
+True: m~e~r~c~i~Noun~A3sg~P3sg~Gen~</s> | Pred: m~e~r~c~i~Noun~Noun~A3sg~Gen~</s> 
+ 
+True: b~a~l~ı~k~Noun~A3sg~Pnon~Nom~</s> | Pred: b~a~l~i~k~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: k~ü~ç~ü~k~Noun~A3sg~Pnon~Nom~</s> | Pred: k~ü~ç~ü~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: s~u~Noun~A3sg~Pnon~Nom~DB~Adj~Without~DB~Noun~Ness~A3sg~Pnon~Nom~</s> | Pred: s~u~s~A3sg~Pnon~Nom~DB~Adj~Without~DB~Noun~Ness~A3sg~Pnon~Nom~</s> 
+ 
+True: a~n~l~a~y~a~n~Noun~A3sg~Pnon~Nom~</s> | Pred: a~n~l~a~Verb~Pos~DB~Adj~PresPart~</s>~Nom~</s> 
+ 
+True: y~a~y~Verb~DB~Verb~Pass~Pos~DB~Adj~FutPart~Pnon~</s> | Pred: y~a~y~Verb~DB~Verb~Pass~Pos~Fut~A3sg~</s>~Pnon~</s> 
+ 
+True: e~d~e~r~Noun~A3sg~Pnon~Nom~</s> | Pred: e~t~Verb~Pos~Aor~A3sg~</s>~Nom~</s> 
+ 
+True: y~a~n~l~ı~ş~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~n~l~ı~ş~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: a~n~l~a~Verb~Neg~DB~Adj~PastPart~P3sg~</s> | Pred: a~n~l~a~Verb~Neg~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: t~a~m~Adverb~</s> | Pred: t~a~m~Adj~</s> 
+ 
+True: y~a~r~g~ı~t~a~y~Noun~A3sg~Pnon~Gen~</s> | Pred: y~a~r~g~ı~t~a~y~Pos~Imp~A2pl~</s>~Pnon 
+ 
+True: d~a~v~a~Noun~A3sg~Pnon~Acc~</s> | Pred: d~a~v~a~y~A3sg~Pnon~Acc~</s> 
+ 
+True: s~a~n~d~a~l~e~t~Noun~A3pl~Pnon~Nom~</s> | Pred: s~a~n~d~a~l~t~t~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: i~n~a~n~Verb~Pos~DB~Adj~PastPart~P1sg~</s> | Pred: i~n~a~n~Verb~Pos~DB~Noun~PastPart~A3sg~P1sg 
+ 
+True: a~c~i~l~e~n~Adverb~</s> | Pred: a~c~i~l~e~Verb~Pos~DB 
+ 
+True: m~i~l~l~i~Noun~A3sg~Pnon~Nom~</s> | Pred: m~i~l~l~i~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: e~k~Noun~A3sg~Pnon~Nom~</s> | Pred: e~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: e~s~a~s~Noun~A3pl~Pnon~Nom~</s> | Pred: e~s~a~s~Adj~DB~Noun~Zero~A3pl 
+ 
+True: e~k~Noun~A3sg~Pnon~Nom~</s> | Pred: e~k~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: ö~z~k~a~s~a~p~Noun~A3sg~Pnon~Nom~</s> | Pred: ö~z~k~a~p~a~p~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: t~ı~r~m~a~n~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Nom~DB~Noun~Agt~A3pl~Pnon~Nom~</s> | Pred: t~ı~r~m~a~n~Verb~Pos~DB~Noun~Agt~A3pl~Pnon~Nom~DB~Noun~Zero~A3pl~Pnon~Nom~</s> 
+ 
+True: u~ğ~r~a~ş~Noun~A3sg~Pnon~Gen~</s> | Pred: u~ğ~r~a~ş~Verb~Pos~Imp~A2pl~</s> 
+ 
+True: m~a~c~e~r~a~p~e~r~e~s~t~Adj~</s> | Pred: m~a~c~e~r~a~p~e~r~s~e~t~Noun~A3sg 
+ 
+True: m~i~l~l~i~Adj~</s> | Pred: m~i~l~l~i~Noun~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~DB~Noun~Zero~A3sg~Pnon~Nom~DB~Adj~Rel~</s> | Pred: s~o~n~r~a~Noun~A3sg~Pnon~Nom~DB~Adj~Rel~</s>~DB~Adj~Rel~</s> 
+ 
+True: k~e~ş~i~f~Noun~A3sg~Pnon~Acc~</s> | Pred: k~e~ş~i~f~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: b~e~r~a~b~e~r~Adj~</s> | Pred: b~e~r~a~b~e~r~Postp~PCIns 
+ 
+True: f~ı~r~s~a~t~Noun~A3pl~Pnon~Acc~</s> | Pred: f~ı~r~s~a~t~Noun~A3pl~Pnon~Nom~</s> 
+ 
+True: o~l~Verb~Pos~DB~Verb~Able~Aor~Narr~A1sg~</s> | Pred: o~l~Verb~Pos~DB~Verb~Able~Aor~A1sg~</s>~</s> 
+ 
+True: s~o~n~u~ç~Noun~A3pl~Pnon~Acc~</s> | Pred: s~o~n~u~ç~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: a~y~d~a~Noun~A3sg~Pnon~Nom~</s> | Pred: a~y~Noun~A3sg~Pnon~Loc~</s>~Nom~</s> 
+ 
+True: k~a~b~i~n~Noun~A3sg~Pnon~Dat~</s> | Pred: k~a~b~i~n~e~Noun~A3sg~Pnon~Nom 
+ 
+True: e~t~e~k~Noun~A3sg~Pnon~Acc~</s> | Pred: e~t~e~k~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: g~i~y~e~c~e~k~Noun~A3sg~Pnon~Nom~DB~Verb~Zero~DB~Adverb~While~</s> | Pred: g~i~y~e~c~e~k~e~e~Adverb~</s>~</s>~Nom~</s>~</s>~Adverb~</s>~</s> 
+ 
+True: o~l~d~u~u~u~u~Noun~A3sg~Pnon~Nom~</s> | Pred: o~l~Verb~Pos~Past~Noun~</s>~A3sg~P3sg~Nom~</s>~Verb 
+ 
+True: g~e~ç~e~n~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~ç~e~n~Adj~</s>~PresPart~</s>~</s> 
+ 
+True: b~a~r~a~c~u~Noun~A3sg~Pnon~Loc~</s> | Pred: b~a~r~a~c~a~Noun~A3sg~Pnon~Loc~</s> 
+ 
+True: y~a~r~d~ı~m~s~e~v~e~r~Adj~</s> | Pred: y~a~r~d~ı~m~s~e~v~e~r~Noun~A3sg 
+ 
+True: p~r~o~j~e~Noun~A3pl~Pnon~Acc~</s> | Pred: p~r~o~j~e~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: k~a~r~a~y~a~l~ç~ı~n~Noun~A3sg~Pnon~Nom~</s> | Pred: k~a~r~a~y~a~l~ç~ı~n~Adj~</s>~Pnon~Nom~</s> 
+ 
+True: ç~ö~p~l~ü~k~Noun~A3sg~P3sg~Nom~</s> | Pred: ç~ö~p~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: y~e~r~Noun~A3sg~P2sg~Loc~</s> | Pred: y~e~r~Noun~A3sg~P3sg~Loc~</s> 
+ 
+True: t~e~k~Adj~DB~Noun~Zero~A3sg~Pnon~Gen~</s> | Pred: t~e~k~Noun~A3sg~Pnon~Gen~</s>~Nom~</s>~</s> 
+ 
+True: i~ç~g~ü~d~ü~Noun~A3pl~P3pl~Abl~</s> | Pred: i~ç~g~ü~d~ü~Noun~A3pl~P3sg~Abl~</s> 
+ 
+True: d~o~k~u~n~Verb~Neg~Imp~A2pl~</s> | Pred: d~o~k~u~Verb~DB~Verb~Pass~Neg~Imp 
+ 
+True: e~l~ç~i~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg~P3sg~Abl~</s> | Pred: e~l~ç~i~l~i~k~Noun~A3sg~P3sg~Abl~</s>~P3sg~Abl~</s> 
+ 
+True: f~i~r~m~a~Noun~A3pl~Pnon~Acc~</s> | Pred: f~i~r~m~a~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: d~e~p~o~c~u~Noun~A3sg~Pnon~Nom~</s> | Pred: d~e~p~o~c~u~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: z~e~k~e~r~i~y~a~k~ö~y~Noun~A3sg~Pnon~Nom~</s> | Pred: z~e~k~e~r~i~y~a~y~e~a~Noun~A3sg~Pnon~Nom~</s> 
+ 
+True: s~a~t~Verb~Pos~DB~Noun~Inf3~A3sg~P3sg~Nom~</s> | Pred: s~a~t~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Acc~</s> 
+ 
+True: s~e~v~i~y~e~Noun~A3pl~P3pl~Dat~</s> | Pred: s~e~v~i~y~e~Noun~A3pl~P3sg~Dat~</s> 
+ 
+True: g~ö~r~ü~n~t~ü~Noun~A3pl~Pnon~Acc~</s> | Pred: g~ö~r~ü~n~t~ü~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: b~a~ş~l~a~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P3pl~</s> | Pred: b~a~ş~l~a~Verb~DB~Verb~Caus~Pos~DB~Noun~PastPart~A3pl~</s> 
+ 
+True: t~e~k~e~l~Noun~A3sg~Pnon~Dat~</s> | Pred: t~e~k~e~l~e~Noun~Pnon~Dat~Nom 
+ 
+True: g~ğ~ö~s~t~e~r~e~r~e~k~Noun~A3sg~Pnon~Nom~</s> | Pred: g~ö~ğ~s~e~r~Verb~Pos~DB~Adverb~ByDoingSo~</s>~</s>~Nom~</s>~Adverb 
+ 
+True: k~a~y~Verb~Pos~DB~Noun~FutPart~A3sg~P3sg~Nom~</s> | Pred: k~a~y~a~c~a~k~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: e~s~k~i~Adj~DB~Noun~Zero~A3pl~P3sg~Nom~</s> | Pred: e~s~k~i~Adj~DB~Noun~Zero~A3pl~P3pl~Nom~</s> 
+ 
+True: e~l~e~Verb~DB~Verb~Pass~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: e~l~e~n~DB~Verb~Pass~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: m~ü~h~e~n~d~i~s~l~i~ğ~Noun~A3sg~P3sg~Abl~</s> | Pred: m~ü~h~e~n~d~i~s~Noun~A3sg~Pnon~Nom~DB~Noun~Ness~A3sg 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: ş~u~Pron~Demons~A3sg~Pnon~Nom~</s> | Pred: ş~u~Det~</s>~A3sg~Pnon~Nom~</s> 
+ 
+True: o~l~u~ş~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~u~ş~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~A3sg~</s> 
+ 
+True: a~t~Verb~Pos~Opt~A1pl~</s> | Pred: a~t~a~Pos~Opt~A1pl~</s> 
+ 
+True: d~e~ğ~i~l~Verb~Neg~Pres~A3pl~</s> | Pred: d~e~ğ~i~l~Verb~e~Verb~Pos~Aor 
+ 
+True: s~a~t~Verb~Pos~DB~Noun~Inf3~A3sg~P3sg~Nom~</s> | Pred: s~a~t~Verb~Pos~DB~Noun~Inf3~A3sg~Pnon~Acc~</s> 
+ 
+True: b~i~l~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: b~i~l~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Noun~PastPart~A3sg~P3sg 
+ 
+True: f~a~a~l~i~y~e~t~Noun~A3pl~Pnon~Acc~</s> | Pred: f~a~a~l~i~y~e~t~Noun~A3pl~P3pl~Nom~</s> 
+ 
+True: y~a~v~a~ş~l~a~Verb~Pos~Desr~A3sg~</s> | Pred: y~a~v~a~ş~Adj~DB~Verb~Zero~Desr~A3sg~</s> 
+ 
+True: y~a~r~a~r~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~Fut~A3sg~</s> | Pred: y~a~r~a~r~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~DB~Adj~FutPart 
+ 
+True: i~n~a~n~Verb~Neg~Fut~Past~A2sg~</s> | Pred: i~n~a~n~Verb~Neg~Fut~A2sg~</s>~</s> 
+ 
+True: k~a~l~d~ı~r~Verb~DB~Verb~Pass~Pos~Prog1~A3sg~</s> | Pred: k~a~l~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~Prog1~A3sg~</s> 
+ 
+True: g~e~ç~Verb~Pos~DB~Adj~PresPart~</s> | Pred: g~e~ç~e~n~Adj~</s>~PresPart~</s> 
+ 
+True: g~e~n~e~l~Noun~A3sg~Pnon~Nom~</s> | Pred: g~e~n~e~l~Noun~</s>~Pnon~Nom~</s> 
+ 
+True: b~i~t~Verb~DB~Verb~Caus~Pos~DB~Noun~Inf2~A3pl~P3sg~Nom~</s> | Pred: b~i~t~Verb~DB~Verb~Caus~Pos~DB~Noun~Inf2~A3pl~P3pl~Nom~</s> 
+ 
+True: a~v~u~r~u~p~Noun~A3sg~Pnon~Dat~</s> | Pred: a~v~u~r~Verb~Pos~DB~Adverb~</s>~</s>~Adverb 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: ö~n~c~e~Postp~PCAbl~DB~Noun~Zero~A3sg~Pnon~Nom~DB~Adj~Rel~</s> | Pred: ö~n~c~e~Noun~A3sg~Pnon~Nom~DB~Adj~Rel~</s>~DB~Adj~Rel~</s> 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: g~e~n~e~l~Adj~</s> | Pred: g~e~n~e~l~Noun~</s> 
+ 
+True: s~e~l~i~n~Noun~A3sg~Pnon~Nom~</s> | Pred: s~e~l~Noun~n~Noun~Gen~</s>~Nom~</s> 
+ 
+True: y~ü~z~Noun~A3sg~Pnon~Loc~</s> | Pred: y~ü~z~d~e~Noun~A3sg~Pnon 
+ 
+True: s~a~t~Verb~Pos~DB~Noun~Agt~A3sg~Pnon~Nom~</s> | Pred: s~a~t~ı~Pos~DB~Noun~Agt~A3sg~Nom~Nom~</s> 
+ 
+True: a~r~d~a~r~d~a~Adverb~</s> | Pred: a~r~d~a~r~Noun~A3sg~Pnon~Loc 
+ 
+True: t~a~ş~ı~Verb~DB~Verb~Able~Neg~Fut~A3sg~</s> | Pred: t~a~ş~ı~Verb~DB~Verb~Able~Neg~DB~Adj~FutPart 
+ 
+True: d~ö~n~ü~ş~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Verb~Able~Prog2~A3sg~Cop~</s> | Pred: d~ö~n~ü~ş~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Verb~Able~DB~Noun~Inf1~A3sg 
+ 
+True: z~o~r~Adj~DB~Noun~Zero~A3sg~Pnon~Dat~</s> | Pred: z~o~r~a~DB~Noun~Zero~A3sg~Pnon~Dat~</s> 
+ 
+True: d~e~ğ~e~r~Noun~A3sg~Pnon~Acc~</s> | Pred: d~e~ğ~e~r~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: s~t~o~k~Noun~A3sg~P1sg~Loc~DB~Verb~Zero~Past~A3sg~</s> | Pred: s~t~o~ğ~u~m~Noun~A3sg~Pnon~Loc~DB~Verb~Zero~Past 
+ 
+True: t~ü~k~e~t~i~m~Noun~A3sg~P3sg~Nom~</s> | Pred: t~ü~k~e~t~i~m~Noun~A3sg~Pnon~Acc~</s> 
+ 
+True: y~e~t~Verb~Neg~Aor~A3sg~</s> | Pred: y~e~t~Verb~e~z~Noun~A3sg 
+ 
+True: v~a~r~Verb~Pos~Past~A3sg~</s> | Pred: v~a~r~Adj~DB~Verb~Zero~Past 
+ 
+True: b~e~y~a~z~Adj~</s> | Pred: b~e~y~a~z~Noun~A3sg 
+ 
+True: e~t~Verb~Pos~DB~Noun~FutPart~A3sg~P3sg~Nom~</s> | Pred: e~t~Verb~Pos~DB~Adj~FutPart~A3sg~P3sg~Nom~</s> 
+ 
+True: s~o~s~Noun~A3sg~Pnon~Acc~</s> | Pred: s~o~s~Noun~A3sg~P3sg~Nom~</s> 
+ 
+True: t~u~z~Noun~A3pl~P3pl~Nom~</s> | Pred: t~u~z~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: d~ö~n~ü~ş~Verb~DB~Verb~Caus~Pos~DB~Noun~Inf2~A3pl~P3pl~Nom~</s> | Pred: d~ö~n~ü~ş~Verb~DB~Verb~Caus~Pos~DB~Noun~Inf2~A3pl~P3sg~Nom~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: o~l~u~ş~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~P3sg~</s> | Pred: o~l~u~ş~Verb~DB~Verb~Caus~Pos~DB~Adj~PastPart~A3sg~</s> 
+ 
+True: s~o~n~r~a~Postp~PCAbl~</s> | Pred: s~o~n~r~a~Adverb~</s>~</s> 
+ 
+True: s~o~y~Verb~Pos~DB~Noun~Inf2~A3sg~Pnon~Abl~</s> | Pred: s~o~y~Verb~Pos~DB~Adverb~WithoutHavingDoneSo~</s>~Pnon~Abl~</s> 
+ 
+True: e~t~Verb~Pos~DB~Adverb~AfterDoingSo~</s> | Pred: e~t~Verb~Pos~DB~Adverb~Pnon~Nom 
+ 
+True: t~a~t~l~a~n~Verb~DB~Verb~Caus~Pos~DB~Noun~Agt~A3sg~Pnon~Acc~</s> | Pred: t~a~t~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~DB~Verb~Caus~Pos~DB~Noun~Agt~A3sg 
+ 
+True: a~n~j~e~l~i~u~e~Noun~A3sg~Pnon~Nom~</s> | Pred: a~n~j~e~l~i~Noun~Noun~A3sg~P3sg~Dat~</s>~</s> 
+ 
+True: k~u~l~ü~p~Noun~A3pl~P3pl~Abl~</s> | Pred: k~u~l~ü~p~Noun~A3pl~P3sg~Abl~</s> 
+ 
+True: y~a~l~ı~n~Noun~A3sg~Pnon~Nom~</s> | Pred: y~a~l~Noun~A3sg~Pnon~</s>~</s>~Nom~</s> 
+ 
+True: s~o~n~e~r~Noun~A3sg~Pnon~Nom~</s> | Pred: s~o~n~e~r~Postp~</s>~</s>~Nom~</s> 
+ 
+True: h~i~j~y~e~n~i~k~Adj~</s> | Pred: h~i~y~n~e~n~i~k~Adj~</s> 
+ 
+True: ü~r~e~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~DB~Adj~NarrPart~</s> | Pred: ü~r~e~Verb~DB~Verb~Caus~DB~Verb~Pass~Pos~Narr~A3sg~</s>~</s> 
+ 
+True: ç~o~k~Det~</s> | Pred: ç~o~k~Adverb~</s> 
+ 
+True: y~o~ğ~u~r~t~Noun~A3sg~Pnon~Nom~</s> | Pred: y~o~ğ~u~r~Verb~DB~Verb~Caus~Pos~Imp 
+ 
+True: y~o~ğ~u~r~t~Noun~A3sg~Pnon~Nom~</s> | Pred: y~o~ğ~u~r~Verb~DB~Verb~Caus~Pos~Imp 
+ 
+True: h~a~z~ı~r~l~a~Verb~DB~Verb~Reflex~Pos~DB~Adj~PresPart~DB~Noun~Zero~A3sg~Pnon~Nom~DB~Verb~Zero~Pres~A3pl~Cop~</s> | Pred: h~a~z~ı~r~l~a~Verb~DB~Verb~Pass~Pos~Aor~A3pl~Cop~</s>~DB~Zero~Pres~A3pl~Cop~</s>~</s>~Zero~Pres~A3sg~Cop~</s> 
+ 
+True: b~i~l~g~i~Noun~A3sg~Pnon~Nom~DB~Verb~Acquire~Pos~DB~Noun~Inf2~A3sg~Pnon~Nom~</s> | Pred: b~i~l~g~i~l~e~Verb~DB~Verb~DB~Noun~Inf2~A3sg~Pnon~Nom~</s>~Nom~</s>~Nom 
+ 
+True: t~u~r~p~Noun~A3pl~Pnon~Acc~</s> | Pred: t~u~r~p~Noun~A3pl~P3sg~Nom~</s> 
+ 
+True: t~u~z~Noun~A3sg~Pnon~Acc~</s> | Pred: t~u~z~Noun~A3sg~P3sg~Nom~</s> 
+ 
