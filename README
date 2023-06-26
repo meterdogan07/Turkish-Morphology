@@ -15,16 +15,11 @@ The repository has the following structure:
 	-one_shot_learning
 
 
-data: Includes the TrMor2018 dataset, together with the statistics extraction and train-val-test splitting code.
-
-evaluations: Includes the codes that calculates the evaluation metrics using the test set outputs.
-
-non_context_baselines: Includes the codes for our baselines, LSTM, LSTM with Attention and Transformer.
-
-contextual_transformer: Includes the contextual Transformer model.
-
-prefix_tuning: Includes the contextual and non-contextual prefix-tuning method.
-
-one_shot_learning: Includes the codes that use ChatGPT API for one-shot learning.
+- data: Includes the TrMor2018 dataset, together with the statistics extraction and train-val-test splitting code.
+- evaluations: Includes the codes that calculates the evaluation metrics using the test set outputs.
+- non_context_baselines: Includes the codes for our baselines, LSTM, LSTM with Attention and Transformer.
+- contextual_transformer: Includes the contextual Transformer model.
+- prefix_tuning: Includes the contextual and non-contextual prefix-tuning method.
+- one_shot_learning: Includes the codes that use ChatGPT API for one-shot learning.
 
 
