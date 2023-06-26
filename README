@@ -14,7 +14,6 @@ The repository has the following structure:
 		-contextual_transformer
 	-one_shot_learning
 
-
 - data: Includes the TrMor2018 dataset, together with the statistics extraction and train-val-test splitting code.
 - evaluations: Includes the codes that calculates the evaluation metrics using the test set outputs.
 - non_context_baselines: Includes the codes for our baselines, LSTM, LSTM with Attention and Transformer.
